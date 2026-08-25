@@ -1,5 +1,3 @@
-# SPEEDY_access
-
 # SPEEDY–ACCESS-OM2 Coupling
 
 This repository contains the development work for coupling the SPEEDY atmospheric general circulation model with the ocean and sea-ice components of ACCESS-OM2.
