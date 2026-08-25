@@ -1,24 +1,16 @@
 # SPEEDY–ACCESS-OM2 Coupling
 
-This repository contains the development work for coupling the SPEEDY atmospheric general circulation model with the ocean and sea-ice components of ACCESS-OM2.
+This repository contains the development work for coupling the SPEEDY Intermediate complexity AGCM with ACCESS-OM2.
 
-The long-term objective is to develop a computationally efficient coupled climate model of intermediate complexity:
+The long-term objective is to develop a computationally efficient coupled climate model of intermediate complexity - CMIC:
 
 ```text
-SPEEDY atmosphere
-        ↕
-      OASIS
-        ↕
-MOM ocean + CICE sea ice
+       SPEEDY atmosphere
+              ↕
+            OASIS
+              ↕
+MOM ocean ↔ OASIS ↔ CICE sea ice
 ```
-
-Development is performed incrementally. Before implementing online atmosphere–ocean coupling, SPEEDY is first used to generate atmospheric forcing compatible with the existing ACCESS-OM2/YATM forcing interface.
-
----
-
-## 1. Development strategy
-
-The coupling is developed in two stages.
 
 ### Stage 1 — Offline SPEEDY forcing
 
@@ -68,112 +60,17 @@ After the offline forcing configuration has been validated, the file-based inter
                  └──────┬──────┘
                         │
                         ▼
-                 ┌─────────────┐
-                 │ MOM + CICE  │
-                 └──────┬──────┘
+                 ┌─────────────────────┐
+                 │ MOM + OASIS + CICE  │
+                 └──────┬──────────────┘
                         │
                    SST / sea ice
                         │
                         └──────────────► SPEEDY
 ```
 
-This is the target coupled model.
 
----
-
-# 2. SPEEDY configuration
-
-The current SPEEDY configuration uses T30 horizontal resolution.
-
-Relevant time-stepping parameters are stored in:
-
-```text
-cls_instep.h
-```
-
-The standard configuration examined here contains:
-
-```fortran
-NMONTS = 3
-NDAYSL = 0
-NSTEPS = 36
-
-NSTDIA = 36*5
-NSTPPR = 6
-NSTOUT = -1
-IDOUT  = 0
-NMONRS = 3
-```
-
-## Atmospheric timestep
-
-There are 36 model timesteps per day:
-
-```text
-24 h / 36 = 40 min
-```
-
-Therefore:
-
-```text
-1 SPEEDY timestep = 40 min
-```
-
-The ACCESS-OM2 JRA55-do forcing currently used by YATM has a 6-hourly temporal resolution.
-
-Six hours correspond to:
-
-```text
-6 h × 60 min / 40 min = 9 SPEEDY timesteps
-```
-
-For the SPEEDY forcing experiment, the post-processing interval is therefore changed from:
-
-```fortran
-NSTPPR = 6
-```
-
-to:
-
-```fortran
-NSTPPR = 9
-```
-
-**Important:** this parameter controls the post-processing interval. It must still be verified whether changing `NSTPPR` alone produces the required 6-hourly records or whether a separate output routine must be added.
-
----
-
-# 3. SPEEDY sea-surface configuration
-
-Two SPEEDY configurations have been examined.
-
-## Standard/uncoupled SPEEDY
-
-```fortran
-ICSEA  = 0
-ICICE  = 1
-ISSTAN = 1
-```
-
-In this configuration SST is externally prescribed.
-
-## Existing SPEEDY–NEMO coupled version
-
-The existing coupled version uses:
-
-```fortran
-ICSEA  = 3
-ICICE  = 1
-ISSTAN = 0
-```
-
-`ICSEA = 3` activates the configuration in which the SST anomaly is supplied by the coupled ocean model and combined with the observed SST climatology.
-
-This existing implementation is an important reference for the future online SPEEDY–ACCESS-OM2 coupling.
-
----
-
-# 4. Atmospheric fields required by ACCESS-OM2
+## Atmospheric fields required by ACCESS-OM2
 
 The current ACCESS-OM2 RYF configuration supplies the following atmospheric fields through YATM:
 
@@ -191,11 +88,10 @@ The current ACCESS-OM2 RYF configuration supplies the following atmospheric fiel
 | `friver`         | `runof_ai`          | river runoff                   |
 | `licalvf`        | `licalvf_ai`        | land-ice runoff                |
 
-The last two fields are land/runoff forcing rather than atmospheric fields and can initially remain derived from the existing ACCESS-OM2 forcing dataset.
+The last two fields are land/runoff forcing rather than atmospheric fields and can
+initially remain derived from the existing ACCESS-OM2 forcing dataset.
 
----
-
-# 5. Available SPEEDY output fields
+## Available SPEEDY output fields
 
 The standard SPEEDY atmospheric output contains, among others:
 
@@ -229,97 +125,8 @@ The preliminary SPEEDY → ACCESS-OM2 mapping is:
 
 For the first forcing experiment, fields not yet available from SPEEDY may temporarily remain from JRA55-do. This allows the forcing pipeline to be validated incrementally.
 
----
 
-# 6. Running SPEEDY
-
-Experiments are launched from the `run` directory using:
-
-```bash
-./run_exp.s t30 <experiment_number> 0
-```
-
-Example:
-
-```bash
-./run_exp.s t30 101 0
-```
-
-The script interactively asks whether model parameters should be modified.
-
-For the 6-hourly forcing experiment:
-
-```text
-Do you want to modify the time-stepping parameters (y/n)?
-y
-```
-
-The editable parameter file is:
-
-```text
-cls_instep.h
-```
-
-Set:
-
-```fortran
-NSTPPR = 9
-```
-
-The remaining parameter groups can initially be left unchanged.
-
----
-
-# 7. Compilation environment
-
-The original SPEEDY makefile may attempt to compile the model using the PGI compiler:
-
-```text
-pgf90
-```
-
-If the compiler is unavailable, compilation terminates with:
-
-```text
-make: pgf90: Command not found
-```
-
-followed by:
-
-```text
-./imp.exe: not found
-```
-
-The latter error is a consequence of the failed compilation rather than an independent runtime problem.
-
-The repository also contains alternative makefiles:
-
-```text
-makefile
-makefile_ifort
-makefile_pgf90
-```
-
-The compiler configuration appropriate for the target HPC system must therefore be selected before building SPEEDY.
-
-### Environment diagnostics
-
-Before compiling on a new system, record:
-
-```bash
-hostname
-module list
-which pgf90
-which ifort
-which ifx
-which gfortran
-```
-
-The exact compiler/module configuration used on Leonardo should be documented here once recovered.
-
----
-
-# 8. Current development status
+## Current development status
 
 Completed:
 
@@ -351,23 +158,6 @@ Next:
 * [ ] validate the resulting ocean/sea-ice simulation;
 * [ ] replace the file-based interface with online OASIS coupling.
 
----
-
-# 9. Reproducibility notes
-
-Every non-default modification should be committed separately.
-
-Recommended workflow:
-
-```bash
-git status
-git diff
-
-git add <modified_files>
-git commit -m "Set SPEEDY post-processing interval to 6 hours"
-```
-
-Do not combine unrelated compiler, physics, forcing and coupling modifications into one commit.
 
 For every successful HPC build, record:
 
@@ -384,24 +174,4 @@ git commit:
 
 This information is essential for reproducing the model on another machine.
 
----
 
-# 10. Development principle
-
-The existing ACCESS-OM2 ocean/sea-ice configuration should remain unchanged for the initial forcing experiments.
-
-The first interface is deliberately:
-
-```text
-SPEEDY
-   ↓
-JRA55-like forcing files
-   ↓
-existing YATM
-   ↓
-existing OASIS configuration
-   ↓
-existing MOM/CICE
-```
-
-Only after this configuration works and has been validated should direct online atmosphere–ocean coupling be introduced.
