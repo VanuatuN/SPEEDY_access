@@ -1,0 +1,27 @@
+# Large model/data files
+*.nc
+*.grd
+*.ctl
+
+# Build products
+*.o
+*.mod
+*.exe
+
+# Fortran runtime files
+fort.*
+
+# Logs
+*.lis
+
+# Editor backups
+*~
+
+# Generated runtime directories
+tmp/
+output/
+# Jupyter
+.ipynb_checkpoints/
+
+# SPEEDY restart files
+*.rst
