@@ -14,7 +14,7 @@ NMONTS = 36 (length of integration -> 3 years)
 3. Forcing fiels for ACCESS-OM2 are currently stored in the `access_forcing` folder
 
 **SPEEDY output check**
-
+![Global mean SPEEDY temperature](../scripts/figures/sp_T30_globT_1989_1991_6h.png)
 
 4. Comparison of JRA55 RYF (May 1990 – May 1991) forcing with SPEEDY
 
