@@ -1,4 +1,4 @@
-### SPEEDY adjustments
+### SPEEDY adjustments and plots
 
 Modifications made to the original SPEEDY configuration for producing atmospheric forcing for ACCESS-OM2.
 
@@ -12,6 +12,10 @@ NMONTS = 36 (length of integration -> 3 years)
 ```
 2. RYF files produced with `scripts/access_forcing/speedy_forcing_accessom2.ipynb`
 3. Forcing fiels for ACCESS-OM2 are currently stored in the `access_forcing` folder
+
+**SPEEDY output check**
+![Global mean SPEEDY temperature](../scripts/figures/sp_T30_globT_1989_1991_6h.png)
+
 
 
 
