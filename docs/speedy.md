@@ -22,9 +22,15 @@ Notebook: `scripts/diagnostics/compare_jra_speedy_forcing_1989.ipynb`
 
 | [°K]  | JRA55 T | SPEEDY  |
 |-----------|--------------:|---------------:|
-| Mean      | 278.27        | 277.92         |
-| Min       | 237.09        | 240.84         |
-| Max       | 320.49        | 307.65         |
+| Mean      | 14.8        | 15.80         |
+| Min       | 12.45        | 13.76         |
+| Max       | 17.09        | 17.66         |
+
+![Global mean SPEEDY temperature](../scripts/figures/diff_annual_mean_T_1989_1991_6h.png)
+
+5. Annual cycle
+
+![Global mean SPEEDY temperature](../scripts/figures/global_mean_T_timeseries_1989_1991.png)
 
 
 
