@@ -29,8 +29,9 @@ Notebook: `scripts/diagnostics/compare_jra_speedy_forcing_1989.ipynb`
 ![Global mean SPEEDY temperature](../scripts/figures/diff_annual_mean_T_1989_1991_6h.png)
 
 5. Annual cycle
-6. 
+
 Notebook: `scripts/diagnostics/compare_jra_speedy_forcing_1989.ipynb`
+
 ![Global mean SPEEDY temperature](../scripts/figures/global_mean_T_timeseries_1989_1991.png)
 
 
