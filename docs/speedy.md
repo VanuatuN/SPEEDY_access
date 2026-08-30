@@ -16,9 +16,15 @@ NMONTS = 36 (length of integration -> 3 years)
 **SPEEDY output check**
 ![Global mean SPEEDY temperature](../scripts/figures/sp_T30_globT_1989_1991_6h.png)
 
+4. Comparison of JRA55 RYF (May 1990 – May 1991) forcing with SPEEDY
 
+Notebook: `scripts/diagnostics/compare_jra_speedy_forcing_1989.ipynb`
 
-
+| [°K]  | JRA55 T | SPEEDY  |
+|-----------|--------------:|---------------:|
+| Mean      | 278.27        | 277.92         |
+| Min       | 237.09        | 240.84         |
+| Max       | 320.49        | 307.65         |
 
 
 
