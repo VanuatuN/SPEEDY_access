@@ -28,11 +28,19 @@ Notebook: `scripts/diagnostics/compare_jra_speedy_forcing_1989.ipynb`
 
 ![Global mean SPEEDY temperature](../scripts/figures/diff_annual_mean_T_1989_1991_6h.png)
 
-5. Annual cycle
+5. Annual cycle T
 
 Notebook: `scripts/diagnostics/compare_jra_speedy_forcing_1989.ipynb`
 
 ![Global mean SPEEDY temperature](../scripts/figures/global_mean_T_timeseries_1989_1991.png)
+
+6. Wind
+
+![Global mean SLP](../scripts/figures/diff_annual_mean_wind_speed_1990.png)
+
+7. Sea Level Pressure
+
+![Global mean WIND](../scripts/figures/diff_annual_mean_mslp_1990.png)
 
 
 
