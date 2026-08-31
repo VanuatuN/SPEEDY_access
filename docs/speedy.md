@@ -20,7 +20,7 @@ NMONTS = 36 (length of integration -> 3 years)
 
 Notebook: `scripts/diagnostics/compare_jra_speedy_forcing_1989.ipynb`
 
-| [°K]  | JRA55 T | SPEEDY  |
+| [°K]  | JRA55 T | SPEEDY Near Surface Air Temp (!) |
 |-----------|--------------:|---------------:|
 | Mean      | 14.8        | 15.80         |
 | Min       | 12.45        | 13.76         |
