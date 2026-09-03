@@ -46,5 +46,18 @@ Notebook: `scripts/diagnostics/compare_jra_speedy_forcing_1989.ipynb`
 
 ![Global mean WIND](../scripts/figures/diff_annual_mean_mslp_1990.png)
 
+8. Surface downward radiation output changes
+   
+Two additional radiation diagnostics were added to the time-mean output for compatibility with ACCESS-OM2 forcing:
+
+- `SSRD` — surface downwelling shortwave radiation → `rsds`
+- `SLRD` — surface downwelling longwave radiation → `rlds`
+
+Changes:
+
+- `par_tmean.h`: increased `NS2D_2` from 12 to 14.
+- `ppo_dmflux.f`: added `SSRD` and `SLRD` to `SAVE2D_2` as fields 13 and 14.
+- `ppo_setctl.f`: added `SSRD` and `SLRD` descriptions to the output `.ctl`.
+
 
 
