@@ -3,6 +3,10 @@
 Modifications made to the original SPEEDY configuration for producing atmospheric forcing for ACCESS-OM2.
 
 Current SPEEDY run launched as: `./run_exp.s t30 101 0`
+Emacs:
+switch between buffers: Ctrl+x b
+save: Ctrl+x Ctrl+s
+exit: Ctrl+x Ctrl+c
 
 1. time-stepping parameters in ver41.input/cls_instep.h:
 ```text
