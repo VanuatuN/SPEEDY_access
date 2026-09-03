@@ -59,5 +59,15 @@ Changes:
 - `ppo_dmflux.f`: added `SSRD` and `SLRD` to `SAVE2D_2` as fields 13 and 14.
 - `ppo_setctl.f`: added `SSRD` and `SLRD` descriptions to the output `.ctl`.
 
+9. Precipitation and snowfall
+
+SPEEDY provides large-scale (`PRECLS`) and convective (`PRECNV`) precipitation: `PREC = PRECLS + PRECNV`
+
+Total snowfall (`SNOW`) was added as a diagnostic in `ppo_dmflux.f`, without modifying the precipitation physics:
+
+`SNOW = PREC` for `TS < 273.15 K`, otherwise `SNOW = 0`.
+
+10. SPEEDY does not provide river runoff/routing, so `friver` (and `licalvf`) will remain from JRA55-do for the initial hybrid forcing experiments.
+
 
 
