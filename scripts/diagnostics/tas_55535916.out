@@ -1,0 +1,28 @@
+NODE: lrdn4058.leonardo.local
+CONDA_PREFIX: /leonardo/home/userexternal/ntilinin/.conda/envs/ocean
+PYTHON: /leonardo/home/userexternal/ntilinin/.conda/envs/ocean/bin/python
+Python 3.11.5
+prefix: /leonardo/home/userexternal/ntilinin/.conda/envs/ocean
+platform: /leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/platform.py
+xarray/pandas/dask OK
+JRA files: 3
+SPEEDY files: 3
+JRA: 1989-01-01T00:00:00.000000000 to 1991-12-31T21:00:00.000000000 | 8760 steps
+SPEEDY: 1989-01-01 00:00:00 to 1991-12-31 18:00:00 | 4380 steps
+
+Computing 1989–1991 mean fields...
+JRA mean done
+SPEEDY mean done
+Interpolating SPEEDY mean -> JRA grid...
+Saved: /leonardo_scratch/fast/ICT26_ESP/ntilinin/SPEEDY_access/scripts/figures/diff_annual_mean_T_1989_1991_tt.png
+
+Computing area-weighted global-mean temperature for 1990...
+JRA global mean done
+SPEEDY global mean done
+Saved: /leonardo_scratch/fast/ICT26_ESP/ntilinin/SPEEDY_access/scripts/figures/global_mean_T_timeseries_1990_tt.png
+
+1990 global-mean temperature statistics [°C]
+JRA55 : {'Mean': 14.880599089160786, 'Min': 12.451156516763547, 'Max': 17.09059659536024}
+SPEEDY: {'Mean': 15.800198482043342, 'Min': 13.767844083465775, 'Max': 17.66848711964292}
+
+DONE

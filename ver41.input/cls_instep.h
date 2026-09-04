@@ -4,11 +4,11 @@ C--   Length of the integration and time stepping constants (common ISTEPS)
       NMONTS = 36
 
       NDAYSL = 0
-      NSTEPS = 36
+      NSTEPS = 48
 
-      NSTDIA = 36*5
+      NSTDIA = 48*5
       NSTPPR = 6
-      NSTOUT = 9
+      NSTOUT = 6
       IDOUT  = 0
       NMONRS = 3
 
@@ -16,7 +16,7 @@ C--   Length of the integration and time stepping constants (common ISTEPS)
       IYEAR0 = 1989
       IMONT0 = 1
 
-      NSTRAD = 3
+      NSTRAD = 4
       NSTRDF = 0
       INDRDF = 1
 
@@ -24,6 +24,7 @@ C--   Length of the integration and time stepping constants (common ISTEPS)
       ICSEA  = 0
       ICICE  = 1
       ISSTAN = 1
+  
 
       ISSTY0 = 1854
       ISST0  = (IYEAR0-ISSTY0)*12+IMONT0
