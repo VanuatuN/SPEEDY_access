@@ -30,7 +30,7 @@ Notebook: `scripts/diagnostics/compare_jra_speedy_forcing_1989.ipynb`
 | Min       | 12.45        | 13.76         |
 | Max       | 17.09        | 17.66         |
 
-![Global mean SPEEDY temperature](../scripts/figures/diff_annual_mean_T_1989_1991_6h.png)
+![Global mean SPEEDY temperature](../scripts/figures/diff_annual_mean_T_1989_1991.png)
 
 **5.** Annual cycle T
 
@@ -58,6 +58,9 @@ Changes:
 - `par_tmean.h`: increased `NS2D_2` from 12 to 14.
 - `ppo_dmflux.f`: added `SSRD` and `SLRD` to `SAVE2D_2` as fields 13 and 14.
 - `ppo_setctl.f`: added `SSRD` and `SLRD` descriptions to the output `.ctl`.
+
+![Surface LR](../scripts/figures/diff_annual_mean_RLDS_1990.png)
+![Surface SR](../scripts/figures/diff_annual_mean_RSDS_1990.png)  
 
 **9.** Precipitation and snowfall
 
