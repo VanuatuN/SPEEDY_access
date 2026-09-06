@@ -8,7 +8,7 @@ switch between buffers: Ctrl+x b
 save: Ctrl+x Ctrl+s
 exit: Ctrl+x Ctrl+c
 
-**1.** time-stepping parameters in ver41.input/cls_instep.h:
+**1.** Time-stepping parameters in ver41.input/cls_instep.h:
 ```text
 NSTOUT = 9 (1 step 40 mins -> 6 hr output) 
 IYEAR0 = 1989 (start year) 
@@ -46,7 +46,7 @@ Notebook: `scripts/diagnostics/compare_jra_speedy_forcing_1989.ipynb`
 
 ![Global mean WIND](../scripts/figures/diff_annual_mean_mslp_1990.png)
 
-**8.** Surface downward radiation output changes
+**8.** Surface Downward Radiation Output Changes
    
 Two additional radiation diagnostics were added to the time-mean output for compatibility with ACCESS-OM2 forcing:
 
@@ -62,7 +62,11 @@ Changes:
 ![Surface LR](../scripts/figures/diff_annual_mean_RLDS_1990.png)
 ![Surface SR](../scripts/figures/diff_annual_mean_RSDS_1990.png)  
 
-**9.** Precipitation and snowfall
+**9.** Surface Specific Humidity 
+
+
+
+**10.** Precipitation and Snowfall
 
 SPEEDY provides large-scale (`PRECLS`) and convective (`PRECNV`) precipitation: `PREC = PRECLS + PRECNV`
 
@@ -70,7 +74,7 @@ Total snowfall (`SNOW`) was added as a diagnostic in `ppo_dmflux.f`, without mod
 
 `SNOW = PREC` for `TS < 273.15 K`, otherwise `SNOW = 0`.
 
-**10.** SPEEDY does not provide river runoff/routing, so `friver` (and `licalvf`) will remain from JRA55-do for the initial hybrid forcing experiments.
+**11.** SPEEDY does not provide river runoff/routing, so `friver` (and `licalvf`) will remain from JRA55-do for the initial hybrid forcing experiments.
 
 
 
