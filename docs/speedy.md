@@ -64,7 +64,7 @@ Changes:
 
 **9.** Surface Specific Humidity 
 
-
+![Surface SR](../scripts/figures/diff_annual_mean_huss_1989_1991.png)  
 
 **10.** Precipitation and Snowfall
 
