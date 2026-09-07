@@ -1,0 +1,66 @@
+NODE: lrdn4917.leonardo.local
+CONDA_PREFIX: /leonardo/home/userexternal/ntilinin/.conda/envs/ocean
+PYTHON: /leonardo/home/userexternal/ntilinin/.conda/envs/ocean/bin/python
+Python 3.11.5
+prefix: /leonardo/home/userexternal/ntilinin/.conda/envs/ocean
+executable: /leonardo/home/userexternal/ntilinin/.conda/envs/ocean/bin/python
+platform: /leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/platform.py
+xarray/pandas/dask OK
+
+======================================================================
+prra: Rainfall
+======================================================================
+JRA files: 2
+SPEEDY files: 2
+JRA: 1990-01-01T01:30:00.000000000 to 1991-12-31T22:30:00.000000000 | 5840 steps
+SPEEDY: 1990-01-01T01:30:00.000000000 to 1991-12-31T22:30:00.000000000 | 5840 steps
+JRA range [kg m-2 s-1]: 0.0 to 0.010667923837900162
+SPEEDY range [kg m-2 s-1]: 0.0 to 0.0014880254166200757
+
+Computing 1990–1991 mean fields...
+JRA mean done
+SPEEDY mean done
+Interpolating SPEEDY mean -> JRA grid for difference map...
+JRA mean range [mm/day]: 0.0001410456607118249 to 12.230295181274414
+SPEEDY mean range [mm/day]: 0.0 to 15.383462625575934
+Difference range [mm/day]: -7.204945807900463 to 8.551575286203114
+Saved: /leonardo_scratch/fast/ICT26_ESP/ntilinin/SPEEDY_access/scripts/figures/diff_mean_prra_1990_1991.png
+
+Computing area-weighted global-mean rainfall for 1990...
+JRA global mean done
+SPEEDY global mean done
+Saved: /leonardo_scratch/fast/ICT26_ESP/ntilinin/SPEEDY_access/scripts/figures/global_mean_prra_timeseries_1990.png
+
+1990 global-mean rainfall statistics [mm/day]
+JRA55 : {'Mean': 2.6893392888007503, 'Min': 2.2421579941204888, 'Max': 3.2906524105552624}
+SPEEDY: {'Mean': 2.7188518983813013, 'Min': 2.307846427139961, 'Max': 3.0799234937446136}
+
+======================================================================
+prsn: Snowfall
+======================================================================
+JRA files: 2
+SPEEDY files: 2
+JRA: 1990-01-01T01:30:00.000000000 to 1991-12-31T22:30:00.000000000 | 5840 steps
+SPEEDY: 1990-01-01T01:30:00.000000000 to 1991-12-31T22:30:00.000000000 | 5840 steps
+JRA range [kg m-2 s-1]: 0.0 to 0.002626668894663453
+SPEEDY range [kg m-2 s-1]: 0.0 to 0.0006833256338723004
+
+Computing 1990–1991 mean fields...
+JRA mean done
+SPEEDY mean done
+Interpolating SPEEDY mean -> JRA grid for difference map...
+JRA mean range [mm/day]: 3.838860850436121e-18 to 5.915379047393799
+SPEEDY mean range [mm/day]: -1.4293680984916318e-19 to 3.220624641294516
+Difference range [mm/day]: -4.048940504683184 to 2.478791333281107
+Saved: /leonardo_scratch/fast/ICT26_ESP/ntilinin/SPEEDY_access/scripts/figures/diff_mean_prsn_1990_1991.png
+
+Computing area-weighted global-mean snowfall for 1990...
+JRA global mean done
+SPEEDY global mean done
+Saved: /leonardo_scratch/fast/ICT26_ESP/ntilinin/SPEEDY_access/scripts/figures/global_mean_prsn_timeseries_1990.png
+
+1990 global-mean snowfall statistics [mm/day]
+JRA55 : {'Mean': 0.16506156818478485, 'Min': 0.0959223647074387, 'Max': 0.3042467055485835}
+SPEEDY: {'Mean': 0.14560889113037592, 'Min': 0.06604304706932615, 'Max': 0.30399863368346086}
+
+DONE

@@ -1,6 +1,0 @@
-NODE: lrdn3993.leonardo.local
-CONDA_PREFIX: 
-PYTHON: /leonardo/home/userexternal/ntilinin/.conda/envs/ocean/bin/python
-Python 3.11.5
-prefix: /leonardo/home/userexternal/ntilinin/.conda/envs/ocean
-platform: /leonardo/prod/spack/5.2/install/0.21/linux-rhel8-icelake/gcc-8.5.0/anaconda3-2023.09-0-zcre7pfofz45c3btxpdk5zvcicdq5evx/lib/python3.11/platform.py
