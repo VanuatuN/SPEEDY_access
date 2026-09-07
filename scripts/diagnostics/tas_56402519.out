@@ -1,0 +1,30 @@
+NODE: lrdn4171.leonardo.local
+CONDA_PREFIX: /leonardo/home/userexternal/ntilinin/.conda/envs/ocean
+PYTHON: /leonardo/home/userexternal/ntilinin/.conda/envs/ocean/bin/python
+Python 3.11.5
+prefix: /leonardo/home/userexternal/ntilinin/.conda/envs/ocean
+executable: /leonardo/home/userexternal/ntilinin/.conda/envs/ocean/bin/python
+platform: /leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/platform.py
+xarray/pandas/dask OK
+
+======================================================================
+Processing friver
+======================================================================
+  friver_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-5-0_gr_19900101-19901231.nc
+  friver_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-5-0_gr_19910101-19911231.nc
+Raw range [kg m-2 s-1]: 0.0 to 0.4245201647281647
+Computing mean...
+Positive mean range [kg m-2 day-1]: 0.00010103037493536249 to 23320.046875
+Saved: /leonardo_scratch/fast/ICT26_ESP/ntilinin/SPEEDY_access/scripts/figures/jra_mean_friver_1990_1991.png
+
+======================================================================
+Processing licalvf
+======================================================================
+  licalvf_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-5-0_gr_19900101-19901231.nc
+  licalvf_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-1-5-0_gr_19910101-19911231.nc
+Raw range [kg m-2 s-1]: 0.0 to 0.0048589217476546764
+Computing mean...
+Positive mean range [kg m-2 day-1]: 0.47686296701431274 to 382.38568115234375
+Saved: /leonardo_scratch/fast/ICT26_ESP/ntilinin/SPEEDY_access/scripts/figures/jra_mean_licalvf_1990_1991.png
+
+DONE
