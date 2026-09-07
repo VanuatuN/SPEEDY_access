@@ -81,6 +81,7 @@ Total Rainfall: `PREC = PRECLS + PRECNV - SNOW`
 ![Surface SN](../scripts/figures/diff_mean_prsn_1990_1991.png)  
 
 **11.** SPEEDY does not provide river runoff/routing, so `friver` (and `licalvf`) will remain from JRA55 for the initial hybrid forcing experiments.
-![Surface SN](../scripts/figures/jra_mean_friver_1990_1991.png)  
-![Surface SN](../scripts/figures/jra_mean_licalvf_1990_1991.png)  
+
+![Surface RIV](../scripts/figures/jra_mean_friver_1990_1991.png)  
+![Surface ICE](../scripts/figures/jra_mean_licalvf_1990_1991.png)  
 
