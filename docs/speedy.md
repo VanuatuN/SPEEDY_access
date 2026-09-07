@@ -64,7 +64,7 @@ Changes:
 
 **9.** Surface Specific Humidity 
 
-![Surface SR](../scripts/figures/diff_annual_mean_huss_1989_1991.png)  
+![Surface SH](../scripts/figures/diff_annual_mean_huss_1989_1991.png)  
 
 **10.** Precipitation and Snowfall
 
@@ -74,7 +74,10 @@ Total snowfall (`SNOW`) was added as a diagnostic in `ppo_dmflux.f`, without mod
 
 `SNOW = PREC` for `TS < 273.15 K`, otherwise `SNOW = 0`.
 
+Total Rainfall: `PREC = PRECLS + PRECNV - SNOW`
+![Surface RA](../scripts/figures/diff_annual_mean_prra_1989_1991.png)  
+
+![Surface SN](../scripts/figures/diff_annual_mean_prsn_1989_1991.png)  
+
 **11.** SPEEDY does not provide river runoff/routing, so `friver` (and `licalvf`) will remain from JRA55-do for the initial hybrid forcing experiments.
-
-
 
