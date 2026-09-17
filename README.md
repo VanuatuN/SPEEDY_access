@@ -2,16 +2,6 @@
 
 This repository contains the development work for coupling the SPEEDY Intermediate complexity AGCM with ACCESS-OM2.
 
-The long-term objective is to develop a computationally efficient coupled climate model of intermediate complexity - CMIC:
-
-```text
-       SPEEDY atmosphere
-              ↕
-            OASIS
-              ↕
-MOM ocean ↔ OASIS ↔ CICE sea ice
-```
-
 ### Stage 1 — Offline SPEEDY forcing
 
 ```text
@@ -29,45 +19,7 @@ MOM + CICE
 ```
 
 The objective of this stage is to run ACCESS-OM2 without modifying the ocean/sea-ice model or the existing YATM forcing interface.
-
 SPEEDY replaces JRA55-do as the source of atmospheric forcing.
-
-This allows independent testing of:
-
-* SPEEDY atmospheric fields;
-* units and sign conventions;
-* temporal sampling;
-* forcing-file structure;
-* calendar handling;
-* remapping;
-* ACCESS-OM2 stability under SPEEDY forcing.
-
-### Stage 2 — Online coupling
-
-After the offline forcing configuration has been validated, the file-based interface will be replaced by direct exchange through OASIS:
-
-```text
-                 ┌─────────────┐
-                 │   SPEEDY    │
-                 │ atmosphere  │
-                 └──────┬──────┘
-                        │
-             atmospheric forcing
-                        │
-                        ▼
-                 ┌─────────────┐
-                 │    OASIS    │
-                 └──────┬──────┘
-                        │
-                        ▼
-                 ┌─────────────────────┐
-                 │ MOM + OASIS + CICE  │
-                 └──────┬──────────────┘
-                        │
-                   SST / sea ice
-                        │
-                        └──────────────► SPEEDY
-```
 
 
 ## Atmospheric fields required by ACCESS-OM2
