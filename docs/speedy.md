@@ -10,7 +10,7 @@ exit: Ctrl+x Ctrl+c
 
 **1.** Time-stepping parameters in ver41.input/cls_instep.h:
 ```text
-NSTOUT = 9 (1 step 40 mins -> 6 hr output) 
+NSTOUT = 6 (1 step 30 mins -> 3 hr output) 
 IYEAR0 = 1989 (start year) 
 NMONTS = 36 (length of integration -> 3 years)
 ```
