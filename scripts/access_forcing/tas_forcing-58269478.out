@@ -1,0 +1,747 @@
+
+======================================================================
+YEAR 1958
+1958 [1] selected 2920 timesteps
+1958 [2] selection done: 0.6 s
+1958 [3] starting LOAD...
+1958 [3] LOAD done: 2.40 min, 51.3 MB
+1958 [4] leap/time processing: 0.0 s
+1958: huss min=0.000000, mean=0.007458, max=0.021825
+1958 [5] value validation: 0.0 s
+1958 [6] starting WRITE...
+1958 [6] WRITE done: 0.01 min
+1958 [7] VERIFY done: 0.7 s
+DONE huss_SPEEDY_1958.nc: 41.1 MB
+1958 TOTAL: 2.43 min
+
+======================================================================
+YEAR 1959
+1959 [1] selected 2920 timesteps
+1959 [2] selection done: 0.6 s
+1959 [3] starting LOAD...
+1959 [3] LOAD done: 2.37 min, 51.3 MB
+1959 [4] leap/time processing: 0.0 s
+1959: huss min=0.000000, mean=0.007455, max=0.021391
+1959 [5] value validation: 0.0 s
+1959 [6] starting WRITE...
+1959 [6] WRITE done: 0.01 min
+1959 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1959.nc: 41.0 MB
+1959 TOTAL: 2.39 min
+
+======================================================================
+YEAR 1960
+1960 [1] selected 2920 timesteps
+1960 [2] selection done: 0.6 s
+1960 [3] starting LOAD...
+1960 [3] LOAD done: 2.26 min, 51.3 MB
+1960: leap gap found: 1960-02-28T21 -> 1960-03-01T00
+1960: inserted 8 records for Feb 29
+1960 [4] leap/time processing: 1.5 s
+WARNING 1960: negative huss minimum -0.000000
+1960: huss min=-0.000000, mean=0.007444, max=0.021977
+1960 [5] value validation: 0.0 s
+1960 [6] starting WRITE...
+1960 [6] WRITE done: 0.01 min
+1960 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1960.nc: 41.1 MB
+1960 TOTAL: 2.30 min
+
+======================================================================
+YEAR 1961
+1961 [1] selected 2920 timesteps
+1961 [2] selection done: 0.6 s
+1961 [3] starting LOAD...
+1961 [3] LOAD done: 3.09 min, 51.3 MB
+1961 [4] leap/time processing: 0.0 s
+1961: huss min=0.000000, mean=0.007447, max=0.021831
+1961 [5] value validation: 0.0 s
+1961 [6] starting WRITE...
+1961 [6] WRITE done: 0.01 min
+1961 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1961.nc: 41.1 MB
+1961 TOTAL: 3.11 min
+
+======================================================================
+YEAR 1962
+1962 [1] selected 2920 timesteps
+1962 [2] selection done: 0.6 s
+1962 [3] starting LOAD...
+1962 [3] LOAD done: 2.92 min, 51.3 MB
+1962 [4] leap/time processing: 0.0 s
+1962: huss min=0.000000, mean=0.007452, max=0.021358
+1962 [5] value validation: 0.0 s
+1962 [6] starting WRITE...
+1962 [6] WRITE done: 0.01 min
+1962 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1962.nc: 41.0 MB
+1962 TOTAL: 2.94 min
+
+======================================================================
+YEAR 1963
+1963 [1] selected 2920 timesteps
+1963 [2] selection done: 0.6 s
+1963 [3] starting LOAD...
+1963 [3] LOAD done: 2.28 min, 51.3 MB
+1963 [4] leap/time processing: 0.0 s
+1963: huss min=0.000000, mean=0.007468, max=0.021682
+1963 [5] value validation: 0.0 s
+1963 [6] starting WRITE...
+1963 [6] WRITE done: 0.01 min
+1963 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1963.nc: 41.1 MB
+1963 TOTAL: 2.30 min
+
+======================================================================
+YEAR 1964
+1964 [1] selected 2920 timesteps
+1964 [2] selection done: 0.6 s
+1964 [3] starting LOAD...
+1964 [3] LOAD done: 2.39 min, 51.3 MB
+1964: leap gap found: 1964-02-28T21 -> 1964-03-01T00
+1964: inserted 8 records for Feb 29
+1964 [4] leap/time processing: 0.3 s
+WARNING 1964: negative huss minimum -0.000000
+1964: huss min=-0.000000, mean=0.007388, max=0.021767
+1964 [5] value validation: 0.0 s
+1964 [6] starting WRITE...
+1964 [6] WRITE done: 0.01 min
+1964 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1964.nc: 41.2 MB
+1964 TOTAL: 2.41 min
+
+======================================================================
+YEAR 1965
+1965 [1] selected 2920 timesteps
+1965 [2] selection done: 0.6 s
+1965 [3] starting LOAD...
+1965 [3] LOAD done: 0.63 min, 51.3 MB
+1965 [4] leap/time processing: 0.0 s
+1965: huss min=0.000000, mean=0.007395, max=0.021304
+1965 [5] value validation: 0.0 s
+1965 [6] starting WRITE...
+1965 [6] WRITE done: 0.01 min
+1965 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1965.nc: 40.9 MB
+1965 TOTAL: 0.64 min
+
+======================================================================
+YEAR 1966
+1966 [1] selected 2920 timesteps
+1966 [2] selection done: 0.6 s
+1966 [3] starting LOAD...
+1966 [3] LOAD done: 3.08 min, 51.3 MB
+1966 [4] leap/time processing: 0.0 s
+1966: huss min=0.000000, mean=0.007434, max=0.021651
+1966 [5] value validation: 0.0 s
+1966 [6] starting WRITE...
+1966 [6] WRITE done: 0.01 min
+1966 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1966.nc: 41.0 MB
+1966 TOTAL: 3.10 min
+
+======================================================================
+YEAR 1967
+1967 [1] selected 2920 timesteps
+1967 [2] selection done: 0.6 s
+1967 [3] starting LOAD...
+1967 [3] LOAD done: 3.10 min, 51.3 MB
+1967 [4] leap/time processing: 0.0 s
+1967: huss min=0.000000, mean=0.007427, max=0.021816
+1967 [5] value validation: 0.1 s
+1967 [6] starting WRITE...
+1967 [6] WRITE done: 0.01 min
+1967 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1967.nc: 41.0 MB
+1967 TOTAL: 3.12 min
+
+======================================================================
+YEAR 1968
+1968 [1] selected 2920 timesteps
+1968 [2] selection done: 0.6 s
+1968 [3] starting LOAD...
+1968 [3] LOAD done: 2.39 min, 51.3 MB
+1968: leap gap found: 1968-02-28T21 -> 1968-03-01T00
+1968: inserted 8 records for Feb 29
+1968 [4] leap/time processing: 0.3 s
+WARNING 1968: negative huss minimum -0.000000
+1968: huss min=-0.000000, mean=0.007408, max=0.021491
+1968 [5] value validation: 0.0 s
+1968 [6] starting WRITE...
+1968 [6] WRITE done: 0.01 min
+1968 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1968.nc: 41.2 MB
+1968 TOTAL: 2.41 min
+
+======================================================================
+YEAR 1969
+1969 [1] selected 2920 timesteps
+1969 [2] selection done: 0.6 s
+1969 [3] starting LOAD...
+1969 [3] LOAD done: 2.63 min, 51.3 MB
+1969 [4] leap/time processing: 0.0 s
+1969: huss min=0.000000, mean=0.007494, max=0.021229
+1969 [5] value validation: 0.0 s
+1969 [6] starting WRITE...
+1969 [6] WRITE done: 0.01 min
+1969 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1969.nc: 41.0 MB
+1969 TOTAL: 2.65 min
+
+======================================================================
+YEAR 1970
+1970 [1] selected 2920 timesteps
+1970 [2] selection done: 0.6 s
+1970 [3] starting LOAD...
+1970 [3] LOAD done: 3.25 min, 51.3 MB
+1970 [4] leap/time processing: 0.0 s
+1970: huss min=0.000000, mean=0.007450, max=0.021803
+1970 [5] value validation: 0.0 s
+1970 [6] starting WRITE...
+1970 [6] WRITE done: 0.01 min
+1970 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1970.nc: 41.1 MB
+1970 TOTAL: 3.27 min
+
+======================================================================
+YEAR 1971
+1971 [1] selected 2920 timesteps
+1971 [2] selection done: 0.6 s
+1971 [3] starting LOAD...
+1971 [3] LOAD done: 2.96 min, 51.3 MB
+1971 [4] leap/time processing: 0.0 s
+1971: huss min=0.000000, mean=0.007359, max=0.020867
+1971 [5] value validation: 0.0 s
+1971 [6] starting WRITE...
+1971 [6] WRITE done: 0.01 min
+1971 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1971.nc: 41.0 MB
+1971 TOTAL: 2.97 min
+
+======================================================================
+YEAR 1972
+1972 [1] selected 2920 timesteps
+1972 [2] selection done: 0.6 s
+1972 [3] starting LOAD...
+1972 [3] LOAD done: 0.89 min, 51.3 MB
+1972: leap gap found: 1972-02-28T21 -> 1972-03-01T00
+1972: inserted 8 records for Feb 29
+1972 [4] leap/time processing: 0.3 s
+WARNING 1972: negative huss minimum -0.000000
+1972: huss min=-0.000000, mean=0.007469, max=0.022286
+1972 [5] value validation: 0.0 s
+1972 [6] starting WRITE...
+1972 [6] WRITE done: 0.01 min
+1972 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1972.nc: 41.2 MB
+1972 TOTAL: 0.91 min
+
+======================================================================
+YEAR 1973
+1973 [1] selected 2920 timesteps
+1973 [2] selection done: 0.6 s
+1973 [3] starting LOAD...
+1973 [3] LOAD done: 3.03 min, 51.3 MB
+1973 [4] leap/time processing: 0.0 s
+1973: huss min=0.000000, mean=0.007478, max=0.021327
+1973 [5] value validation: 0.0 s
+1973 [6] starting WRITE...
+1973 [6] WRITE done: 0.01 min
+1973 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1973.nc: 41.0 MB
+1973 TOTAL: 3.05 min
+
+======================================================================
+YEAR 1974
+1974 [1] selected 2920 timesteps
+1974 [2] selection done: 0.6 s
+1974 [3] starting LOAD...
+1974 [3] LOAD done: 2.44 min, 51.3 MB
+1974 [4] leap/time processing: 0.0 s
+1974: huss min=0.000000, mean=0.007399, max=0.021548
+1974 [5] value validation: 0.0 s
+1974 [6] starting WRITE...
+1974 [6] WRITE done: 0.01 min
+1974 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1974.nc: 40.9 MB
+1974 TOTAL: 2.46 min
+
+======================================================================
+YEAR 1975
+1975 [1] selected 2920 timesteps
+1975 [2] selection done: 0.6 s
+1975 [3] starting LOAD...
+1975 [3] LOAD done: 3.01 min, 51.3 MB
+1975 [4] leap/time processing: 0.0 s
+1975: huss min=0.000000, mean=0.007371, max=0.021718
+1975 [5] value validation: 0.0 s
+1975 [6] starting WRITE...
+1975 [6] WRITE done: 0.01 min
+1975 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1975.nc: 40.9 MB
+1975 TOTAL: 3.03 min
+
+======================================================================
+YEAR 1976
+1976 [1] selected 2920 timesteps
+1976 [2] selection done: 0.6 s
+1976 [3] starting LOAD...
+1976 [3] LOAD done: 2.93 min, 51.3 MB
+1976: leap gap found: 1976-02-28T21 -> 1976-03-01T00
+1976: inserted 8 records for Feb 29
+1976 [4] leap/time processing: 0.3 s
+WARNING 1976: negative huss minimum -0.000000
+1976: huss min=-0.000000, mean=0.007404, max=0.022576
+1976 [5] value validation: 0.0 s
+1976 [6] starting WRITE...
+1976 [6] WRITE done: 0.01 min
+1976 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1976.nc: 41.2 MB
+1976 TOTAL: 2.96 min
+
+======================================================================
+YEAR 1977
+1977 [1] selected 2920 timesteps
+1977 [2] selection done: 0.6 s
+1977 [3] starting LOAD...
+1977 [3] LOAD done: 2.42 min, 51.3 MB
+1977 [4] leap/time processing: 0.0 s
+1977: huss min=0.000000, mean=0.007474, max=0.021826
+1977 [5] value validation: 0.0 s
+1977 [6] starting WRITE...
+1977 [6] WRITE done: 0.01 min
+1977 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1977.nc: 41.0 MB
+1977 TOTAL: 2.44 min
+
+======================================================================
+YEAR 1978
+1978 [1] selected 2920 timesteps
+1978 [2] selection done: 0.6 s
+1978 [3] starting LOAD...
+1978 [3] LOAD done: 2.73 min, 51.3 MB
+1978 [4] leap/time processing: 0.0 s
+1978: huss min=0.000000, mean=0.007446, max=0.021481
+1978 [5] value validation: 0.1 s
+1978 [6] starting WRITE...
+1978 [6] WRITE done: 0.01 min
+1978 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1978.nc: 41.1 MB
+1978 TOTAL: 2.75 min
+
+======================================================================
+YEAR 1979
+1979 [1] selected 2920 timesteps
+1979 [2] selection done: 0.6 s
+1979 [3] starting LOAD...
+1979 [3] LOAD done: 3.16 min, 51.3 MB
+1979 [4] leap/time processing: 0.0 s
+1979: huss min=0.000000, mean=0.007487, max=0.021976
+1979 [5] value validation: 0.0 s
+1979 [6] starting WRITE...
+1979 [6] WRITE done: 0.01 min
+1979 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1979.nc: 41.0 MB
+1979 TOTAL: 3.17 min
+
+======================================================================
+YEAR 1980
+1980 [1] selected 2920 timesteps
+1980 [2] selection done: 0.6 s
+1980 [3] starting LOAD...
+1980 [3] LOAD done: 2.15 min, 51.3 MB
+1980: leap gap found: 1980-02-28T21 -> 1980-03-01T00
+1980: inserted 8 records for Feb 29
+1980 [4] leap/time processing: 0.3 s
+WARNING 1980: negative huss minimum -0.000000
+1980: huss min=-0.000000, mean=0.007510, max=0.021994
+1980 [5] value validation: 0.1 s
+1980 [6] starting WRITE...
+1980 [6] WRITE done: 0.01 min
+1980 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1980.nc: 41.2 MB
+1980 TOTAL: 2.17 min
+
+======================================================================
+YEAR 1981
+1981 [1] selected 2920 timesteps
+1981 [2] selection done: 0.6 s
+1981 [3] starting LOAD...
+1981 [3] LOAD done: 2.82 min, 51.3 MB
+1981 [4] leap/time processing: 0.0 s
+1981: huss min=0.000000, mean=0.007471, max=0.021144
+1981 [5] value validation: 0.0 s
+1981 [6] starting WRITE...
+1981 [6] WRITE done: 0.01 min
+1981 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1981.nc: 41.0 MB
+1981 TOTAL: 2.84 min
+
+======================================================================
+YEAR 1982
+1982 [1] selected 2920 timesteps
+1982 [2] selection done: 0.6 s
+1982 [3] starting LOAD...
+1982 [3] LOAD done: 2.30 min, 51.3 MB
+1982 [4] leap/time processing: 0.0 s
+1982: huss min=0.000000, mean=0.007487, max=0.021379
+1982 [5] value validation: 0.1 s
+1982 [6] starting WRITE...
+1982 [6] WRITE done: 0.01 min
+1982 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1982.nc: 41.1 MB
+1982 TOTAL: 2.32 min
+
+======================================================================
+YEAR 1983
+1983 [1] selected 2920 timesteps
+1983 [2] selection done: 0.6 s
+1983 [3] starting LOAD...
+1983 [3] LOAD done: 2.88 min, 51.3 MB
+1983 [4] leap/time processing: 0.0 s
+1983: huss min=0.000000, mean=0.007533, max=0.021874
+1983 [5] value validation: 0.0 s
+1983 [6] starting WRITE...
+1983 [6] WRITE done: 0.01 min
+1983 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1983.nc: 41.2 MB
+1983 TOTAL: 2.90 min
+
+======================================================================
+YEAR 1984
+1984 [1] selected 2920 timesteps
+1984 [2] selection done: 0.6 s
+1984 [3] starting LOAD...
+1984 [3] LOAD done: 0.93 min, 51.3 MB
+1984: leap gap found: 1984-02-28T21 -> 1984-03-01T00
+1984: inserted 8 records for Feb 29
+1984 [4] leap/time processing: 0.3 s
+WARNING 1984: negative huss minimum -0.000000
+1984: huss min=-0.000000, mean=0.007489, max=0.021268
+1984 [5] value validation: 0.0 s
+1984 [6] starting WRITE...
+1984 [6] WRITE done: 0.01 min
+1984 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1984.nc: 41.2 MB
+1984 TOTAL: 0.96 min
+
+======================================================================
+YEAR 1985
+1985 [1] selected 2920 timesteps
+1985 [2] selection done: 0.6 s
+1985 [3] starting LOAD...
+1985 [3] LOAD done: 1.48 min, 51.3 MB
+1985 [4] leap/time processing: 0.0 s
+1985: huss min=0.000000, mean=0.007438, max=0.021217
+1985 [5] value validation: 0.0 s
+1985 [6] starting WRITE...
+1985 [6] WRITE done: 0.01 min
+1985 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1985.nc: 40.9 MB
+1985 TOTAL: 1.50 min
+
+======================================================================
+YEAR 1986
+1986 [1] selected 2920 timesteps
+1986 [2] selection done: 0.6 s
+1986 [3] starting LOAD...
+1986 [3] LOAD done: 1.51 min, 51.3 MB
+1986 [4] leap/time processing: 0.0 s
+1986: huss min=0.000000, mean=0.007461, max=0.021371
+1986 [5] value validation: 0.0 s
+1986 [6] starting WRITE...
+1986 [6] WRITE done: 0.01 min
+1986 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1986.nc: 41.0 MB
+1986 TOTAL: 1.53 min
+
+======================================================================
+YEAR 1987
+1987 [1] selected 2920 timesteps
+1987 [2] selection done: 0.6 s
+1987 [3] starting LOAD...
+1987 [3] LOAD done: 1.54 min, 51.3 MB
+1987 [4] leap/time processing: 0.0 s
+1987: huss min=0.000000, mean=0.007552, max=0.021765
+1987 [5] value validation: 0.1 s
+1987 [6] starting WRITE...
+1987 [6] WRITE done: 0.01 min
+1987 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1987.nc: 41.1 MB
+1987 TOTAL: 1.56 min
+
+======================================================================
+YEAR 1988
+1988 [1] selected 2920 timesteps
+1988 [2] selection done: 0.6 s
+1988 [3] starting LOAD...
+1988 [3] LOAD done: 2.92 min, 51.3 MB
+1988: leap gap found: 1988-02-28T21 -> 1988-03-01T00
+1988: inserted 8 records for Feb 29
+1988 [4] leap/time processing: 0.3 s
+WARNING 1988: negative huss minimum -0.000000
+1988: huss min=-0.000000, mean=0.007528, max=0.021270
+1988 [5] value validation: 0.0 s
+1988 [6] starting WRITE...
+1988 [6] WRITE done: 0.01 min
+1988 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1988.nc: 41.1 MB
+1988 TOTAL: 2.94 min
+
+======================================================================
+YEAR 1989
+1989 [1] selected 2920 timesteps
+1989 [2] selection done: 0.6 s
+1989 [3] starting LOAD...
+1989 [3] LOAD done: 2.29 min, 51.3 MB
+1989 [4] leap/time processing: 0.0 s
+1989: huss min=0.000000, mean=0.007494, max=0.021835
+1989 [5] value validation: 0.0 s
+1989 [6] starting WRITE...
+1989 [6] WRITE done: 0.01 min
+1989 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1989.nc: 41.0 MB
+1989 TOTAL: 2.31 min
+
+======================================================================
+YEAR 1990
+1990 [1] selected 2920 timesteps
+1990 [2] selection done: 0.6 s
+1990 [3] starting LOAD...
+1990 [3] LOAD done: 0.41 min, 51.3 MB
+1990 [4] leap/time processing: 0.0 s
+1990: huss min=0.000000, mean=0.007532, max=0.021484
+1990 [5] value validation: 0.0 s
+1990 [6] starting WRITE...
+1990 [6] WRITE done: 0.01 min
+1990 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1990.nc: 41.1 MB
+1990 TOTAL: 0.43 min
+
+======================================================================
+YEAR 1991
+1991 [1] selected 2920 timesteps
+1991 [2] selection done: 0.6 s
+1991 [3] starting LOAD...
+1991 [3] LOAD done: 3.00 min, 51.3 MB
+1991 [4] leap/time processing: 0.0 s
+1991: huss min=0.000000, mean=0.007539, max=0.021397
+1991 [5] value validation: 0.0 s
+1991 [6] starting WRITE...
+1991 [6] WRITE done: 0.01 min
+1991 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1991.nc: 41.1 MB
+1991 TOTAL: 3.02 min
+
+======================================================================
+YEAR 1992
+1992 [1] selected 2920 timesteps
+1992 [2] selection done: 0.6 s
+1992 [3] starting LOAD...
+1992 [3] LOAD done: 2.53 min, 51.3 MB
+1992: leap gap found: 1992-02-28T21 -> 1992-03-01T00
+1992: inserted 8 records for Feb 29
+1992 [4] leap/time processing: 0.3 s
+WARNING 1992: negative huss minimum -0.000000
+1992: huss min=-0.000000, mean=0.007495, max=0.021919
+1992 [5] value validation: 0.1 s
+1992 [6] starting WRITE...
+1992 [6] WRITE done: 0.01 min
+1992 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1992.nc: 41.2 MB
+1992 TOTAL: 2.55 min
+
+======================================================================
+YEAR 1993
+1993 [1] selected 2920 timesteps
+1993 [2] selection done: 0.6 s
+1993 [3] starting LOAD...
+1993 [3] LOAD done: 2.48 min, 51.3 MB
+1993 [4] leap/time processing: 0.0 s
+1993: huss min=0.000000, mean=0.007502, max=0.021723
+1993 [5] value validation: 0.0 s
+1993 [6] starting WRITE...
+1993 [6] WRITE done: 0.01 min
+1993 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1993.nc: 41.0 MB
+1993 TOTAL: 2.50 min
+
+======================================================================
+YEAR 1994
+1994 [1] selected 2920 timesteps
+1994 [2] selection done: 0.6 s
+1994 [3] starting LOAD...
+1994 [3] LOAD done: 3.51 min, 51.3 MB
+1994 [4] leap/time processing: 0.0 s
+1994: huss min=0.000000, mean=0.007527, max=0.022070
+1994 [5] value validation: 0.0 s
+1994 [6] starting WRITE...
+1994 [6] WRITE done: 0.01 min
+1994 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1994.nc: 41.1 MB
+1994 TOTAL: 3.52 min
+
+======================================================================
+YEAR 1995
+1995 [1] selected 2920 timesteps
+1995 [2] selection done: 0.6 s
+1995 [3] starting LOAD...
+1995 [3] LOAD done: 2.27 min, 51.3 MB
+1995 [4] leap/time processing: 0.0 s
+1995: huss min=0.000000, mean=0.007551, max=0.022472
+1995 [5] value validation: 0.1 s
+1995 [6] starting WRITE...
+1995 [6] WRITE done: 0.01 min
+1995 [7] VERIFY done: 0.1 s
+DONE huss_SPEEDY_1995.nc: 41.0 MB
+1995 TOTAL: 2.29 min
+
+======================================================================
+YEAR 1996
+1996 [1] selected 2920 timesteps
+1996 [2] selection done: 0.8 s
+1996 [3] starting LOAD...
+1996 [3] LOAD done: 3.09 min, 51.3 MB
+1996: leap gap found: 1996-02-28T21 -> 1996-03-01T00
+1996: inserted 8 records for Feb 29
+1996 [4] leap/time processing: 0.5 s
+WARNING 1996: negative huss minimum -0.000000
+1996: huss min=-0.000000, mean=0.007522, max=0.022454
+1996 [5] value validation: 0.1 s
+1996 [6] starting WRITE...
+1996 [6] WRITE done: 0.01 min
+1996 [7] VERIFY done: 0.1 s
+DONE huss_SPEEDY_1996.nc: 41.1 MB
+1996 TOTAL: 3.13 min
+
+======================================================================
+YEAR 1997
+1997 [1] selected 2920 timesteps
+1997 [2] selection done: 0.7 s
+1997 [3] starting LOAD...
+1997 [3] LOAD done: 3.29 min, 51.3 MB
+1997 [4] leap/time processing: 0.0 s
+1997: huss min=0.000000, mean=0.007599, max=0.021378
+1997 [5] value validation: 0.1 s
+1997 [6] starting WRITE...
+1997 [6] WRITE done: 0.01 min
+1997 [7] VERIFY done: 0.1 s
+DONE huss_SPEEDY_1997.nc: 41.1 MB
+1997 TOTAL: 3.32 min
+
+======================================================================
+YEAR 1998
+1998 [1] selected 2920 timesteps
+1998 [2] selection done: 0.7 s
+1998 [3] starting LOAD...
+1998 [3] LOAD done: 2.95 min, 51.3 MB
+1998 [4] leap/time processing: 0.0 s
+1998: huss min=0.000000, mean=0.007642, max=0.021496
+1998 [5] value validation: 0.1 s
+1998 [6] starting WRITE...
+1998 [6] WRITE done: 0.01 min
+1998 [7] VERIFY done: 0.1 s
+DONE huss_SPEEDY_1998.nc: 41.3 MB
+1998 TOTAL: 2.97 min
+
+======================================================================
+YEAR 1999
+1999 [1] selected 2920 timesteps
+1999 [2] selection done: 0.7 s
+1999 [3] starting LOAD...
+1999 [3] LOAD done: 3.08 min, 51.3 MB
+1999 [4] leap/time processing: 0.0 s
+1999: huss min=0.000000, mean=0.007539, max=0.021343
+1999 [5] value validation: 0.1 s
+1999 [6] starting WRITE...
+1999 [6] WRITE done: 0.01 min
+1999 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_1999.nc: 41.0 MB
+1999 TOTAL: 3.10 min
+
+======================================================================
+YEAR 2000
+2000 [1] selected 2920 timesteps
+2000 [2] selection done: 0.6 s
+2000 [3] starting LOAD...
+2000 [3] LOAD done: 2.43 min, 51.3 MB
+2000: leap gap found: 2000-02-28T21 -> 2000-03-01T00
+2000: inserted 8 records for Feb 29
+2000 [4] leap/time processing: 0.3 s
+WARNING 2000: negative huss minimum -0.000000
+2000: huss min=-0.000000, mean=0.007545, max=0.022631
+2000 [5] value validation: 0.1 s
+2000 [6] starting WRITE...
+2000 [6] WRITE done: 0.01 min
+2000 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_2000.nc: 41.1 MB
+2000 TOTAL: 2.45 min
+
+======================================================================
+YEAR 2001
+2001 [1] selected 2920 timesteps
+2001 [2] selection done: 0.6 s
+2001 [3] starting LOAD...
+2001 [3] LOAD done: 2.50 min, 51.3 MB
+2001 [4] leap/time processing: 0.0 s
+2001: huss min=0.000000, mean=0.007592, max=0.021852
+2001 [5] value validation: 0.0 s
+2001 [6] starting WRITE...
+2001 [6] WRITE done: 0.01 min
+2001 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_2001.nc: 41.1 MB
+2001 TOTAL: 2.52 min
+
+======================================================================
+YEAR 2002
+2002 [1] selected 2920 timesteps
+2002 [2] selection done: 0.6 s
+2002 [3] starting LOAD...
+2002 [3] LOAD done: 2.18 min, 51.3 MB
+2002 [4] leap/time processing: 0.0 s
+2002: huss min=0.000000, mean=0.007633, max=0.022884
+2002 [5] value validation: 0.0 s
+2002 [6] starting WRITE...
+2002 [6] WRITE done: 0.01 min
+2002 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_2002.nc: 41.1 MB
+2002 TOTAL: 2.20 min
+
+======================================================================
+YEAR 2003
+2003 [1] selected 2920 timesteps
+2003 [2] selection done: 0.6 s
+2003 [3] starting LOAD...
+2003 [3] LOAD done: 0.88 min, 51.3 MB
+2003 [4] leap/time processing: 0.0 s
+2003: huss min=0.000000, mean=0.007657, max=0.022505
+2003 [5] value validation: 0.1 s
+2003 [6] starting WRITE...
+2003 [6] WRITE done: 0.01 min
+2003 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_2003.nc: 41.1 MB
+2003 TOTAL: 0.90 min
+
+======================================================================
+YEAR 2004
+2004 [1] selected 2920 timesteps
+2004 [2] selection done: 0.6 s
+2004 [3] starting LOAD...
+2004 [3] LOAD done: 2.23 min, 51.3 MB
+2004: leap gap found: 2004-02-28T21 -> 2004-03-01T00
+2004: inserted 8 records for Feb 29
+2004 [4] leap/time processing: 0.3 s
+WARNING 2004: negative huss minimum -0.000000
+2004: huss min=-0.000000, mean=0.007619, max=0.022388
+2004 [5] value validation: 0.1 s
+2004 [6] starting WRITE...
+2004 [6] WRITE done: 0.01 min
+2004 [7] VERIFY done: 0.0 s
+DONE huss_SPEEDY_2004.nc: 41.1 MB
+2004 TOTAL: 2.26 min
+
+======================================================================
+YEAR 2005
+2005 [1] selected 2920 timesteps
+2005 [2] selection done: 0.6 s
+2005 [3] starting LOAD...

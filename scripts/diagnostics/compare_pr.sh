@@ -13,21 +13,23 @@
 
 set -e
 
-source /leonardo/prod/spack/03/install/0.19/linux-rhel8-icelake/gcc-8.5.0/anaconda3-2022.05-e7262poa2u2i3rurf3cdt6a5r6dqieik/etc/profile.d/conda.sh
-conda activate ocean
-
-export PYTHONHOME=$CONDA_PREFIX
+#source /leonardo/prod/spack/03/install/0.19/linux-rhel8-icelake/gcc-8.5.0/anaconda3-2022.05-e7262poa2u2i3rurf3cdt6a5r6dqieik/etc/profile.d/conda.sh
+module load python/3.11.7
 export PYTHONNOUSERSITE=1
-unset PYTHONPATH
-unset PYTHONUSERBASE
-hash -r
+source ~/.venvs/ocean2/bin/activate
+
+#export PYTHONHOME=$CONDA_PREFIX
+#export PYTHONNOUSERSITE=1
+#unset PYTHONPATH
+#unset PYTHONUSERBASE
+#hash -r
 
 echo "NODE: $(hostname)"
-echo "CONDA_PREFIX: $CONDA_PREFIX"
+#echo "CONDA_PREFIX: $CONDA_PREFIX"
 echo "PYTHON: $(which python)"
 python --version
 
-python -c "import sys, platform; print('prefix:', sys.prefix); print('executable:', sys.executable); print('platform:', platform.__file__)"
-python -c "import xarray, pandas, dask; print('xarray/pandas/dask OK')"
+# python -c "import sys, platform; print('prefix:', sys.prefix); print('executable:', sys.executable); print('platform:', platform.__file__)"
+# python -c "import xarray, pandas, dask; print('xarray/pandas/dask OK')"
 
-python compare_pr.py
+python compare_pr_iaf.py

@@ -1,0 +1,1130 @@
+
+======================================================================
+YEAR 1958
+1958 [1] selected 2920 timesteps
+1958 [2] isel done: 0.6 s
+1958 [3] starting LOAD...
+1958 [3] LOAD done: 1.91 min, 51.3 MB
+1958 [4] source time validation: 0.0 s
+1958 [5] starting leap-day processing...
+1958 [5] leap-day processing done: 0.0 s
+1958 [6] final time validation: 0.0 s
+1958 [7] starting value validation...
+1958: min=211.676, mean=279.670, max=316.254 K
+1958 [7] value validation done: 0.1 s
+1958 [8] building output dataset...
+1958 [8] dataset built: 0.0 s
+1958 [9] starting NetCDF WRITE...
+1958 [9] WRITE done: 0.01 min
+1958 [10] starting output verification...
+1958 [10] VERIFY done: 0.00 min
+1958 DONE: 34.6 MB
+1958 TOTAL: 1.93 min
+
+======================================================================
+YEAR 1959
+1959 [1] selected 2920 timesteps
+1959 [2] isel done: 0.6 s
+1959 [3] starting LOAD...
+1959 [3] LOAD done: 1.76 min, 51.3 MB
+1959 [4] source time validation: 0.0 s
+1959 [5] starting leap-day processing...
+1959 [5] leap-day processing done: 0.0 s
+1959 [6] final time validation: 0.0 s
+1959 [7] starting value validation...
+1959: min=211.937, mean=279.740, max=317.032 K
+1959 [7] value validation done: 0.1 s
+1959 [8] building output dataset...
+1959 [8] dataset built: 0.0 s
+1959 [9] starting NetCDF WRITE...
+1959 [9] WRITE done: 0.01 min
+1959 [10] starting output verification...
+1959 [10] VERIFY done: 0.00 min
+1959 DONE: 34.7 MB
+1959 TOTAL: 1.78 min
+
+======================================================================
+YEAR 1960
+1960 [1] selected 2920 timesteps
+1960 [2] isel done: 0.6 s
+1960 [3] starting LOAD...
+1960 [3] LOAD done: 2.89 min, 51.3 MB
+1960: SPEEDY leap gap found: 1960-02-28T21 -> 1960-03-01T00
+1960 [4] source time validation: 0.0 s
+1960 [5] starting leap-day processing...
+1960: inserted 8 records for Feb 29
+1960 [5] leap-day processing done: 4.0 s
+1960 [6] final time validation: 0.0 s
+1960 [7] starting value validation...
+1960: min=210.265, mean=279.745, max=315.757 K
+1960 [7] value validation done: 0.1 s
+1960 [8] building output dataset...
+1960 [8] dataset built: 0.0 s
+1960 [9] starting NetCDF WRITE...
+1960 [9] WRITE done: 0.01 min
+1960 [10] starting output verification...
+1960 [10] VERIFY done: 0.00 min
+1960 DONE: 34.8 MB
+1960 TOTAL: 2.97 min
+
+======================================================================
+YEAR 1961
+1961 [1] selected 2920 timesteps
+1961 [2] isel done: 0.6 s
+1961 [3] starting LOAD...
+1961 [3] LOAD done: 2.17 min, 51.3 MB
+1961 [4] source time validation: 0.0 s
+1961 [5] starting leap-day processing...
+1961 [5] leap-day processing done: 0.0 s
+1961 [6] final time validation: 0.0 s
+1961 [7] starting value validation...
+1961: min=212.369, mean=279.751, max=315.515 K
+1961 [7] value validation done: 0.0 s
+1961 [8] building output dataset...
+1961 [8] dataset built: 0.0 s
+1961 [9] starting NetCDF WRITE...
+1961 [9] WRITE done: 0.01 min
+1961 [10] starting output verification...
+1961 [10] VERIFY done: 0.00 min
+1961 DONE: 34.7 MB
+1961 TOTAL: 2.19 min
+
+======================================================================
+YEAR 1962
+1962 [1] selected 2920 timesteps
+1962 [2] isel done: 0.6 s
+1962 [3] starting LOAD...
+1962 [3] LOAD done: 2.03 min, 51.3 MB
+1962 [4] source time validation: 0.0 s
+1962 [5] starting leap-day processing...
+1962 [5] leap-day processing done: 0.0 s
+1962 [6] final time validation: 0.0 s
+1962 [7] starting value validation...
+1962: min=212.053, mean=279.766, max=315.651 K
+1962 [7] value validation done: 0.0 s
+1962 [8] building output dataset...
+1962 [8] dataset built: 0.0 s
+1962 [9] starting NetCDF WRITE...
+1962 [9] WRITE done: 0.01 min
+1962 [10] starting output verification...
+1962 [10] VERIFY done: 0.00 min
+1962 DONE: 34.7 MB
+1962 TOTAL: 2.05 min
+
+======================================================================
+YEAR 1963
+1963 [1] selected 2920 timesteps
+1963 [2] isel done: 0.6 s
+1963 [3] starting LOAD...
+1963 [3] LOAD done: 2.88 min, 51.3 MB
+1963 [4] source time validation: 0.0 s
+1963 [5] starting leap-day processing...
+1963 [5] leap-day processing done: 0.0 s
+1963 [6] final time validation: 0.0 s
+1963 [7] starting value validation...
+1963: min=207.356, mean=279.755, max=315.802 K
+1963 [7] value validation done: 0.1 s
+1963 [8] building output dataset...
+1963 [8] dataset built: 0.0 s
+1963 [9] starting NetCDF WRITE...
+1963 [9] WRITE done: 0.01 min
+1963 [10] starting output verification...
+1963 [10] VERIFY done: 0.00 min
+1963 DONE: 34.7 MB
+1963 TOTAL: 2.90 min
+
+======================================================================
+YEAR 1964
+1964 [1] selected 2920 timesteps
+1964 [2] isel done: 0.6 s
+1964 [3] starting LOAD...
+1964 [3] LOAD done: 2.04 min, 51.3 MB
+1964: SPEEDY leap gap found: 1964-02-28T21 -> 1964-03-01T00
+1964 [4] source time validation: 0.0 s
+1964 [5] starting leap-day processing...
+1964: inserted 8 records for Feb 29
+1964 [5] leap-day processing done: 0.4 s
+1964 [6] final time validation: 0.0 s
+1964 [7] starting value validation...
+1964: min=213.079, mean=279.650, max=315.779 K
+1964 [7] value validation done: 0.1 s
+1964 [8] building output dataset...
+1964 [8] dataset built: 0.0 s
+1964 [9] starting NetCDF WRITE...
+1964 [9] WRITE done: 0.01 min
+1964 [10] starting output verification...
+1964 [10] VERIFY done: 0.00 min
+1964 DONE: 34.7 MB
+1964 TOTAL: 2.07 min
+
+======================================================================
+YEAR 1965
+1965 [1] selected 2920 timesteps
+1965 [2] isel done: 0.6 s
+1965 [3] starting LOAD...
+1965 [3] LOAD done: 0.28 min, 51.3 MB
+1965 [4] source time validation: 0.0 s
+1965 [5] starting leap-day processing...
+1965 [5] leap-day processing done: 0.0 s
+1965 [6] final time validation: 0.0 s
+1965 [7] starting value validation...
+1965: min=211.991, mean=279.561, max=315.501 K
+1965 [7] value validation done: 0.1 s
+1965 [8] building output dataset...
+1965 [8] dataset built: 0.0 s
+1965 [9] starting NetCDF WRITE...
+1965 [9] WRITE done: 0.01 min
+1965 [10] starting output verification...
+1965 [10] VERIFY done: 0.00 min
+1965 DONE: 34.7 MB
+1965 TOTAL: 0.30 min
+
+======================================================================
+YEAR 1966
+1966 [1] selected 2920 timesteps
+1966 [2] isel done: 0.6 s
+1966 [3] starting LOAD...
+1966 [3] LOAD done: 2.21 min, 51.3 MB
+1966 [4] source time validation: 0.0 s
+1966 [5] starting leap-day processing...
+1966 [5] leap-day processing done: 0.0 s
+1966 [6] final time validation: 0.0 s
+1966 [7] starting value validation...
+1966: min=211.180, mean=279.706, max=316.330 K
+1966 [7] value validation done: 0.0 s
+1966 [8] building output dataset...
+1966 [8] dataset built: 0.0 s
+1966 [9] starting NetCDF WRITE...
+1966 [9] WRITE done: 0.01 min
+1966 [10] starting output verification...
+1966 [10] VERIFY done: 0.00 min
+1966 DONE: 34.7 MB
+1966 TOTAL: 2.23 min
+
+======================================================================
+YEAR 1967
+1967 [1] selected 2920 timesteps
+1967 [2] isel done: 0.6 s
+1967 [3] starting LOAD...
+1967 [3] LOAD done: 2.07 min, 51.3 MB
+1967 [4] source time validation: 0.0 s
+1967 [5] starting leap-day processing...
+1967 [5] leap-day processing done: 0.0 s
+1967 [6] final time validation: 0.0 s
+1967 [7] starting value validation...
+1967: min=212.725, mean=279.712, max=315.501 K
+1967 [7] value validation done: 0.0 s
+1967 [8] building output dataset...
+1967 [8] dataset built: 0.0 s
+1967 [9] starting NetCDF WRITE...
+1967 [9] WRITE done: 0.01 min
+1967 [10] starting output verification...
+1967 [10] VERIFY done: 0.00 min
+1967 DONE: 34.7 MB
+1967 TOTAL: 2.08 min
+
+======================================================================
+YEAR 1968
+1968 [1] selected 2920 timesteps
+1968 [2] isel done: 0.6 s
+1968 [3] starting LOAD...
+1968 [3] LOAD done: 1.91 min, 51.3 MB
+1968: SPEEDY leap gap found: 1968-02-28T21 -> 1968-03-01T00
+1968 [4] source time validation: 0.0 s
+1968 [5] starting leap-day processing...
+1968: inserted 8 records for Feb 29
+1968 [5] leap-day processing done: 0.3 s
+1968 [6] final time validation: 0.0 s
+1968 [7] starting value validation...
+1968: min=212.719, mean=279.663, max=317.247 K
+1968 [7] value validation done: 0.1 s
+1968 [8] building output dataset...
+1968 [8] dataset built: 0.0 s
+1968 [9] starting NetCDF WRITE...
+1968 [9] WRITE done: 0.01 min
+1968 [10] starting output verification...
+1968 [10] VERIFY done: 0.00 min
+1968 DONE: 34.7 MB
+1968 TOTAL: 1.93 min
+
+======================================================================
+YEAR 1969
+1969 [1] selected 2920 timesteps
+1969 [2] isel done: 0.6 s
+1969 [3] starting LOAD...
+1969 [3] LOAD done: 1.88 min, 51.3 MB
+1969 [4] source time validation: 0.0 s
+1969 [5] starting leap-day processing...
+1969 [5] leap-day processing done: 0.0 s
+1969 [6] final time validation: 0.0 s
+1969 [7] starting value validation...
+1969: min=210.282, mean=279.817, max=317.106 K
+1969 [7] value validation done: 0.1 s
+1969 [8] building output dataset...
+1969 [8] dataset built: 0.0 s
+1969 [9] starting NetCDF WRITE...
+1969 [9] WRITE done: 0.01 min
+1969 [10] starting output verification...
+1969 [10] VERIFY done: 0.00 min
+1969 DONE: 34.7 MB
+1969 TOTAL: 1.90 min
+
+======================================================================
+YEAR 1970
+1970 [1] selected 2920 timesteps
+1970 [2] isel done: 0.6 s
+1970 [3] starting LOAD...
+1970 [3] LOAD done: 2.07 min, 51.3 MB
+1970 [4] source time validation: 0.0 s
+1970 [5] starting leap-day processing...
+1970 [5] leap-day processing done: 0.0 s
+1970 [6] final time validation: 0.0 s
+1970 [7] starting value validation...
+1970: min=210.776, mean=279.693, max=316.407 K
+1970 [7] value validation done: 0.1 s
+1970 [8] building output dataset...
+1970 [8] dataset built: 0.0 s
+1970 [9] starting NetCDF WRITE...
+1970 [9] WRITE done: 0.01 min
+1970 [10] starting output verification...
+1970 [10] VERIFY done: 0.00 min
+1970 DONE: 34.7 MB
+1970 TOTAL: 2.09 min
+
+======================================================================
+YEAR 1971
+1971 [1] selected 2920 timesteps
+1971 [2] isel done: 0.6 s
+1971 [3] starting LOAD...
+1971 [3] LOAD done: 2.34 min, 51.3 MB
+1971 [4] source time validation: 0.0 s
+1971 [5] starting leap-day processing...
+1971 [5] leap-day processing done: 0.0 s
+1971 [6] final time validation: 0.0 s
+1971 [7] starting value validation...
+1971: min=211.940, mean=279.509, max=316.329 K
+1971 [7] value validation done: 0.1 s
+1971 [8] building output dataset...
+1971 [8] dataset built: 0.0 s
+1971 [9] starting NetCDF WRITE...
+1971 [9] WRITE done: 0.01 min
+1971 [10] starting output verification...
+1971 [10] VERIFY done: 0.00 min
+1971 DONE: 34.7 MB
+1971 TOTAL: 2.36 min
+
+======================================================================
+YEAR 1972
+1972 [1] selected 2920 timesteps
+1972 [2] isel done: 0.6 s
+1972 [3] starting LOAD...
+1972 [3] LOAD done: 0.26 min, 51.3 MB
+1972: SPEEDY leap gap found: 1972-02-28T21 -> 1972-03-01T00
+1972 [4] source time validation: 0.0 s
+1972 [5] starting leap-day processing...
+1972: inserted 8 records for Feb 29
+1972 [5] leap-day processing done: 0.3 s
+1972 [6] final time validation: 0.0 s
+1972 [7] starting value validation...
+1972: min=209.811, mean=279.751, max=316.185 K
+1972 [7] value validation done: 0.1 s
+1972 [8] building output dataset...
+1972 [8] dataset built: 0.0 s
+1972 [9] starting NetCDF WRITE...
+1972 [9] WRITE done: 0.01 min
+1972 [10] starting output verification...
+1972 [10] VERIFY done: 0.00 min
+1972 DONE: 34.8 MB
+1972 TOTAL: 0.28 min
+
+======================================================================
+YEAR 1973
+1973 [1] selected 2920 timesteps
+1973 [2] isel done: 0.6 s
+1973 [3] starting LOAD...
+1973 [3] LOAD done: 2.40 min, 51.3 MB
+1973 [4] source time validation: 0.0 s
+1973 [5] starting leap-day processing...
+1973 [5] leap-day processing done: 0.0 s
+1973 [6] final time validation: 0.0 s
+1973 [7] starting value validation...
+1973: min=210.739, mean=279.762, max=315.475 K
+1973 [7] value validation done: 0.0 s
+1973 [8] building output dataset...
+1973 [8] dataset built: 0.0 s
+1973 [9] starting NetCDF WRITE...
+1973 [9] WRITE done: 0.01 min
+1973 [10] starting output verification...
+1973 [10] VERIFY done: 0.00 min
+1973 DONE: 34.7 MB
+1973 TOTAL: 2.42 min
+
+======================================================================
+YEAR 1974
+1974 [1] selected 2920 timesteps
+1974 [2] isel done: 0.6 s
+1974 [3] starting LOAD...
+1974 [3] LOAD done: 1.83 min, 51.3 MB
+1974 [4] source time validation: 0.0 s
+1974 [5] starting leap-day processing...
+1974 [5] leap-day processing done: 0.0 s
+1974 [6] final time validation: 0.0 s
+1974 [7] starting value validation...
+1974: min=208.894, mean=279.567, max=315.444 K
+1974 [7] value validation done: 0.1 s
+1974 [8] building output dataset...
+1974 [8] dataset built: 0.0 s
+1974 [9] starting NetCDF WRITE...
+1974 [9] WRITE done: 0.01 min
+1974 [10] starting output verification...
+1974 [10] VERIFY done: 0.00 min
+1974 DONE: 34.7 MB
+1974 TOTAL: 1.85 min
+
+======================================================================
+YEAR 1975
+1975 [1] selected 2920 timesteps
+1975 [2] isel done: 0.6 s
+1975 [3] starting LOAD...
+1975 [3] LOAD done: 2.13 min, 51.3 MB
+1975 [4] source time validation: 0.0 s
+1975 [5] starting leap-day processing...
+1975 [5] leap-day processing done: 0.0 s
+1975 [6] final time validation: 0.0 s
+1975 [7] starting value validation...
+1975: min=211.722, mean=279.448, max=315.574 K
+1975 [7] value validation done: 0.1 s
+1975 [8] building output dataset...
+1975 [8] dataset built: 0.0 s
+1975 [9] starting NetCDF WRITE...
+1975 [9] WRITE done: 0.01 min
+1975 [10] starting output verification...
+1975 [10] VERIFY done: 0.00 min
+1975 DONE: 34.7 MB
+1975 TOTAL: 2.15 min
+
+======================================================================
+YEAR 1976
+1976 [1] selected 2920 timesteps
+1976 [2] isel done: 0.6 s
+1976 [3] starting LOAD...
+1976 [3] LOAD done: 1.98 min, 51.3 MB
+1976: SPEEDY leap gap found: 1976-02-28T21 -> 1976-03-01T00
+1976 [4] source time validation: 0.0 s
+1976 [5] starting leap-day processing...
+1976: inserted 8 records for Feb 29
+1976 [5] leap-day processing done: 0.3 s
+1976 [6] final time validation: 0.0 s
+1976 [7] starting value validation...
+1976: min=211.954, mean=279.634, max=315.915 K
+1976 [7] value validation done: 0.0 s
+1976 [8] building output dataset...
+1976 [8] dataset built: 0.0 s
+1976 [9] starting NetCDF WRITE...
+1976 [9] WRITE done: 0.00 min
+1976 [10] starting output verification...
+1976 [10] VERIFY done: 0.00 min
+1976 DONE: 34.8 MB
+1976 TOTAL: 2.00 min
+
+======================================================================
+YEAR 1977
+1977 [1] selected 2920 timesteps
+1977 [2] isel done: 0.5 s
+1977 [3] starting LOAD...
+1977 [3] LOAD done: 2.19 min, 51.3 MB
+1977 [4] source time validation: 0.0 s
+1977 [5] starting leap-day processing...
+1977 [5] leap-day processing done: 0.0 s
+1977 [6] final time validation: 0.0 s
+1977 [7] starting value validation...
+1977: min=211.768, mean=279.766, max=317.106 K
+1977 [7] value validation done: 0.0 s
+1977 [8] building output dataset...
+1977 [8] dataset built: 0.0 s
+1977 [9] starting NetCDF WRITE...
+1977 [9] WRITE done: 0.01 min
+1977 [10] starting output verification...
+1977 [10] VERIFY done: 0.00 min
+1977 DONE: 34.7 MB
+1977 TOTAL: 2.20 min
+
+======================================================================
+YEAR 1978
+1978 [1] selected 2920 timesteps
+1978 [2] isel done: 0.5 s
+1978 [3] starting LOAD...
+1978 [3] LOAD done: 2.92 min, 51.3 MB
+1978 [4] source time validation: 0.0 s
+1978 [5] starting leap-day processing...
+1978 [5] leap-day processing done: 0.0 s
+1978 [6] final time validation: 0.0 s
+1978 [7] starting value validation...
+1978: min=212.752, mean=279.834, max=316.725 K
+1978 [7] value validation done: 0.0 s
+1978 [8] building output dataset...
+1978 [8] dataset built: 0.0 s
+1978 [9] starting NetCDF WRITE...
+1978 [9] WRITE done: 0.08 min
+1978 [10] starting output verification...
+1978 [10] VERIFY done: 0.00 min
+1978 DONE: 34.6 MB
+1978 TOTAL: 3.01 min
+
+======================================================================
+YEAR 1979
+1979 [1] selected 2920 timesteps
+1979 [2] isel done: 0.5 s
+1979 [3] starting LOAD...
+1979 [3] LOAD done: 2.29 min, 51.3 MB
+1979 [4] source time validation: 0.0 s
+1979 [5] starting leap-day processing...
+1979 [5] leap-day processing done: 0.0 s
+1979 [6] final time validation: 0.0 s
+1979 [7] starting value validation...
+1979: min=209.839, mean=279.764, max=316.262 K
+1979 [7] value validation done: 0.0 s
+1979 [8] building output dataset...
+1979 [8] dataset built: 0.0 s
+1979 [9] starting NetCDF WRITE...
+1979 [9] WRITE done: 0.01 min
+1979 [10] starting output verification...
+1979 [10] VERIFY done: 0.00 min
+1979 DONE: 34.7 MB
+1979 TOTAL: 2.30 min
+
+======================================================================
+YEAR 1980
+1980 [1] selected 2920 timesteps
+1980 [2] isel done: 0.5 s
+1980 [3] starting LOAD...
+1980 [3] LOAD done: 1.76 min, 51.3 MB
+1980: SPEEDY leap gap found: 1980-02-28T21 -> 1980-03-01T00
+1980 [4] source time validation: 0.0 s
+1980 [5] starting leap-day processing...
+1980: inserted 8 records for Feb 29
+1980 [5] leap-day processing done: 0.3 s
+1980 [6] final time validation: 0.0 s
+1980 [7] starting value validation...
+1980: min=210.520, mean=279.821, max=316.343 K
+1980 [7] value validation done: 0.0 s
+1980 [8] building output dataset...
+1980 [8] dataset built: 0.0 s
+1980 [9] starting NetCDF WRITE...
+1980 [9] WRITE done: 0.00 min
+1980 [10] starting output verification...
+1980 [10] VERIFY done: 0.00 min
+1980 DONE: 34.8 MB
+1980 TOTAL: 1.78 min
+
+======================================================================
+YEAR 1981
+1981 [1] selected 2920 timesteps
+1981 [2] isel done: 0.5 s
+1981 [3] starting LOAD...
+1981 [3] LOAD done: 1.90 min, 51.3 MB
+1981 [4] source time validation: 0.0 s
+1981 [5] starting leap-day processing...
+1981 [5] leap-day processing done: 0.0 s
+1981 [6] final time validation: 0.0 s
+1981 [7] starting value validation...
+1981: min=208.351, mean=279.871, max=315.727 K
+1981 [7] value validation done: 0.0 s
+1981 [8] building output dataset...
+1981 [8] dataset built: 0.0 s
+1981 [9] starting NetCDF WRITE...
+1981 [9] WRITE done: 0.01 min
+1981 [10] starting output verification...
+1981 [10] VERIFY done: 0.00 min
+1981 DONE: 34.6 MB
+1981 TOTAL: 1.92 min
+
+======================================================================
+YEAR 1982
+1982 [1] selected 2920 timesteps
+1982 [2] isel done: 0.5 s
+1982 [3] starting LOAD...
+1982 [3] LOAD done: 2.08 min, 51.3 MB
+1982 [4] source time validation: 0.0 s
+1982 [5] starting leap-day processing...
+1982 [5] leap-day processing done: 0.0 s
+1982 [6] final time validation: 0.0 s
+1982 [7] starting value validation...
+1982: min=211.497, mean=279.761, max=315.366 K
+1982 [7] value validation done: 0.0 s
+1982 [8] building output dataset...
+1982 [8] dataset built: 0.0 s
+1982 [9] starting NetCDF WRITE...
+1982 [9] WRITE done: 0.01 min
+1982 [10] starting output verification...
+1982 [10] VERIFY done: 0.00 min
+1982 DONE: 34.7 MB
+1982 TOTAL: 2.09 min
+
+======================================================================
+YEAR 1983
+1983 [1] selected 2920 timesteps
+1983 [2] isel done: 0.5 s
+1983 [3] starting LOAD...
+1983 [3] LOAD done: 2.18 min, 51.3 MB
+1983 [4] source time validation: 0.0 s
+1983 [5] starting leap-day processing...
+1983 [5] leap-day processing done: 0.0 s
+1983 [6] final time validation: 0.0 s
+1983 [7] starting value validation...
+1983: min=213.302, mean=279.970, max=315.489 K
+1983 [7] value validation done: 0.0 s
+1983 [8] building output dataset...
+1983 [8] dataset built: 0.0 s
+1983 [9] starting NetCDF WRITE...
+1983 [9] WRITE done: 0.00 min
+1983 [10] starting output verification...
+1983 [10] VERIFY done: 0.00 min
+1983 DONE: 34.7 MB
+1983 TOTAL: 2.20 min
+
+======================================================================
+YEAR 1984
+1984 [1] selected 2920 timesteps
+1984 [2] isel done: 0.5 s
+1984 [3] starting LOAD...
+1984 [3] LOAD done: 0.08 min, 51.3 MB
+1984: SPEEDY leap gap found: 1984-02-28T21 -> 1984-03-01T00
+1984 [4] source time validation: 0.0 s
+1984 [5] starting leap-day processing...
+1984: inserted 8 records for Feb 29
+1984 [5] leap-day processing done: 0.3 s
+1984 [6] final time validation: 0.0 s
+1984 [7] starting value validation...
+1984: min=211.776, mean=279.818, max=315.806 K
+1984 [7] value validation done: 0.0 s
+1984 [8] building output dataset...
+1984 [8] dataset built: 0.0 s
+1984 [9] starting NetCDF WRITE...
+1984 [9] WRITE done: 0.00 min
+1984 [10] starting output verification...
+1984 [10] VERIFY done: 0.00 min
+1984 DONE: 34.8 MB
+1984 TOTAL: 0.10 min
+
+======================================================================
+YEAR 1985
+1985 [1] selected 2920 timesteps
+1985 [2] isel done: 0.5 s
+1985 [3] starting LOAD...
+1985 [3] LOAD done: 0.16 min, 51.3 MB
+1985 [4] source time validation: 0.0 s
+1985 [5] starting leap-day processing...
+1985 [5] leap-day processing done: 0.0 s
+1985 [6] final time validation: 0.0 s
+1985 [7] starting value validation...
+1985: min=209.949, mean=279.675, max=316.061 K
+1985 [7] value validation done: 0.0 s
+1985 [8] building output dataset...
+1985 [8] dataset built: 0.0 s
+1985 [9] starting NetCDF WRITE...
+1985 [9] WRITE done: 0.00 min
+1985 [10] starting output verification...
+1985 [10] VERIFY done: 0.00 min
+1985 DONE: 34.7 MB
+1985 TOTAL: 0.17 min
+
+======================================================================
+YEAR 1986
+1986 [1] selected 2920 timesteps
+1986 [2] isel done: 0.5 s
+1986 [3] starting LOAD...
+1986 [3] LOAD done: 0.16 min, 51.3 MB
+1986 [4] source time validation: 0.0 s
+1986 [5] starting leap-day processing...
+1986 [5] leap-day processing done: 0.0 s
+1986 [6] final time validation: 0.0 s
+1986 [7] starting value validation...
+1986: min=211.580, mean=279.675, max=315.693 K
+1986 [7] value validation done: 0.0 s
+1986 [8] building output dataset...
+1986 [8] dataset built: 0.0 s
+1986 [9] starting NetCDF WRITE...
+1986 [9] WRITE done: 0.00 min
+1986 [10] starting output verification...
+1986 [10] VERIFY done: 0.00 min
+1986 DONE: 34.7 MB
+1986 TOTAL: 0.18 min
+
+======================================================================
+YEAR 1987
+1987 [1] selected 2920 timesteps
+1987 [2] isel done: 0.5 s
+1987 [3] starting LOAD...
+1987 [3] LOAD done: 0.08 min, 51.3 MB
+1987 [4] source time validation: 0.0 s
+1987 [5] starting leap-day processing...
+1987 [5] leap-day processing done: 0.0 s
+1987 [6] final time validation: 0.0 s
+1987 [7] starting value validation...
+1987: min=211.289, mean=279.868, max=316.735 K
+1987 [7] value validation done: 0.0 s
+1987 [8] building output dataset...
+1987 [8] dataset built: 0.0 s
+1987 [9] starting NetCDF WRITE...
+1987 [9] WRITE done: 0.00 min
+1987 [10] starting output verification...
+1987 [10] VERIFY done: 0.00 min
+1987 DONE: 34.7 MB
+1987 TOTAL: 0.10 min
+
+======================================================================
+YEAR 1988
+1988 [1] selected 2920 timesteps
+1988 [2] isel done: 0.5 s
+1988 [3] starting LOAD...
+1988 [3] LOAD done: 2.12 min, 51.3 MB
+1988: SPEEDY leap gap found: 1988-02-28T21 -> 1988-03-01T00
+1988 [4] source time validation: 0.0 s
+1988 [5] starting leap-day processing...
+1988: inserted 8 records for Feb 29
+1988 [5] leap-day processing done: 0.3 s
+1988 [6] final time validation: 0.0 s
+1988 [7] starting value validation...
+1988: min=211.496, mean=279.770, max=315.794 K
+1988 [7] value validation done: 0.0 s
+1988 [8] building output dataset...
+1988 [8] dataset built: 0.0 s
+1988 [9] starting NetCDF WRITE...
+1988 [9] WRITE done: 0.01 min
+1988 [10] starting output verification...
+1988 [10] VERIFY done: 0.00 min
+1988 DONE: 34.8 MB
+1988 TOTAL: 2.14 min
+
+======================================================================
+YEAR 1989
+1989 [1] selected 2920 timesteps
+1989 [2] isel done: 0.5 s
+1989 [3] starting LOAD...
+1989 [3] LOAD done: 1.93 min, 51.3 MB
+1989 [4] source time validation: 0.0 s
+1989 [5] starting leap-day processing...
+1989 [5] leap-day processing done: 0.0 s
+1989 [6] final time validation: 0.0 s
+1989 [7] starting value validation...
+1989: min=211.355, mean=279.749, max=315.793 K
+1989 [7] value validation done: 0.0 s
+1989 [8] building output dataset...
+1989 [8] dataset built: 0.0 s
+1989 [9] starting NetCDF WRITE...
+1989 [9] WRITE done: 0.01 min
+1989 [10] starting output verification...
+1989 [10] VERIFY done: 0.00 min
+1989 DONE: 34.7 MB
+1989 TOTAL: 1.95 min
+
+======================================================================
+YEAR 1990
+1990 [1] selected 2920 timesteps
+1990 [2] isel done: 0.5 s
+1990 [3] starting LOAD...
+1990 [3] LOAD done: 0.08 min, 51.3 MB
+1990 [4] source time validation: 0.0 s
+1990 [5] starting leap-day processing...
+1990 [5] leap-day processing done: 0.0 s
+1990 [6] final time validation: 0.0 s
+1990 [7] starting value validation...
+1990: min=212.329, mean=279.885, max=316.046 K
+1990 [7] value validation done: 0.0 s
+1990 [8] building output dataset...
+1990 [8] dataset built: 0.0 s
+1990 [9] starting NetCDF WRITE...
+1990 [9] WRITE done: 0.01 min
+1990 [10] starting output verification...
+1990 [10] VERIFY done: 0.00 min
+1990 DONE: 34.7 MB
+1990 TOTAL: 0.10 min
+
+======================================================================
+YEAR 1991
+1991 [1] selected 2920 timesteps
+1991 [2] isel done: 0.5 s
+1991 [3] starting LOAD...
+1991 [3] LOAD done: 2.22 min, 51.3 MB
+1991 [4] source time validation: 0.0 s
+1991 [5] starting leap-day processing...
+1991 [5] leap-day processing done: 0.0 s
+1991 [6] final time validation: 0.0 s
+1991 [7] starting value validation...
+1991: min=209.544, mean=279.911, max=315.493 K
+1991 [7] value validation done: 0.0 s
+1991 [8] building output dataset...
+1991 [8] dataset built: 0.0 s
+1991 [9] starting NetCDF WRITE...
+1991 [9] WRITE done: 0.01 min
+1991 [10] starting output verification...
+1991 [10] VERIFY done: 0.00 min
+1991 DONE: 34.7 MB
+1991 TOTAL: 2.23 min
+
+======================================================================
+YEAR 1992
+1992 [1] selected 2920 timesteps
+1992 [2] isel done: 0.5 s
+1992 [3] starting LOAD...
+1992 [3] LOAD done: 2.04 min, 51.3 MB
+1992: SPEEDY leap gap found: 1992-02-28T21 -> 1992-03-01T00
+1992 [4] source time validation: 0.0 s
+1992 [5] starting leap-day processing...
+1992: inserted 8 records for Feb 29
+1992 [5] leap-day processing done: 0.3 s
+1992 [6] final time validation: 0.0 s
+1992 [7] starting value validation...
+1992: min=212.554, mean=279.808, max=316.492 K
+1992 [7] value validation done: 0.0 s
+1992 [8] building output dataset...
+1992 [8] dataset built: 0.0 s
+1992 [9] starting NetCDF WRITE...
+1992 [9] WRITE done: 0.00 min
+1992 [10] starting output verification...
+1992 [10] VERIFY done: 0.00 min
+1992 DONE: 34.8 MB
+1992 TOTAL: 2.06 min
+
+======================================================================
+YEAR 1993
+1993 [1] selected 2920 timesteps
+1993 [2] isel done: 0.5 s
+1993 [3] starting LOAD...
+1993 [3] LOAD done: 1.96 min, 51.3 MB
+1993 [4] source time validation: 0.0 s
+1993 [5] starting leap-day processing...
+1993 [5] leap-day processing done: 0.0 s
+1993 [6] final time validation: 0.0 s
+1993 [7] starting value validation...
+1993: min=210.971, mean=279.806, max=315.434 K
+1993 [7] value validation done: 0.0 s
+1993 [8] building output dataset...
+1993 [8] dataset built: 0.0 s
+1993 [9] starting NetCDF WRITE...
+1993 [9] WRITE done: 0.01 min
+1993 [10] starting output verification...
+1993 [10] VERIFY done: 0.00 min
+1993 DONE: 34.7 MB
+1993 TOTAL: 1.98 min
+
+======================================================================
+YEAR 1994
+1994 [1] selected 2920 timesteps
+1994 [2] isel done: 0.5 s
+1994 [3] starting LOAD...
+1994 [3] LOAD done: 2.15 min, 51.3 MB
+1994 [4] source time validation: 0.0 s
+1994 [5] starting leap-day processing...
+1994 [5] leap-day processing done: 0.0 s
+1994 [6] final time validation: 0.0 s
+1994 [7] starting value validation...
+1994: min=211.918, mean=279.930, max=316.215 K
+1994 [7] value validation done: 0.0 s
+1994 [8] building output dataset...
+1994 [8] dataset built: 0.0 s
+1994 [9] starting NetCDF WRITE...
+1994 [9] WRITE done: 0.00 min
+1994 [10] starting output verification...
+1994 [10] VERIFY done: 0.00 min
+1994 DONE: 34.7 MB
+1994 TOTAL: 2.17 min
+
+======================================================================
+YEAR 1995
+1995 [1] selected 2920 timesteps
+1995 [2] isel done: 0.5 s
+1995 [3] starting LOAD...
+1995 [3] LOAD done: 1.96 min, 51.3 MB
+1995 [4] source time validation: 0.0 s
+1995 [5] starting leap-day processing...
+1995 [5] leap-day processing done: 0.0 s
+1995 [6] final time validation: 0.0 s
+1995 [7] starting value validation...
+1995: min=207.377, mean=279.954, max=315.833 K
+1995 [7] value validation done: 0.0 s
+1995 [8] building output dataset...
+1995 [8] dataset built: 0.0 s
+1995 [9] starting NetCDF WRITE...
+1995 [9] WRITE done: 0.00 min
+1995 [10] starting output verification...
+1995 [10] VERIFY done: 0.00 min
+1995 DONE: 34.7 MB
+1995 TOTAL: 1.98 min
+
+======================================================================
+YEAR 1996
+1996 [1] selected 2920 timesteps
+1996 [2] isel done: 0.5 s
+1996 [3] starting LOAD...
+1996 [3] LOAD done: 2.02 min, 51.3 MB
+1996: SPEEDY leap gap found: 1996-02-28T21 -> 1996-03-01T00
+1996 [4] source time validation: 0.0 s
+1996 [5] starting leap-day processing...
+1996: inserted 8 records for Feb 29
+1996 [5] leap-day processing done: 0.3 s
+1996 [6] final time validation: 0.0 s
+1996 [7] starting value validation...
+1996: min=212.118, mean=279.838, max=316.193 K
+1996 [7] value validation done: 0.0 s
+1996 [8] building output dataset...
+1996 [8] dataset built: 0.0 s
+1996 [9] starting NetCDF WRITE...
+1996 [9] WRITE done: 0.01 min
+1996 [10] starting output verification...
+1996 [10] VERIFY done: 0.00 min
+1996 DONE: 34.8 MB
+1996 TOTAL: 2.04 min
+
+======================================================================
+YEAR 1997
+1997 [1] selected 2920 timesteps
+1997 [2] isel done: 0.5 s
+1997 [3] starting LOAD...
+1997 [3] LOAD done: 6.09 min, 51.3 MB
+1997 [4] source time validation: 0.0 s
+1997 [5] starting leap-day processing...
+1997 [5] leap-day processing done: 0.0 s
+1997 [6] final time validation: 0.0 s
+1997 [7] starting value validation...
+1997: min=211.131, mean=279.984, max=316.275 K
+1997 [7] value validation done: 0.0 s
+1997 [8] building output dataset...
+1997 [8] dataset built: 0.0 s
+1997 [9] starting NetCDF WRITE...
+1997 [9] WRITE done: 0.36 min
+1997 [10] starting output verification...
+1997 [10] VERIFY done: 0.00 min
+1997 DONE: 34.7 MB
+1997 TOTAL: 6.46 min
+
+======================================================================
+YEAR 1998
+1998 [1] selected 2920 timesteps
+1998 [2] isel done: 0.5 s
+1998 [3] starting LOAD...
+1998 [3] LOAD done: 2.74 min, 51.3 MB
+1998 [4] source time validation: 0.0 s
+1998 [5] starting leap-day processing...
+1998 [5] leap-day processing done: 0.0 s
+1998 [6] final time validation: 0.0 s
+1998 [7] starting value validation...
+1998: min=211.466, mean=280.204, max=316.793 K
+1998 [7] value validation done: 0.0 s
+1998 [8] building output dataset...
+1998 [8] dataset built: 0.0 s
+1998 [9] starting NetCDF WRITE...
+1998 [9] WRITE done: 0.00 min
+1998 [10] starting output verification...
+1998 [10] VERIFY done: 0.00 min
+1998 DONE: 34.7 MB
+1998 TOTAL: 2.76 min
+
+======================================================================
+YEAR 1999
+1999 [1] selected 2920 timesteps
+1999 [2] isel done: 0.5 s
+1999 [3] starting LOAD...
+1999 [3] LOAD done: 2.48 min, 51.3 MB
+1999 [4] source time validation: 0.0 s
+1999 [5] starting leap-day processing...
+1999 [5] leap-day processing done: 0.0 s
+1999 [6] final time validation: 0.0 s
+1999 [7] starting value validation...
+1999: min=210.319, mean=279.860, max=316.753 K
+1999 [7] value validation done: 0.0 s
+1999 [8] building output dataset...
+1999 [8] dataset built: 0.0 s
+1999 [9] starting NetCDF WRITE...
+1999 [9] WRITE done: 0.00 min
+1999 [10] starting output verification...
+1999 [10] VERIFY done: 0.00 min
+1999 DONE: 34.7 MB
+1999 TOTAL: 2.49 min
+
+======================================================================
+YEAR 2000
+2000 [1] selected 2920 timesteps
+2000 [2] isel done: 0.5 s
+2000 [3] starting LOAD...
+2000 [3] LOAD done: 5.43 min, 51.3 MB
+2000: SPEEDY leap gap found: 2000-02-28T21 -> 2000-03-01T00
+2000 [4] source time validation: 0.0 s
+2000 [5] starting leap-day processing...
+2000: inserted 8 records for Feb 29
+2000 [5] leap-day processing done: 0.3 s
+2000 [6] final time validation: 0.0 s
+2000 [7] starting value validation...
+2000: min=213.064, mean=279.787, max=316.574 K
+2000 [7] value validation done: 0.0 s
+2000 [8] building output dataset...
+2000 [8] dataset built: 0.0 s
+2000 [9] starting NetCDF WRITE...
+2000 [9] WRITE done: 0.02 min
+2000 [10] starting output verification...
+2000 [10] VERIFY done: 0.00 min
+2000 DONE: 34.8 MB
+2000 TOTAL: 5.46 min
+
+======================================================================
+YEAR 2001
+2001 [1] selected 2920 timesteps
+2001 [2] isel done: 0.5 s
+2001 [3] starting LOAD...
+2001 [3] LOAD done: 13.01 min, 51.3 MB
+2001 [4] source time validation: 0.0 s
+2001 [5] starting leap-day processing...
+2001 [5] leap-day processing done: 0.0 s
+2001 [6] final time validation: 0.0 s
+2001 [7] starting value validation...
+2001: min=211.802, mean=279.986, max=316.387 K
+2001 [7] value validation done: 0.1 s
+2001 [8] building output dataset...
+2001 [8] dataset built: 0.0 s
+2001 [9] starting NetCDF WRITE...
+2001 [9] WRITE done: 0.02 min
+2001 [10] starting output verification...
+2001 [10] VERIFY done: 0.00 min
+2001 DONE: 34.7 MB
+2001 TOTAL: 13.03 min
+
+======================================================================
+YEAR 2002
+2002 [1] selected 2920 timesteps
+2002 [2] isel done: 0.5 s
+2002 [3] starting LOAD...
+2002 [3] LOAD done: 5.61 min, 51.3 MB
+2002 [4] source time validation: 0.0 s
+2002 [5] starting leap-day processing...
+2002 [5] leap-day processing done: 0.0 s
+2002 [6] final time validation: 0.0 s
+2002 [7] starting value validation...
+2002: min=212.674, mean=280.021, max=315.810 K
+2002 [7] value validation done: 0.0 s
+2002 [8] building output dataset...
+2002 [8] dataset built: 0.0 s
+2002 [9] starting NetCDF WRITE...
+2002 [9] WRITE done: 0.01 min
+2002 [10] starting output verification...
+2002 [10] VERIFY done: 0.00 min
+2002 DONE: 34.7 MB
+2002 TOTAL: 5.63 min
+
+======================================================================
+YEAR 2003
+2003 [1] selected 2920 timesteps
+2003 [2] isel done: 0.5 s
+2003 [3] starting LOAD...
+2003 [3] LOAD done: 0.21 min, 51.3 MB
+2003 [4] source time validation: 0.0 s
+2003 [5] starting leap-day processing...
+2003 [5] leap-day processing done: 0.0 s
+2003 [6] final time validation: 0.0 s
+2003 [7] starting value validation...
+2003: min=211.862, mean=280.199, max=316.585 K
+2003 [7] value validation done: 0.0 s
+2003 [8] building output dataset...
+2003 [8] dataset built: 0.0 s
+2003 [9] starting NetCDF WRITE...
+2003 [9] WRITE done: 0.01 min
+2003 [10] starting output verification...
+2003 [10] VERIFY done: 0.00 min
+2003 DONE: 34.7 MB
+2003 TOTAL: 0.23 min
+
+======================================================================
+YEAR 2004
+2004 [1] selected 2920 timesteps
+2004 [2] isel done: 0.5 s
+2004 [3] starting LOAD...
+2004 [3] LOAD done: 2.43 min, 51.3 MB
+2004: SPEEDY leap gap found: 2004-02-28T21 -> 2004-03-01T00
+2004 [4] source time validation: 0.0 s
+2004 [5] starting leap-day processing...
+2004: inserted 8 records for Feb 29
+2004 [5] leap-day processing done: 0.3 s
+2004 [6] final time validation: 0.0 s
+2004 [7] starting value validation...
+2004: min=213.119, mean=280.017, max=316.078 K
+2004 [7] value validation done: 0.0 s
+2004 [8] building output dataset...
+2004 [8] dataset built: 0.0 s
+2004 [9] starting NetCDF WRITE...
+2004 [9] WRITE done: 0.01 min
+2004 [10] starting output verification...
+2004 [10] VERIFY done: 0.00 min
+2004 DONE: 34.8 MB
+2004 TOTAL: 2.45 min
+
+======================================================================
+YEAR 2005
+2005 [1] selected 2920 timesteps
+2005 [2] isel done: 0.5 s
+2005 [3] starting LOAD...
+2005 [3] LOAD done: 0.20 min, 51.3 MB
+2005 [4] source time validation: 0.0 s
+2005 [5] starting leap-day processing...
+2005 [5] leap-day processing done: 0.0 s
+2005 [6] final time validation: 0.0 s
+2005 [7] starting value validation...
+2005: min=211.379, mean=280.103, max=316.935 K
+2005 [7] value validation done: 0.0 s
+2005 [8] building output dataset...
+2005 [8] dataset built: 0.0 s
+2005 [9] starting NetCDF WRITE...
+2005 [9] WRITE done: 0.04 min
+2005 [10] starting output verification...
+2005 [10] VERIFY done: 0.00 min
+2005 DONE: 34.7 MB
+2005 TOTAL: 0.25 min
+
+======================================================================
+YEAR 2006
+2006 [1] selected 2920 timesteps
+2006 [2] isel done: 0.5 s
+2006 [3] starting LOAD...
+2006 [3] LOAD done: 2.23 min, 51.3 MB
+2006 [4] source time validation: 0.0 s
+2006 [5] starting leap-day processing...
+2006 [5] leap-day processing done: 0.0 s
+2006 [6] final time validation: 0.0 s
+2006 [7] starting value validation...
+2006: min=211.360, mean=280.068, max=317.510 K
+2006 [7] value validation done: 0.0 s
+2006 [8] building output dataset...
+2006 [8] dataset built: 0.0 s
+2006 [9] starting NetCDF WRITE...
+2006 [9] WRITE done: 0.01 min
+2006 [10] starting output verification...
+2006 [10] VERIFY done: 0.00 min
+2006 DONE: 34.7 MB
+2006 TOTAL: 2.24 min
+
+======================================================================
+YEAR 2007
+2007 [1] selected 2920 timesteps
+2007 [2] isel done: 0.5 s
+2007 [3] starting LOAD...
+2007 [3] LOAD done: 1.95 min, 51.3 MB
+2007 [4] source time validation: 0.0 s
+2007 [5] starting leap-day processing...
+2007 [5] leap-day processing done: 0.0 s
+2007 [6] final time validation: 0.0 s
+2007 [7] starting value validation...
+2007: min=211.804, mean=279.955, max=316.796 K
+2007 [7] value validation done: 0.0 s
+2007 [8] building output dataset...
+2007 [8] dataset built: 0.0 s
+2007 [9] starting NetCDF WRITE...
+2007 [9] WRITE done: 0.00 min
+2007 [10] starting output verification...
+2007 [10] VERIFY done: 0.00 min
+2007 DONE: 34.7 MB
+2007 TOTAL: 1.96 min
+
+======================================================================
+YEAR 2008
+2008 [1] selected 2920 timesteps
+2008 [2] isel done: 0.5 s
+2008 [3] starting LOAD...

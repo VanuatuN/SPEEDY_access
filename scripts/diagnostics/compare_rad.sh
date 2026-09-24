@@ -7,8 +7,8 @@
 #SBATCH --mem=32G
 #SBATCH -t 00:30:00
 #SBATCH -J tas
-#SBATCH -o tas_%j.out
-#SBATCH -e tas_%j.err
+#SBATCH -o rad_%j.out
+#SBATCH -e rad_%j.err
 #SBATCH --export=NONE
 
 set -e
@@ -22,4 +22,4 @@ echo "NODE: $(hostname)"
 echo "PYTHON: $(which python)"
 python --version
 
-python compare_tas_iaf.py
+python compare_rad_iaf.py

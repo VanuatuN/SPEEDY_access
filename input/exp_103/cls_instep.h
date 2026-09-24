@@ -1,7 +1,7 @@
 C--
 C--   Length of the integration and time stepping constants (common ISTEPS)
 
-      NMONTS = 852
+      NMONTS = 828
 
       NDAYSL = 0
       NSTEPS = 48

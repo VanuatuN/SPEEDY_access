@@ -1,0 +1,612 @@
+
+======================================================================
+YEAR 1989
+1989 [1] selected 2920 timesteps
+1989 [2] starting LOAD...
+1989 [2] LOAD: 4.70 min
+1989 [3] leap/time: 0.0 s
+1989: prra min=0.00000000, mean=0.00002400, max=0.00215381
+1989: prsn min=0.00000000, mean=0.00000293, max=0.00056442
+1989 [4] writing prra...
+1989 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_1989.nc: 25.8 MB
+1989 [4] writing prsn...
+1989 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_1989.nc: 11.2 MB
+1989 TOTAL: 4.76 min
+
+======================================================================
+YEAR 1990
+1990 [1] selected 2920 timesteps
+1990 [2] starting LOAD...
+1990 [2] LOAD: 1.06 min
+1990 [3] leap/time: 0.0 s
+1990: prra min=0.00000000, mean=0.00002419, max=0.00155293
+1990: prsn min=0.00000000, mean=0.00000283, max=0.00069969
+1990 [4] writing prra...
+1990 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_1990.nc: 25.6 MB
+1990 [4] writing prsn...
+1990 [4] prsn WRITE: 0.01 min
+DONE prsn_SPEEDY_1990.nc: 10.8 MB
+1990 TOTAL: 1.11 min
+
+======================================================================
+YEAR 1991
+1991 [1] selected 2920 timesteps
+1991 [2] starting LOAD...
+1991 [2] LOAD: 6.48 min
+1991 [3] leap/time: 0.0 s
+1991: prra min=0.00000000, mean=0.00002416, max=0.00129856
+1991: prsn min=0.00000000, mean=0.00000297, max=0.00067718
+1991 [4] writing prra...
+1991 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_1991.nc: 25.7 MB
+1991 [4] writing prsn...
+1991 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_1991.nc: 10.8 MB
+1991 TOTAL: 6.53 min
+
+======================================================================
+YEAR 1992
+1992 [1] selected 2920 timesteps
+1992 [2] starting LOAD...
+1992 [2] LOAD: 4.92 min
+1992: leap gap found: 1992-02-28T21 -> 1992-03-01T00
+1992: inserted 8 Feb 29 precipitation intervals
+1992 [3] leap/time: 0.3 s
+1992: prra min=0.00000000, mean=0.00002399, max=0.00154411
+1992: prsn min=0.00000000, mean=0.00000288, max=0.00055761
+1992 [4] writing prra...
+1992 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_1992.nc: 25.6 MB
+1992 [4] writing prsn...
+1992 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_1992.nc: 11.0 MB
+1992 TOTAL: 4.97 min
+
+======================================================================
+YEAR 1993
+1993 [1] selected 2920 timesteps
+1993 [2] starting LOAD...
+1993 [2] LOAD: 4.49 min
+1993 [3] leap/time: 0.0 s
+1993: prra min=0.00000000, mean=0.00002396, max=0.00163173
+1993: prsn min=0.00000000, mean=0.00000305, max=0.00067923
+1993 [4] writing prra...
+1993 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_1993.nc: 25.6 MB
+1993 [4] writing prsn...
+1993 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_1993.nc: 11.0 MB
+1993 TOTAL: 4.54 min
+
+======================================================================
+YEAR 1994
+1994 [1] selected 2920 timesteps
+1994 [2] starting LOAD...
+1994 [2] LOAD: 6.93 min
+1994 [3] leap/time: 0.0 s
+1994: prra min=0.00000000, mean=0.00002421, max=0.00150502
+1994: prsn min=0.00000000, mean=0.00000294, max=0.00067222
+1994 [4] writing prra...
+1994 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_1994.nc: 25.7 MB
+1994 [4] writing prsn...
+1994 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_1994.nc: 10.8 MB
+1994 TOTAL: 6.98 min
+
+======================================================================
+YEAR 1995
+1995 [1] selected 2920 timesteps
+1995 [2] starting LOAD...
+1995 [2] LOAD: 5.84 min
+1995 [3] leap/time: 0.0 s
+1995: prra min=0.00000000, mean=0.00002411, max=0.00156773
+1995: prsn min=0.00000000, mean=0.00000301, max=0.00081512
+1995 [4] writing prra...
+1995 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_1995.nc: 25.6 MB
+1995 [4] writing prsn...
+1995 [4] prsn WRITE: 0.01 min
+DONE prsn_SPEEDY_1995.nc: 10.9 MB
+1995 TOTAL: 5.89 min
+
+======================================================================
+YEAR 1996
+1996 [1] selected 2920 timesteps
+1996 [2] starting LOAD...
+1996 [2] LOAD: 7.08 min
+1996: leap gap found: 1996-02-28T21 -> 1996-03-01T00
+1996: inserted 8 Feb 29 precipitation intervals
+1996 [3] leap/time: 0.2 s
+1996: prra min=0.00000000, mean=0.00002413, max=0.00161431
+1996: prsn min=0.00000000, mean=0.00000301, max=0.00074289
+1996 [4] writing prra...
+1996 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_1996.nc: 25.7 MB
+1996 [4] writing prsn...
+1996 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_1996.nc: 11.1 MB
+1996 TOTAL: 7.14 min
+
+======================================================================
+YEAR 1997
+1997 [1] selected 2920 timesteps
+1997 [2] starting LOAD...
+1997 [2] LOAD: 5.85 min
+1997 [3] leap/time: 0.0 s
+1997: prra min=0.00000000, mean=0.00002421, max=0.00181165
+1997: prsn min=0.00000000, mean=0.00000303, max=0.00058566
+1997 [4] writing prra...
+1997 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_1997.nc: 25.6 MB
+1997 [4] writing prsn...
+1997 [4] prsn WRITE: 0.01 min
+DONE prsn_SPEEDY_1997.nc: 10.9 MB
+1997 TOTAL: 5.91 min
+
+======================================================================
+YEAR 1998
+1998 [1] selected 2920 timesteps
+1998 [2] starting LOAD...
+1998 [2] LOAD: 6.72 min
+1998 [3] leap/time: 0.0 s
+1998: prra min=0.00000000, mean=0.00002446, max=0.00136095
+1998: prsn min=0.00000000, mean=0.00000304, max=0.00057689
+1998 [4] writing prra...
+1998 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_1998.nc: 25.2 MB
+1998 [4] writing prsn...
+1998 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_1998.nc: 10.8 MB
+1998 TOTAL: 6.77 min
+
+======================================================================
+YEAR 1999
+1999 [1] selected 2920 timesteps
+1999 [2] starting LOAD...
+1999 [2] LOAD: 6.05 min
+1999 [3] leap/time: 0.0 s
+1999: prra min=0.00000000, mean=0.00002411, max=0.00136152
+1999: prsn min=0.00000000, mean=0.00000307, max=0.00072140
+1999 [4] writing prra...
+1999 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_1999.nc: 25.7 MB
+1999 [4] writing prsn...
+1999 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_1999.nc: 11.1 MB
+1999 TOTAL: 6.09 min
+
+======================================================================
+YEAR 2000
+2000 [1] selected 2920 timesteps
+2000 [2] starting LOAD...
+2000 [2] LOAD: 4.88 min
+2000: leap gap found: 2000-02-28T21 -> 2000-03-01T00
+2000: inserted 8 Feb 29 precipitation intervals
+2000 [3] leap/time: 0.2 s
+2000: prra min=0.00000000, mean=0.00002406, max=0.00152405
+2000: prsn min=0.00000000, mean=0.00000307, max=0.00055620
+2000 [4] writing prra...
+2000 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2000.nc: 25.8 MB
+2000 [4] writing prsn...
+2000 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2000.nc: 11.2 MB
+2000 TOTAL: 4.93 min
+
+======================================================================
+YEAR 2001
+2001 [1] selected 2920 timesteps
+2001 [2] starting LOAD...
+2001 [2] LOAD: 4.72 min
+2001 [3] leap/time: 0.0 s
+2001: prra min=0.00000000, mean=0.00002424, max=0.00162771
+2001: prsn min=0.00000000, mean=0.00000303, max=0.00078117
+2001 [4] writing prra...
+2001 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2001.nc: 25.5 MB
+2001 [4] writing prsn...
+2001 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2001.nc: 11.0 MB
+2001 TOTAL: 4.76 min
+
+======================================================================
+YEAR 2002
+2002 [1] selected 2920 timesteps
+2002 [2] starting LOAD...
+2002 [2] LOAD: 4.33 min
+2002 [3] leap/time: 0.0 s
+2002: prra min=0.00000000, mean=0.00002433, max=0.00188863
+2002: prsn min=0.00000000, mean=0.00000311, max=0.00053793
+2002 [4] writing prra...
+2002 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2002.nc: 25.5 MB
+2002 [4] writing prsn...
+2002 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2002.nc: 11.0 MB
+2002 TOTAL: 4.37 min
+
+======================================================================
+YEAR 2003
+2003 [1] selected 2920 timesteps
+2003 [2] starting LOAD...
+2003 [2] LOAD: 0.96 min
+2003 [3] leap/time: 0.0 s
+2003: prra min=0.00000000, mean=0.00002439, max=0.00205651
+2003: prsn min=0.00000000, mean=0.00000299, max=0.00076383
+2003 [4] writing prra...
+2003 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2003.nc: 25.5 MB
+2003 [4] writing prsn...
+2003 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2003.nc: 10.9 MB
+2003 TOTAL: 1.00 min
+
+======================================================================
+YEAR 2004
+2004 [1] selected 2920 timesteps
+2004 [2] starting LOAD...
+2004 [2] LOAD: 4.44 min
+2004: leap gap found: 2004-02-28T21 -> 2004-03-01T00
+2004: inserted 8 Feb 29 precipitation intervals
+2004 [3] leap/time: 0.2 s
+2004: prra min=0.00000000, mean=0.00002426, max=0.00136284
+2004: prsn min=0.00000000, mean=0.00000309, max=0.00064443
+2004 [4] writing prra...
+2004 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2004.nc: 25.8 MB
+2004 [4] writing prsn...
+2004 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2004.nc: 11.0 MB
+2004 TOTAL: 4.49 min
+
+======================================================================
+YEAR 2005
+2005 [1] selected 2920 timesteps
+2005 [2] starting LOAD...
+2005 [2] LOAD: 2.18 min
+2005 [3] leap/time: 0.0 s
+2005: prra min=0.00000000, mean=0.00002436, max=0.00223423
+2005: prsn min=0.00000000, mean=0.00000297, max=0.00060171
+2005 [4] writing prra...
+2005 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2005.nc: 25.5 MB
+2005 [4] writing prsn...
+2005 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2005.nc: 10.9 MB
+2005 TOTAL: 2.22 min
+
+======================================================================
+YEAR 2006
+2006 [1] selected 2920 timesteps
+2006 [2] starting LOAD...
+2006 [2] LOAD: 5.97 min
+2006 [3] leap/time: 0.0 s
+2006: prra min=0.00000000, mean=0.00002429, max=0.00173664
+2006: prsn min=0.00000000, mean=0.00000301, max=0.00067370
+2006 [4] writing prra...
+2006 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2006.nc: 25.6 MB
+2006 [4] writing prsn...
+2006 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2006.nc: 10.9 MB
+2006 TOTAL: 6.02 min
+
+======================================================================
+YEAR 2007
+2007 [1] selected 2920 timesteps
+2007 [2] starting LOAD...
+2007 [2] LOAD: 4.37 min
+2007 [3] leap/time: 0.0 s
+2007: prra min=0.00000000, mean=0.00002429, max=0.00144476
+2007: prsn min=0.00000000, mean=0.00000298, max=0.00051426
+2007 [4] writing prra...
+2007 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2007.nc: 25.5 MB
+2007 [4] writing prsn...
+2007 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2007.nc: 11.0 MB
+2007 TOTAL: 4.42 min
+
+======================================================================
+YEAR 2008
+2008 [1] selected 2920 timesteps
+2008 [2] starting LOAD...
+2008 [2] LOAD: 4.25 min
+2008: leap gap found: 2008-02-28T21 -> 2008-03-01T00
+2008: inserted 8 Feb 29 precipitation intervals
+2008 [3] leap/time: 0.2 s
+2008: prra min=0.00000000, mean=0.00002421, max=0.00174259
+2008: prsn min=0.00000000, mean=0.00000300, max=0.00063264
+2008 [4] writing prra...
+2008 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2008.nc: 25.7 MB
+2008 [4] writing prsn...
+2008 [4] prsn WRITE: 0.01 min
+DONE prsn_SPEEDY_2008.nc: 11.0 MB
+2008 TOTAL: 4.30 min
+
+======================================================================
+YEAR 2009
+2009 [1] selected 2920 timesteps
+2009 [2] starting LOAD...
+2009 [2] LOAD: 0.76 min
+2009 [3] leap/time: 0.0 s
+2009: prra min=0.00000000, mean=0.00002425, max=0.00143507
+2009: prsn min=0.00000000, mean=0.00000312, max=0.00104478
+2009 [4] writing prra...
+2009 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2009.nc: 25.6 MB
+2009 [4] writing prsn...
+2009 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2009.nc: 11.0 MB
+2009 TOTAL: 0.80 min
+
+======================================================================
+YEAR 2010
+2010 [1] selected 2920 timesteps
+2010 [2] starting LOAD...
+2010 [2] LOAD: 3.21 min
+2010 [3] leap/time: 0.0 s
+2010: prra min=0.00000000, mean=0.00002427, max=0.00147571
+2010: prsn min=0.00000000, mean=0.00000305, max=0.00063554
+2010 [4] writing prra...
+2010 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2010.nc: 25.5 MB
+2010 [4] writing prsn...
+2010 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2010.nc: 11.0 MB
+2010 TOTAL: 3.26 min
+
+======================================================================
+YEAR 2011
+2011 [1] selected 2920 timesteps
+2011 [2] starting LOAD...
+2011 [2] LOAD: 6.39 min
+2011 [3] leap/time: 0.0 s
+2011: prra min=0.00000000, mean=0.00002418, max=0.00191253
+2011: prsn min=0.00000000, mean=0.00000311, max=0.00059998
+2011 [4] writing prra...
+2011 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2011.nc: 25.6 MB
+2011 [4] writing prsn...
+2011 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2011.nc: 11.1 MB
+2011 TOTAL: 6.44 min
+
+======================================================================
+YEAR 2012
+2012 [1] selected 2920 timesteps
+2012 [2] starting LOAD...
+2012 [2] LOAD: 6.20 min
+2012: leap gap found: 2012-02-28T21 -> 2012-03-01T00
+2012: inserted 8 Feb 29 precipitation intervals
+2012 [3] leap/time: 0.2 s
+2012: prra min=0.00000000, mean=0.00002414, max=0.00239825
+2012: prsn min=0.00000000, mean=0.00000314, max=0.00061237
+2012 [4] writing prra...
+2012 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2012.nc: 25.7 MB
+2012 [4] writing prsn...
+2012 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2012.nc: 11.2 MB
+2012 TOTAL: 6.25 min
+
+======================================================================
+YEAR 2013
+2013 [1] selected 2920 timesteps
+2013 [2] starting LOAD...
+2013 [2] LOAD: 5.93 min
+2013 [3] leap/time: 0.0 s
+2013: prra min=0.00000000, mean=0.00002424, max=0.00182855
+2013: prsn min=0.00000000, mean=0.00000314, max=0.00053356
+2013 [4] writing prra...
+2013 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2013.nc: 25.5 MB
+2013 [4] writing prsn...
+2013 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2013.nc: 11.1 MB
+2013 TOTAL: 5.98 min
+
+======================================================================
+YEAR 2014
+2014 [1] selected 2920 timesteps
+2014 [2] starting LOAD...
+2014 [2] LOAD: 6.50 min
+2014 [3] leap/time: 0.0 s
+2014: prra min=0.00000000, mean=0.00002419, max=0.00229404
+2014: prsn min=0.00000000, mean=0.00000315, max=0.00067016
+2014 [4] writing prra...
+2014 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2014.nc: 25.6 MB
+2014 [4] writing prsn...
+2014 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2014.nc: 11.1 MB
+2014 TOTAL: 6.54 min
+
+======================================================================
+YEAR 2015
+2015 [1] selected 2920 timesteps
+2015 [2] starting LOAD...
+2015 [2] LOAD: 6.38 min
+2015 [3] leap/time: 0.0 s
+2015: prra min=0.00000000, mean=0.00002414, max=0.00213929
+2015: prsn min=0.00000000, mean=0.00000308, max=0.00063483
+2015 [4] writing prra...
+2015 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2015.nc: 25.7 MB
+2015 [4] writing prsn...
+2015 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2015.nc: 11.2 MB
+2015 TOTAL: 6.42 min
+
+======================================================================
+YEAR 2016
+2016 [1] selected 2920 timesteps
+2016 [2] starting LOAD...
+2016 [2] LOAD: 6.12 min
+2016: leap gap found: 2016-02-28T21 -> 2016-03-01T00
+2016: inserted 8 Feb 29 precipitation intervals
+2016 [3] leap/time: 0.4 s
+2016: prra min=0.00000000, mean=0.00002414, max=0.00177504
+2016: prsn min=0.00000000, mean=0.00000306, max=0.00057943
+2016 [4] writing prra...
+2016 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2016.nc: 25.7 MB
+2016 [4] writing prsn...
+2016 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2016.nc: 11.1 MB
+2016 TOTAL: 6.17 min
+
+======================================================================
+YEAR 2017
+2017 [1] selected 2920 timesteps
+2017 [2] starting LOAD...
+2017 [2] LOAD: 4.34 min
+2017 [3] leap/time: 0.0 s
+2017: prra min=0.00000000, mean=0.00002424, max=0.00223862
+2017: prsn min=0.00000000, mean=0.00000299, max=0.00055496
+2017 [4] writing prra...
+2017 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2017.nc: 25.5 MB
+2017 [4] writing prsn...
+2017 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2017.nc: 11.0 MB
+2017 TOTAL: 4.39 min
+
+======================================================================
+YEAR 2018
+2018 [1] selected 2920 timesteps
+2018 [2] starting LOAD...
+2018 [2] LOAD: 6.06 min
+2018 [3] leap/time: 0.0 s
+2018: prra min=0.00000000, mean=0.00002418, max=0.00225652
+2018: prsn min=0.00000000, mean=0.00000312, max=0.00069016
+2018 [4] writing prra...
+2018 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2018.nc: 25.5 MB
+2018 [4] writing prsn...
+2018 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2018.nc: 11.2 MB
+2018 TOTAL: 6.10 min
+
+======================================================================
+YEAR 2019
+2019 [1] selected 2920 timesteps
+2019 [2] starting LOAD...
+2019 [2] LOAD: 6.30 min
+2019 [3] leap/time: 0.0 s
+2019: prra min=0.00000000, mean=0.00002417, max=0.00215207
+2019: prsn min=0.00000000, mean=0.00000306, max=0.00056033
+2019 [4] writing prra...
+2019 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2019.nc: 25.7 MB
+2019 [4] writing prsn...
+2019 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2019.nc: 11.0 MB
+2019 TOTAL: 6.35 min
+
+======================================================================
+YEAR 2020
+2020 [1] selected 2920 timesteps
+2020 [2] starting LOAD...
+2020 [2] LOAD: 6.12 min
+2020: leap gap found: 2020-02-28T21 -> 2020-03-01T00
+2020: inserted 8 Feb 29 precipitation intervals
+2020 [3] leap/time: 0.2 s
+2020: prra min=0.00000000, mean=0.00002424, max=0.00181145
+2020: prsn min=0.00000000, mean=0.00000305, max=0.00052132
+2020 [4] writing prra...
+2020 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2020.nc: 25.7 MB
+2020 [4] writing prsn...
+2020 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2020.nc: 11.1 MB
+2020 TOTAL: 6.17 min
+
+======================================================================
+YEAR 2021
+2021 [1] selected 2920 timesteps
+2021 [2] starting LOAD...
+2021 [2] LOAD: 4.74 min
+2021 [3] leap/time: 0.0 s
+2021: prra min=0.00000000, mean=0.00002408, max=0.00218047
+2021: prsn min=0.00000000, mean=0.00000303, max=0.00057825
+2021 [4] writing prra...
+2021 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2021.nc: 25.7 MB
+2021 [4] writing prsn...
+2021 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2021.nc: 11.0 MB
+2021 TOTAL: 4.78 min
+
+======================================================================
+YEAR 2022
+2022 [1] selected 2920 timesteps
+2022 [2] starting LOAD...
+2022 [2] LOAD: 6.30 min
+2022 [3] leap/time: 0.0 s
+2022: prra min=0.00000000, mean=0.00002411, max=0.00158799
+2022: prsn min=0.00000000, mean=0.00000308, max=0.00078115
+2022 [4] writing prra...
+2022 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2022.nc: 25.6 MB
+2022 [4] writing prsn...
+2022 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2022.nc: 11.2 MB
+2022 TOTAL: 6.35 min
+
+======================================================================
+YEAR 2023
+2023 [1] selected 2920 timesteps
+2023 [2] starting LOAD...
+2023 [2] LOAD: 1.32 min
+2023 [3] leap/time: 0.0 s
+2023: prra min=0.00000000, mean=0.00002408, max=0.00167309
+2023: prsn min=0.00000000, mean=0.00000305, max=0.00061470
+2023 [4] writing prra...
+2023 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2023.nc: 25.7 MB
+2023 [4] writing prsn...
+2023 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2023.nc: 11.2 MB
+2023 TOTAL: 1.36 min
+
+======================================================================
+YEAR 2024
+2024 [1] selected 2920 timesteps
+2024 [2] starting LOAD...
+2024 [2] LOAD: 4.39 min
+2024: leap gap found: 2024-02-28T21 -> 2024-03-01T00
+2024: inserted 8 Feb 29 precipitation intervals
+2024 [3] leap/time: 0.2 s
+2024: prra min=0.00000000, mean=0.00002421, max=0.00181919
+2024: prsn min=0.00000000, mean=0.00000317, max=0.00060368
+2024 [4] writing prra...
+2024 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2024.nc: 25.7 MB
+2024 [4] writing prsn...
+2024 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2024.nc: 11.4 MB
+2024 TOTAL: 4.44 min
+
+======================================================================
+YEAR 2025
+2025 [1] selected 2920 timesteps
+2025 [2] starting LOAD...
+2025 [2] LOAD: 6.59 min
+2025 [3] leap/time: 0.0 s
+2025: prra min=0.00000000, mean=0.00002426, max=0.00160383
+2025: prsn min=0.00000000, mean=0.00000306, max=0.00064557
+2025 [4] writing prra...
+2025 [4] prra WRITE: 0.01 min
+DONE prra_SPEEDY_2025.nc: 25.5 MB
+2025 [4] writing prsn...
+2025 [4] prsn WRITE: 0.00 min
+DONE prsn_SPEEDY_2025.nc: 11.0 MB
+2025 TOTAL: 6.63 min
+
+ALL YEARS COMPLETED
