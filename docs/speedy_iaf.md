@@ -1,10 +1,10 @@
 ## Temperature
 
-![Global mean T](../scripts/figures/global_mean_T_1958_2019.png)
+![Global mean T](../scripts/figures/IAF_1958_2019/diff_mean_T_1958_2019.png)
 
-![Global mean T ocean](../scripts/figures/ocean_mean_T_1958_2019.png)
+![Global mean T ocean](../scripts/figures/IAF_1958_2019/ocean_mean_T_1958_2019.png)
 
-![Global mean T map](../scripts/figures/diff_mean_T_1958_2019.png)
+![Global mean T map](../scripts/figures/IAF_1958_2019/diff_mean_T_1958_2019.png)
 
 ## Surface Downward Radiation Output Changes
 
@@ -22,15 +22,15 @@ Changes:
 ### Shortwave Radiation
 
 <p align="center">
-  <img src="../scripts/figures/ocean_mean_rsds_1958_2019.png" width="49%" />
-  <img src="../scripts/figures/diff_mean_rsds_1958_2019.png" width="49%" />
+  <img src="../scripts/figures/IAF_1958_2019/ocean_mean_rsds_1958_2019.png" width="49%" />
+  <img src="../scripts/figures/IAF_1958_2019/diff_mean_rsds_1958_2019.png" width="49%" />
 </p>
 
 ### Longwave Radiation
 
 <p align="center">
-  <img src="../scripts/figures/ocean_mean_rlds_1958_2019.png" width="49%" />
-  <img src="../scripts/figures/diff_mean_rlds_1958_2019.png" width="49%" />
+  <img src="../scripts/figures/IAF_1958_2019/ocean_mean_rlds_1958_2019.png" width="49%" />
+  <img src="../scripts/figures/IAF_1958_2019/diff_mean_rlds_1958_2019.png" width="49%" />
 </p>
 
 ## Precipitation and Snowfall
