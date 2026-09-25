@@ -20,7 +20,7 @@ Changes:
 ![LW](../scripts/figures/IAF_1958_2019/ocean_mean_rlds_1958_2019.png)
 ![LW_diff](../scripts/figures/IAF_1958_2019/diff_mean_rlds_1958_2019.png)
 
-**Precipitation and Snowfall**
+**Precipitation and Snowfall** \
 
 SPEEDY provides large-scale (`PRECLS`) and convective (`PRECNV`) precipitation:
 
@@ -35,8 +35,9 @@ Total rainfall is then calculated as:
 `PREC = PRECLS + PRECNV - SNOW`
 
 ![Precipitation](../scripts/figures/IAF_1958_2019/diff_mean_prra_1958_2019.png)
+![Snow](../scripts/figures/IAF_1958_2019/diff_mean_prsn_1958_2019.png)
 
-## River Runoff and Land-Ice Flux
+**River Runoff and Land-Ice Flux**
 
 SPEEDY does not provide river runoff or land-ice freshwater fluxes, so `friver` and `licalvf` remain from JRA55-do for the initial hybrid forcing experiments.
 
