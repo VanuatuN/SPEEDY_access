@@ -1,5 +1,3 @@
-## Temperature
-
 ![Global mean T](../scripts/figures/IAF_1958_2019/diff_mean_T_1958_2019.png)
 
 ![Global mean T ocean](../scripts/figures/IAF_1958_2019/ocean_mean_T_1958_2019.png)
