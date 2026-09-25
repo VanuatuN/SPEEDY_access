@@ -1,11 +1,8 @@
 ![Global mean T](../scripts/figures/IAF_1958_2019/diff_mean_T_1958_2019.png)
-
+![Global mean T map](../scripts/figures/IAF_1958_2019/ocean_mean_T_1958_2019.png)
 ![Global mean T ocean](../scripts/figures/IAF_1958_2019/ocean_mean_T_1958_2019.png)
 
-![Global mean T map](../scripts/figures/IAF_1958_2019/diff_mean_T_1958_2019.png)
-
-## Surface Downward Radiation Output Changes
-
+**Radiation**
 Two additional radiation diagnostics were added to the time-mean output for compatibility with ACCESS-OM2 forcing:
 
 - `SSRD` — surface downwelling shortwave radiation → `rsds`
@@ -17,21 +14,13 @@ Changes:
 - `ppo_dmflux.f`: added `SSRD` and `SLRD` to `SAVE2D_2` as fields 13 and 14.
 - `ppo_setctl.f`: added `SSRD` and `SLRD` descriptions to the output `.ctl`.
 
-### Shortwave Radiation
+![SW](../scripts/figures/IAF_1958_2019/ocean_mean_rsds_1958_2019.png)
+![SW_diff](../scripts/figures/IAF_1958_2019/diff_mean_rsds_1958_2019.png)
 
-<p align="center">
-  <img src="../scripts/figures/IAF_1958_2019/ocean_mean_rsds_1958_2019.png" width="49%" />
-  <img src="../scripts/figures/IAF_1958_2019/diff_mean_rsds_1958_2019.png" width="49%" />
-</p>
+![LW](../scripts/figures/IAF_1958_2019/ocean_mean_rlds_1958_2019.png)
+![LW_diff](../scripts/figures/IAF_1958_2019/diff_mean_rlds_1958_2019.png)
 
-### Longwave Radiation
-
-<p align="center">
-  <img src="../scripts/figures/IAF_1958_2019/ocean_mean_rlds_1958_2019.png" width="49%" />
-  <img src="../scripts/figures/IAF_1958_2019/diff_mean_rlds_1958_2019.png" width="49%" />
-</p>
-
-## Precipitation and Snowfall
+**Precipitation and Snowfall**
 
 SPEEDY provides large-scale (`PRECLS`) and convective (`PRECNV`) precipitation:
 
