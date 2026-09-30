@@ -20,7 +20,7 @@ Changes:
 ![LW](../scripts/figures/IAF_1958_2019/ocean_mean_rlds_1958_2019_co2.png)
 ![LW_diff](../scripts/figures/IAF_1958_2019/diff_mean_rlds_1958_2019_co2.png)
 
-**Radiation Shortwave+Longwave** \
+**Radiation Shortwave+Longwave** 
 
 ![RR](../scripts/figures/IAF_1958_2019/ocean_mean_radiation_1958_2019_co2.png)
 ![RR_diff](../scripts/figures/IAF_1958_2019/diff_mean_radiation_1958_2019_co2.png)
