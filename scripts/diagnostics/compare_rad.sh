@@ -22,4 +22,4 @@ echo "NODE: $(hostname)"
 echo "PYTHON: $(which python)"
 python --version
 
-python compare_rad_iaf.py
+python compare_rad_iaf_sum.py
