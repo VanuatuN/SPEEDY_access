@@ -1,15 +1,15 @@
 #!/bin/bash
 
-#SBATCH --job-name=tas_forcing
+#SBATCH --job-name=huss_forcing
 #SBATCH --account=ICT26_ESP
 #SBATCH --partition=dcgp_usr_prod
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=1
-#SBATCH --time=02:00:00
+#SBATCH --time=03:00:00
 #SBATCH --mem=20G
-#SBATCH --output=tas_forcing-%j.out
-#SBATCH --error=tas_forcing-%j.err
+#SBATCH --output=huss_forcing-%j.out
+#SBATCH --error=huss_forcing-%j.err
 
 set -e
 module purge

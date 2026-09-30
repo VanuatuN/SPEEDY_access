@@ -6,7 +6,7 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=1
-#SBATCH --time=06:00:00
+#SBATCH --time=09:00:00
 #SBATCH --mem=20G
 #SBATCH --output=u_v_p_forcing-%j.out
 #SBATCH --error=u_v_p_forcing-%j.err

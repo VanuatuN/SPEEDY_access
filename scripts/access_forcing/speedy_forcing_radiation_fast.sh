@@ -6,7 +6,7 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=1
-#SBATCH --time=06:00:00
+#SBATCH --time=09:00:00
 #SBATCH --mem=20G
 #SBATCH --output=rad_forcing-%j.out
 #SBATCH --error=rad_forcing-%j.err

@@ -1,0 +1,1328 @@
+
+======================================================================
+YEAR 1976
+1976 [1] selected 2920 timesteps
+1976 [2] selection built: 1.6 s
+1976 [3] starting LOAD...
+1976 [3] LOAD done: 15.55 min, 154.0 MB
+1976: SPEEDY leap gap found: 1976-02-28T21 -> 1976-03-01T00
+1976 [4] source time validation: 0.0 s
+1976: inserted 8 records for Feb 29
+1976 [5] leap/final time processing: 1.1 s
+1976: uas min=-38.462, mean=0.060, max=36.133
+1976: vas min=-37.629, mean=0.142, max=40.097
+1976: psl min=94362.219, mean=101228.219, max=105802.758
+1976 [6] value validation: 0.1 s
+1976 [7] writing uas...
+1976 [7] uas WRITE: 0.01 min
+1976 [8] uas VERIFY: 0.1 s
+DONE uas_SPEEDY_1976.nc: 46.2 MB
+1976 [7] writing vas...
+1976 [7] vas WRITE: 0.01 min
+1976 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1976.nc: 47.1 MB
+1976 [7] writing psl...
+1976 [7] psl WRITE: 0.01 min
+1976 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1976.nc: 32.3 MB
+1976 TOTAL: 15.62 min
+
+======================================================================
+YEAR 1977
+1977 [1] selected 2920 timesteps
+1977 [2] selection built: 1.5 s
+1977 [3] starting LOAD...
+1977 [3] LOAD done: 10.24 min, 154.0 MB
+1977 [4] source time validation: 0.0 s
+1977 [5] leap/final time processing: 0.0 s
+1977: uas min=-32.476, mean=-0.040, max=39.633
+1977: vas min=-39.708, mean=0.180, max=41.383
+1977: psl min=94993.742, mean=101265.914, max=105693.094
+1977 [6] value validation: 0.1 s
+1977 [7] writing uas...
+1977 [7] uas WRITE: 0.01 min
+1977 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1977.nc: 46.1 MB
+1977 [7] writing vas...
+1977 [7] vas WRITE: 0.04 min
+1977 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1977.nc: 46.9 MB
+1977 [7] writing psl...
+1977 [7] psl WRITE: 0.01 min
+1977 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1977.nc: 32.2 MB
+1977 TOTAL: 10.32 min
+
+======================================================================
+YEAR 1978
+1978 [1] selected 2920 timesteps
+1978 [2] selection built: 1.5 s
+1978 [3] starting LOAD...
+1978 [3] LOAD done: 8.76 min, 154.0 MB
+1978 [4] source time validation: 0.0 s
+1978 [5] leap/final time processing: 0.0 s
+1978: uas min=-34.655, mean=0.224, max=40.356
+1978: vas min=-43.749, mean=0.174, max=36.289
+1978: psl min=94502.383, mean=101174.594, max=105566.148
+1978 [6] value validation: 0.1 s
+1978 [7] writing uas...
+1978 [7] uas WRITE: 0.01 min
+1978 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1978.nc: 46.1 MB
+1978 [7] writing vas...
+1978 [7] vas WRITE: 0.01 min
+1978 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1978.nc: 46.9 MB
+1978 [7] writing psl...
+1978 [7] psl WRITE: 0.01 min
+1978 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1978.nc: 32.3 MB
+1978 TOTAL: 8.82 min
+
+======================================================================
+YEAR 1979
+1979 [1] selected 2920 timesteps
+1979 [2] selection built: 1.4 s
+1979 [3] starting LOAD...
+1979 [3] LOAD done: 9.41 min, 154.0 MB
+1979 [4] source time validation: 0.0 s
+1979 [5] leap/final time processing: 0.0 s
+1979: uas min=-36.769, mean=0.136, max=38.847
+1979: vas min=-40.891, mean=0.177, max=42.091
+1979: psl min=94381.000, mean=101207.531, max=106228.359
+1979 [6] value validation: 0.1 s
+1979 [7] writing uas...
+1979 [7] uas WRITE: 0.01 min
+1979 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1979.nc: 46.1 MB
+1979 [7] writing vas...
+1979 [7] vas WRITE: 0.01 min
+1979 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1979.nc: 46.9 MB
+1979 [7] writing psl...
+1979 [7] psl WRITE: 0.01 min
+1979 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1979.nc: 32.2 MB
+1979 TOTAL: 9.46 min
+
+======================================================================
+YEAR 1980
+1980 [1] selected 2920 timesteps
+1980 [2] selection built: 1.4 s
+1980 [3] starting LOAD...
+1980 [3] LOAD done: 11.77 min, 154.0 MB
+1980: SPEEDY leap gap found: 1980-02-28T21 -> 1980-03-01T00
+1980 [4] source time validation: 0.0 s
+1980: inserted 8 records for Feb 29
+1980 [5] leap/final time processing: 0.7 s
+1980: uas min=-32.479, mean=0.081, max=36.756
+1980: vas min=-40.362, mean=0.148, max=43.347
+1980: psl min=94706.320, mean=101219.422, max=105897.375
+1980 [6] value validation: 0.1 s
+1980 [7] writing uas...
+1980 [7] uas WRITE: 0.01 min
+1980 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1980.nc: 46.2 MB
+1980 [7] writing vas...
+1980 [7] vas WRITE: 0.01 min
+1980 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1980.nc: 47.1 MB
+1980 [7] writing psl...
+1980 [7] psl WRITE: 0.00 min
+1980 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1980.nc: 32.3 MB
+1980 TOTAL: 11.83 min
+
+======================================================================
+YEAR 1981
+1981 [1] selected 2920 timesteps
+1981 [2] selection built: 1.4 s
+1981 [3] starting LOAD...
+1981 [3] LOAD done: 12.69 min, 154.0 MB
+1981 [4] source time validation: 0.0 s
+1981 [5] leap/final time processing: 0.0 s
+1981: uas min=-36.982, mean=-0.130, max=36.614
+1981: vas min=-39.337, mean=0.206, max=41.313
+1981: psl min=94540.586, mean=101291.414, max=105735.461
+1981 [6] value validation: 0.1 s
+1981 [7] writing uas...
+1981 [7] uas WRITE: 0.02 min
+1981 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1981.nc: 46.1 MB
+1981 [7] writing vas...
+1981 [7] vas WRITE: 0.02 min
+1981 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1981.nc: 46.9 MB
+1981 [7] writing psl...
+1981 [7] psl WRITE: 0.01 min
+1981 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1981.nc: 32.2 MB
+1981 TOTAL: 12.76 min
+
+======================================================================
+YEAR 1982
+1982 [1] selected 2920 timesteps
+1982 [2] selection built: 1.4 s
+1982 [3] starting LOAD...
+1982 [3] LOAD done: 16.49 min, 154.0 MB
+1982 [4] source time validation: 0.0 s
+1982 [5] leap/final time processing: 0.0 s
+1982: uas min=-34.110, mean=0.083, max=40.998
+1982: vas min=-38.576, mean=0.142, max=40.806
+1982: psl min=93386.625, mean=101221.875, max=106642.875
+1982 [6] value validation: 0.1 s
+1982 [7] writing uas...
+1982 [7] uas WRITE: 0.01 min
+1982 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1982.nc: 46.1 MB
+1982 [7] writing vas...
+1982 [7] vas WRITE: 0.01 min
+1982 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1982.nc: 46.9 MB
+1982 [7] writing psl...
+1982 [7] psl WRITE: 0.01 min
+1982 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1982.nc: 32.2 MB
+1982 TOTAL: 16.55 min
+
+======================================================================
+YEAR 1983
+1983 [1] selected 2920 timesteps
+1983 [2] selection built: 1.5 s
+1983 [3] starting LOAD...
+1983 [3] LOAD done: 12.61 min, 154.0 MB
+1983 [4] source time validation: 0.0 s
+1983 [5] leap/final time processing: 0.0 s
+1983: uas min=-37.198, mean=0.138, max=37.733
+1983: vas min=-37.620, mean=0.172, max=44.422
+1983: psl min=94150.039, mean=101195.039, max=106297.117
+1983 [6] value validation: 0.1 s
+1983 [7] writing uas...
+1983 [7] uas WRITE: 0.01 min
+1983 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1983.nc: 46.0 MB
+1983 [7] writing vas...
+1983 [7] vas WRITE: 0.01 min
+1983 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1983.nc: 47.0 MB
+1983 [7] writing psl...
+1983 [7] psl WRITE: 0.01 min
+1983 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1983.nc: 32.2 MB
+1983 TOTAL: 12.66 min
+
+======================================================================
+YEAR 1984
+1984 [1] selected 2920 timesteps
+1984 [2] selection built: 1.5 s
+1984 [3] starting LOAD...
+1984 [3] LOAD done: 0.23 min, 154.0 MB
+1984: SPEEDY leap gap found: 1984-02-28T21 -> 1984-03-01T00
+1984 [4] source time validation: 0.0 s
+1984: inserted 8 records for Feb 29
+1984 [5] leap/final time processing: 0.8 s
+1984: uas min=-34.901, mean=0.079, max=37.189
+1984: vas min=-37.945, mean=0.171, max=45.520
+1984: psl min=94392.844, mean=101213.125, max=106067.102
+1984 [6] value validation: 0.1 s
+1984 [7] writing uas...
+1984 [7] uas WRITE: 0.01 min
+1984 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1984.nc: 46.2 MB
+1984 [7] writing vas...
+1984 [7] vas WRITE: 0.01 min
+1984 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1984.nc: 47.1 MB
+1984 [7] writing psl...
+1984 [7] psl WRITE: 0.00 min
+1984 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1984.nc: 32.3 MB
+1984 TOTAL: 0.29 min
+
+======================================================================
+YEAR 1985
+1985 [1] selected 2920 timesteps
+1985 [2] selection built: 1.5 s
+1985 [3] starting LOAD...
+1985 [3] LOAD done: 10.52 min, 154.0 MB
+1985 [4] source time validation: 0.0 s
+1985 [5] leap/final time processing: 0.0 s
+1985: uas min=-32.833, mean=-0.000, max=37.019
+1985: vas min=-38.800, mean=0.181, max=39.774
+1985: psl min=94589.523, mean=101246.109, max=105584.312
+1985 [6] value validation: 0.1 s
+1985 [7] writing uas...
+1985 [7] uas WRITE: 0.01 min
+1985 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1985.nc: 46.1 MB
+1985 [7] writing vas...
+1985 [7] vas WRITE: 0.01 min
+1985 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1985.nc: 46.9 MB
+1985 [7] writing psl...
+1985 [7] psl WRITE: 0.01 min
+1985 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1985.nc: 32.2 MB
+1985 TOTAL: 10.57 min
+
+======================================================================
+YEAR 1986
+1986 [1] selected 2920 timesteps
+1986 [2] selection built: 1.5 s
+1986 [3] starting LOAD...
+1986 [3] LOAD done: 12.41 min, 154.0 MB
+1986 [4] source time validation: 0.0 s
+1986 [5] leap/final time processing: 0.0 s
+1986: uas min=-31.361, mean=0.053, max=42.539
+1986: vas min=-36.103, mean=0.155, max=43.205
+1986: psl min=94151.664, mean=101235.305, max=106918.844
+1986 [6] value validation: 0.1 s
+1986 [7] writing uas...
+1986 [7] uas WRITE: 0.01 min
+1986 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1986.nc: 46.1 MB
+1986 [7] writing vas...
+1986 [7] vas WRITE: 0.01 min
+1986 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1986.nc: 47.0 MB
+1986 [7] writing psl...
+1986 [7] psl WRITE: 0.01 min
+1986 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1986.nc: 32.2 MB
+1986 TOTAL: 12.48 min
+
+======================================================================
+YEAR 1987
+1987 [1] selected 2920 timesteps
+1987 [2] selection built: 1.5 s
+1987 [3] starting LOAD...
+1987 [3] LOAD done: 8.12 min, 154.0 MB
+1987 [4] source time validation: 0.0 s
+1987 [5] leap/final time processing: 0.0 s
+1987: uas min=-37.347, mean=0.048, max=38.567
+1987: vas min=-39.485, mean=0.197, max=38.313
+1987: psl min=94620.352, mean=101216.711, max=106437.656
+1987 [6] value validation: 0.1 s
+1987 [7] writing uas...
+1987 [7] uas WRITE: 0.03 min
+1987 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1987.nc: 46.0 MB
+1987 [7] writing vas...
+1987 [7] vas WRITE: 0.01 min
+1987 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1987.nc: 46.9 MB
+1987 [7] writing psl...
+1987 [7] psl WRITE: 0.01 min
+1987 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1987.nc: 32.2 MB
+1987 TOTAL: 8.18 min
+
+======================================================================
+YEAR 1988
+1988 [1] selected 2920 timesteps
+1988 [2] selection built: 1.5 s
+1988 [3] starting LOAD...
+1988 [3] LOAD done: 11.57 min, 154.0 MB
+1988: SPEEDY leap gap found: 1988-02-28T21 -> 1988-03-01T00
+1988 [4] source time validation: 0.0 s
+1988: inserted 8 records for Feb 29
+1988 [5] leap/final time processing: 0.7 s
+1988: uas min=-33.596, mean=0.078, max=38.764
+1988: vas min=-37.104, mean=0.169, max=42.423
+1988: psl min=94421.961, mean=101221.602, max=105444.102
+1988 [6] value validation: 0.1 s
+1988 [7] writing uas...
+1988 [7] uas WRITE: 0.01 min
+1988 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1988.nc: 46.2 MB
+1988 [7] writing vas...
+1988 [7] vas WRITE: 0.02 min
+1988 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1988.nc: 47.1 MB
+1988 [7] writing psl...
+1988 [7] psl WRITE: 0.01 min
+1988 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1988.nc: 32.3 MB
+1988 TOTAL: 11.64 min
+
+======================================================================
+YEAR 1989
+1989 [1] selected 2920 timesteps
+1989 [2] selection built: 1.5 s
+1989 [3] starting LOAD...
+1989 [3] LOAD done: 24.37 min, 154.0 MB
+1989 [4] source time validation: 0.0 s
+1989 [5] leap/final time processing: 0.0 s
+1989: uas min=-34.305, mean=0.067, max=37.332
+1989: vas min=-36.348, mean=0.192, max=39.265
+1989: psl min=94738.539, mean=101217.016, max=106211.742
+1989 [6] value validation: 0.1 s
+1989 [7] writing uas...
+1989 [7] uas WRITE: 0.01 min
+1989 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1989.nc: 46.0 MB
+1989 [7] writing vas...
+1989 [7] vas WRITE: 0.02 min
+1989 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1989.nc: 46.9 MB
+1989 [7] writing psl...
+1989 [7] psl WRITE: 0.01 min
+1989 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1989.nc: 32.2 MB
+1989 TOTAL: 24.43 min
+
+======================================================================
+YEAR 1990
+1990 [1] selected 2920 timesteps
+1990 [2] selection built: 1.5 s
+1990 [3] starting LOAD...
+1990 [3] LOAD done: 16.34 min, 154.0 MB
+1990 [4] source time validation: 0.0 s
+1990 [5] leap/final time processing: 0.0 s
+1990: uas min=-33.885, mean=0.193, max=42.874
+1990: vas min=-38.828, mean=0.175, max=40.867
+1990: psl min=93910.297, mean=101184.586, max=105535.398
+1990 [6] value validation: 0.1 s
+1990 [7] writing uas...
+1990 [7] uas WRITE: 0.01 min
+1990 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1990.nc: 46.1 MB
+1990 [7] writing vas...
+1990 [7] vas WRITE: 0.01 min
+1990 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1990.nc: 46.9 MB
+1990 [7] writing psl...
+1990 [7] psl WRITE: 0.01 min
+1990 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1990.nc: 32.2 MB
+1990 TOTAL: 16.39 min
+
+======================================================================
+YEAR 1991
+1991 [1] selected 2920 timesteps
+1991 [2] selection built: 1.4 s
+1991 [3] starting LOAD...
+1991 [3] LOAD done: 14.61 min, 154.0 MB
+1991 [4] source time validation: 0.0 s
+1991 [5] leap/final time processing: 0.0 s
+1991: uas min=-32.909, mean=0.191, max=36.344
+1991: vas min=-37.407, mean=0.185, max=38.381
+1991: psl min=94435.523, mean=101177.938, max=105940.273
+1991 [6] value validation: 0.2 s
+1991 [7] writing uas...
+1991 [7] uas WRITE: 0.01 min
+1991 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1991.nc: 46.1 MB
+1991 [7] writing vas...
+1991 [7] vas WRITE: 0.01 min
+1991 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1991.nc: 46.9 MB
+1991 [7] writing psl...
+1991 [7] psl WRITE: 0.01 min
+1991 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1991.nc: 32.2 MB
+1991 TOTAL: 14.65 min
+
+======================================================================
+YEAR 1992
+1992 [1] selected 2920 timesteps
+1992 [2] selection built: 1.5 s
+1992 [3] starting LOAD...
+1992 [3] LOAD done: 17.35 min, 154.0 MB
+1992: SPEEDY leap gap found: 1992-02-28T21 -> 1992-03-01T00
+1992 [4] source time validation: 0.0 s
+1992: inserted 8 records for Feb 29
+1992 [5] leap/final time processing: 0.7 s
+1992: uas min=-33.950, mean=0.227, max=39.109
+1992: vas min=-38.380, mean=0.193, max=44.457
+1992: psl min=94370.133, mean=101170.523, max=105860.367
+1992 [6] value validation: 0.1 s
+1992 [7] writing uas...
+1992 [7] uas WRITE: 0.01 min
+1992 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1992.nc: 46.1 MB
+1992 [7] writing vas...
+1992 [7] vas WRITE: 0.01 min
+1992 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1992.nc: 47.1 MB
+1992 [7] writing psl...
+1992 [7] psl WRITE: 0.01 min
+1992 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1992.nc: 32.3 MB
+1992 TOTAL: 17.42 min
+
+======================================================================
+YEAR 1993
+1993 [1] selected 2920 timesteps
+1993 [2] selection built: 1.4 s
+1993 [3] starting LOAD...
+1993 [3] LOAD done: 0.21 min, 154.0 MB
+1993 [4] source time validation: 0.0 s
+1993 [5] leap/final time processing: 0.0 s
+1993: uas min=-38.066, mean=0.077, max=35.183
+1993: vas min=-42.498, mean=0.155, max=38.964
+1993: psl min=94169.133, mean=101226.430, max=106171.828
+1993 [6] value validation: 0.1 s
+1993 [7] writing uas...
+1993 [7] uas WRITE: 0.01 min
+1993 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1993.nc: 46.1 MB
+1993 [7] writing vas...
+1993 [7] vas WRITE: 0.01 min
+1993 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1993.nc: 46.9 MB
+1993 [7] writing psl...
+1993 [7] psl WRITE: 0.01 min
+1993 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1993.nc: 32.2 MB
+1993 TOTAL: 0.27 min
+
+======================================================================
+YEAR 1994
+1994 [1] selected 2920 timesteps
+1994 [2] selection built: 1.5 s
+1994 [3] starting LOAD...
+1994 [3] LOAD done: 10.23 min, 154.0 MB
+1994 [4] source time validation: 0.0 s
+1994 [5] leap/final time processing: 0.0 s
+1994: uas min=-36.024, mean=-0.136, max=34.571
+1994: vas min=-38.790, mean=0.191, max=39.792
+1994: psl min=94389.141, mean=101279.914, max=105817.281
+1994 [6] value validation: 0.1 s
+1994 [7] writing uas...
+1994 [7] uas WRITE: 0.01 min
+1994 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1994.nc: 46.1 MB
+1994 [7] writing vas...
+1994 [7] vas WRITE: 0.01 min
+1994 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1994.nc: 47.0 MB
+1994 [7] writing psl...
+1994 [7] psl WRITE: 0.01 min
+1994 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1994.nc: 32.2 MB
+1994 TOTAL: 10.28 min
+
+======================================================================
+YEAR 1995
+1995 [1] selected 2920 timesteps
+1995 [2] selection built: 1.4 s
+1995 [3] starting LOAD...
+1995 [3] LOAD done: 7.90 min, 154.0 MB
+1995 [4] source time validation: 0.0 s
+1995 [5] leap/final time processing: 0.0 s
+1995: uas min=-33.699, mean=0.085, max=36.358
+1995: vas min=-36.893, mean=0.189, max=39.479
+1995: psl min=93800.070, mean=101202.930, max=105982.680
+1995 [6] value validation: 0.1 s
+1995 [7] writing uas...
+1995 [7] uas WRITE: 0.01 min
+1995 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1995.nc: 46.0 MB
+1995 [7] writing vas...
+1995 [7] vas WRITE: 0.01 min
+1995 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1995.nc: 47.0 MB
+1995 [7] writing psl...
+1995 [7] psl WRITE: 0.00 min
+1995 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1995.nc: 32.2 MB
+1995 TOTAL: 7.94 min
+
+======================================================================
+YEAR 1996
+1996 [1] selected 2920 timesteps
+1996 [2] selection built: 1.4 s
+1996 [3] starting LOAD...
+1996 [3] LOAD done: 12.12 min, 154.0 MB
+1996: SPEEDY leap gap found: 1996-02-28T21 -> 1996-03-01T00
+1996 [4] source time validation: 0.0 s
+1996: inserted 8 records for Feb 29
+1996 [5] leap/final time processing: 0.8 s
+1996: uas min=-33.951, mean=-0.019, max=35.300
+1996: vas min=-36.262, mean=0.154, max=41.127
+1996: psl min=94375.273, mean=101238.547, max=105564.016
+1996 [6] value validation: 0.1 s
+1996 [7] writing uas...
+1996 [7] uas WRITE: 0.01 min
+1996 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1996.nc: 46.2 MB
+1996 [7] writing vas...
+1996 [7] vas WRITE: 0.01 min
+1996 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1996.nc: 47.1 MB
+1996 [7] writing psl...
+1996 [7] psl WRITE: 0.01 min
+1996 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1996.nc: 32.3 MB
+1996 TOTAL: 12.19 min
+
+======================================================================
+YEAR 1997
+1997 [1] selected 2920 timesteps
+1997 [2] selection built: 1.5 s
+1997 [3] starting LOAD...
+1997 [3] LOAD done: 14.36 min, 154.0 MB
+1997 [4] source time validation: 0.0 s
+1997 [5] leap/final time processing: 0.0 s
+1997: uas min=-34.310, mean=-0.061, max=36.832
+1997: vas min=-40.327, mean=0.172, max=41.290
+1997: psl min=94865.375, mean=101259.867, max=105941.234
+1997 [6] value validation: 0.1 s
+1997 [7] writing uas...
+1997 [7] uas WRITE: 0.08 min
+1997 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1997.nc: 46.1 MB
+1997 [7] writing vas...
+1997 [7] vas WRITE: 0.03 min
+1997 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1997.nc: 47.0 MB
+1997 [7] writing psl...
+1997 [7] psl WRITE: 0.00 min
+1997 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1997.nc: 32.2 MB
+1997 TOTAL: 14.51 min
+
+======================================================================
+YEAR 1998
+1998 [1] selected 2920 timesteps
+1998 [2] selection built: 1.4 s
+1998 [3] starting LOAD...
+1998 [3] LOAD done: 7.35 min, 154.0 MB
+1998 [4] source time validation: 0.0 s
+1998 [5] leap/final time processing: 0.0 s
+1998: uas min=-31.765, mean=-0.059, max=38.398
+1998: vas min=-39.150, mean=0.209, max=41.223
+1998: psl min=93944.398, mean=101249.406, max=105424.516
+1998 [6] value validation: 0.1 s
+1998 [7] writing uas...
+1998 [7] uas WRITE: 0.01 min
+1998 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1998.nc: 46.1 MB
+1998 [7] writing vas...
+1998 [7] vas WRITE: 0.01 min
+1998 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1998.nc: 46.9 MB
+1998 [7] writing psl...
+1998 [7] psl WRITE: 0.01 min
+1998 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1998.nc: 32.2 MB
+1998 TOTAL: 7.41 min
+
+======================================================================
+YEAR 1999
+1999 [1] selected 2920 timesteps
+1999 [2] selection built: 1.5 s
+1999 [3] starting LOAD...
+1999 [3] LOAD done: 8.14 min, 154.0 MB
+1999 [4] source time validation: 0.0 s
+1999 [5] leap/final time processing: 0.0 s
+1999: uas min=-34.012, mean=-0.193, max=37.224
+1999: vas min=-40.937, mean=0.193, max=48.812
+1999: psl min=93690.000, mean=101299.820, max=106045.969
+1999 [6] value validation: 0.2 s
+1999 [7] writing uas...
+1999 [7] uas WRITE: 0.01 min
+1999 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_1999.nc: 46.1 MB
+1999 [7] writing vas...
+1999 [7] vas WRITE: 0.03 min
+1999 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_1999.nc: 46.9 MB
+1999 [7] writing psl...
+1999 [7] psl WRITE: 0.00 min
+1999 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_1999.nc: 32.2 MB
+1999 TOTAL: 8.21 min
+
+======================================================================
+YEAR 2000
+2000 [1] selected 2920 timesteps
+2000 [2] selection built: 1.5 s
+2000 [3] starting LOAD...
+2000 [3] LOAD done: 8.34 min, 154.0 MB
+2000: SPEEDY leap gap found: 2000-02-28T21 -> 2000-03-01T00
+2000 [4] source time validation: 0.0 s
+2000: inserted 8 records for Feb 29
+2000 [5] leap/final time processing: 0.9 s
+2000: uas min=-40.031, mean=0.079, max=42.015
+2000: vas min=-40.207, mean=0.185, max=40.607
+2000: psl min=94530.055, mean=101208.547, max=105998.844
+2000 [6] value validation: 0.2 s
+2000 [7] writing uas...
+2000 [7] uas WRITE: 0.01 min
+2000 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2000.nc: 46.2 MB
+2000 [7] writing vas...
+2000 [7] vas WRITE: 0.01 min
+2000 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2000.nc: 47.1 MB
+2000 [7] writing psl...
+2000 [7] psl WRITE: 0.01 min
+2000 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2000.nc: 32.3 MB
+2000 TOTAL: 8.40 min
+
+======================================================================
+YEAR 2001
+2001 [1] selected 2920 timesteps
+2001 [2] selection built: 1.6 s
+2001 [3] starting LOAD...
+2001 [3] LOAD done: 8.42 min, 154.0 MB
+2001 [4] source time validation: 0.0 s
+2001 [5] leap/final time processing: 0.0 s
+2001: uas min=-35.009, mean=0.199, max=35.823
+2001: vas min=-38.195, mean=0.200, max=46.635
+2001: psl min=94600.547, mean=101180.422, max=105565.141
+2001 [6] value validation: 0.1 s
+2001 [7] writing uas...
+2001 [7] uas WRITE: 0.01 min
+2001 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2001.nc: 46.0 MB
+2001 [7] writing vas...
+2001 [7] vas WRITE: 0.04 min
+2001 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2001.nc: 46.9 MB
+2001 [7] writing psl...
+2001 [7] psl WRITE: 0.01 min
+2001 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2001.nc: 32.2 MB
+2001 TOTAL: 8.50 min
+
+======================================================================
+YEAR 2002
+2002 [1] selected 2920 timesteps
+2002 [2] selection built: 1.6 s
+2002 [3] starting LOAD...
+2002 [3] LOAD done: 10.33 min, 154.0 MB
+2002 [4] source time validation: 0.0 s
+2002 [5] leap/final time processing: 0.0 s
+2002: uas min=-35.796, mean=0.107, max=36.028
+2002: vas min=-39.386, mean=0.216, max=44.775
+2002: psl min=94132.844, mean=101206.094, max=105914.438
+2002 [6] value validation: 0.2 s
+2002 [7] writing uas...
+2002 [7] uas WRITE: 0.01 min
+2002 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2002.nc: 46.0 MB
+2002 [7] writing vas...
+2002 [7] vas WRITE: 0.01 min
+2002 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2002.nc: 46.9 MB
+2002 [7] writing psl...
+2002 [7] psl WRITE: 0.01 min
+2002 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2002.nc: 32.2 MB
+2002 TOTAL: 10.40 min
+
+======================================================================
+YEAR 2003
+2003 [1] selected 2920 timesteps
+2003 [2] selection built: 1.5 s
+2003 [3] starting LOAD...
+2003 [3] LOAD done: 10.58 min, 154.0 MB
+2003 [4] source time validation: 0.0 s
+2003 [5] leap/final time processing: 0.0 s
+2003: uas min=-33.672, mean=0.124, max=39.392
+2003: vas min=-43.497, mean=0.200, max=40.170
+2003: psl min=94464.047, mean=101206.383, max=105833.188
+2003 [6] value validation: 0.2 s
+2003 [7] writing uas...
+2003 [7] uas WRITE: 0.01 min
+2003 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2003.nc: 46.1 MB
+2003 [7] writing vas...
+2003 [7] vas WRITE: 0.01 min
+2003 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2003.nc: 46.9 MB
+2003 [7] writing psl...
+2003 [7] psl WRITE: 0.00 min
+2003 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2003.nc: 32.2 MB
+2003 TOTAL: 10.63 min
+
+======================================================================
+YEAR 2004
+2004 [1] selected 2920 timesteps
+2004 [2] selection built: 1.5 s
+2004 [3] starting LOAD...
+2004 [3] LOAD done: 11.69 min, 154.0 MB
+2004: SPEEDY leap gap found: 2004-02-28T21 -> 2004-03-01T00
+2004 [4] source time validation: 0.0 s
+2004: inserted 8 records for Feb 29
+2004 [5] leap/final time processing: 0.8 s
+2004: uas min=-37.682, mean=-0.151, max=39.080
+2004: vas min=-41.310, mean=0.158, max=39.815
+2004: psl min=93500.078, mean=101279.836, max=106247.742
+2004 [6] value validation: 0.2 s
+2004 [7] writing uas...
+2004 [7] uas WRITE: 0.01 min
+2004 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2004.nc: 46.2 MB
+2004 [7] writing vas...
+2004 [7] vas WRITE: 0.02 min
+2004 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2004.nc: 47.0 MB
+2004 [7] writing psl...
+2004 [7] psl WRITE: 0.02 min
+2004 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2004.nc: 32.3 MB
+2004 TOTAL: 11.79 min
+
+======================================================================
+YEAR 2005
+2005 [1] selected 2920 timesteps
+2005 [2] selection built: 1.5 s
+2005 [3] starting LOAD...
+2005 [3] LOAD done: 10.97 min, 154.0 MB
+2005 [4] source time validation: 0.0 s
+2005 [5] leap/final time processing: 0.0 s
+2005: uas min=-36.128, mean=0.129, max=38.085
+2005: vas min=-42.537, mean=0.192, max=40.863
+2005: psl min=93860.609, mean=101198.164, max=105552.016
+2005 [6] value validation: 0.2 s
+2005 [7] writing uas...
+2005 [7] uas WRITE: 0.02 min
+2005 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2005.nc: 46.0 MB
+2005 [7] writing vas...
+2005 [7] vas WRITE: 0.01 min
+2005 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2005.nc: 46.9 MB
+2005 [7] writing psl...
+2005 [7] psl WRITE: 0.01 min
+2005 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2005.nc: 32.2 MB
+2005 TOTAL: 11.04 min
+
+======================================================================
+YEAR 2006
+2006 [1] selected 2920 timesteps
+2006 [2] selection built: 1.5 s
+2006 [3] starting LOAD...
+2006 [3] LOAD done: 0.24 min, 154.0 MB
+2006 [4] source time validation: 0.0 s
+2006 [5] leap/final time processing: 0.0 s
+2006: uas min=-36.587, mean=0.158, max=40.521
+2006: vas min=-40.500, mean=0.205, max=39.617
+2006: psl min=94095.023, mean=101187.289, max=106181.602
+2006 [6] value validation: 0.2 s
+2006 [7] writing uas...
+2006 [7] uas WRITE: 0.01 min
+2006 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2006.nc: 46.0 MB
+2006 [7] writing vas...
+2006 [7] vas WRITE: 0.01 min
+2006 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2006.nc: 46.9 MB
+2006 [7] writing psl...
+2006 [7] psl WRITE: 0.01 min
+2006 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2006.nc: 32.3 MB
+2006 TOTAL: 0.29 min
+
+======================================================================
+YEAR 2007
+2007 [1] selected 2920 timesteps
+2007 [2] selection built: 1.5 s
+2007 [3] starting LOAD...
+2007 [3] LOAD done: 7.72 min, 154.0 MB
+2007 [4] source time validation: 0.0 s
+2007 [5] leap/final time processing: 0.0 s
+2007: uas min=-36.200, mean=-0.022, max=36.878
+2007: vas min=-38.542, mean=0.206, max=43.944
+2007: psl min=94248.344, mean=101245.508, max=105979.664
+2007 [6] value validation: 0.2 s
+2007 [7] writing uas...
+2007 [7] uas WRITE: 0.01 min
+2007 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2007.nc: 46.1 MB
+2007 [7] writing vas...
+2007 [7] vas WRITE: 0.01 min
+2007 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2007.nc: 46.9 MB
+2007 [7] writing psl...
+2007 [7] psl WRITE: 0.01 min
+2007 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2007.nc: 32.2 MB
+2007 TOTAL: 7.78 min
+
+======================================================================
+YEAR 2008
+2008 [1] selected 2920 timesteps
+2008 [2] selection built: 1.5 s
+2008 [3] starting LOAD...
+2008 [3] LOAD done: 0.25 min, 154.0 MB
+2008: SPEEDY leap gap found: 2008-02-28T21 -> 2008-03-01T00
+2008 [4] source time validation: 0.0 s
+2008: inserted 8 records for Feb 29
+2008 [5] leap/final time processing: 0.8 s
+2008: uas min=-34.759, mean=0.032, max=38.822
+2008: vas min=-34.977, mean=0.194, max=37.963
+2008: psl min=94329.758, mean=101215.523, max=105366.016
+2008 [6] value validation: 0.1 s
+2008 [7] writing uas...
+2008 [7] uas WRITE: 0.01 min
+2008 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2008.nc: 46.1 MB
+2008 [7] writing vas...
+2008 [7] vas WRITE: 0.01 min
+2008 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2008.nc: 47.0 MB
+2008 [7] writing psl...
+2008 [7] psl WRITE: 0.01 min
+2008 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2008.nc: 32.3 MB
+2008 TOTAL: 0.32 min
+
+======================================================================
+YEAR 2009
+2009 [1] selected 2920 timesteps
+2009 [2] selection built: 1.5 s
+2009 [3] starting LOAD...
+2009 [3] LOAD done: 6.74 min, 154.0 MB
+2009 [4] source time validation: 0.0 s
+2009 [5] leap/final time processing: 0.0 s
+2009: uas min=-31.415, mean=0.229, max=39.260
+2009: vas min=-41.362, mean=0.168, max=36.556
+2009: psl min=92831.953, mean=101149.281, max=105988.000
+2009 [6] value validation: 0.2 s
+2009 [7] writing uas...
+2009 [7] uas WRITE: 0.01 min
+2009 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2009.nc: 46.0 MB
+2009 [7] writing vas...
+2009 [7] vas WRITE: 0.02 min
+2009 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2009.nc: 46.9 MB
+2009 [7] writing psl...
+2009 [7] psl WRITE: 0.01 min
+2009 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2009.nc: 32.2 MB
+2009 TOTAL: 6.80 min
+
+======================================================================
+YEAR 2010
+2010 [1] selected 2920 timesteps
+2010 [2] selection built: 1.5 s
+2010 [3] starting LOAD...
+2010 [3] LOAD done: 11.78 min, 154.0 MB
+2010 [4] source time validation: 0.0 s
+2010 [5] leap/final time processing: 0.0 s
+2010: uas min=-32.593, mean=0.133, max=37.279
+2010: vas min=-36.860, mean=0.174, max=39.967
+2010: psl min=94837.180, mean=101194.305, max=105915.492
+2010 [6] value validation: 0.1 s
+2010 [7] writing uas...
+2010 [7] uas WRITE: 0.01 min
+2010 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2010.nc: 46.0 MB
+2010 [7] writing vas...
+2010 [7] vas WRITE: 0.01 min
+2010 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2010.nc: 46.9 MB
+2010 [7] writing psl...
+2010 [7] psl WRITE: 0.01 min
+2010 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2010.nc: 32.2 MB
+2010 TOTAL: 11.83 min
+
+======================================================================
+YEAR 2011
+2011 [1] selected 2920 timesteps
+2011 [2] selection built: 1.4 s
+2011 [3] starting LOAD...
+2011 [3] LOAD done: 0.23 min, 154.0 MB
+2011 [4] source time validation: 0.0 s
+2011 [5] leap/final time processing: 0.0 s
+2011: uas min=-34.955, mean=0.154, max=37.315
+2011: vas min=-39.390, mean=0.197, max=50.603
+2011: psl min=94499.242, mean=101191.922, max=106077.195
+2011 [6] value validation: 0.1 s
+2011 [7] writing uas...
+2011 [7] uas WRITE: 0.01 min
+2011 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2011.nc: 46.0 MB
+2011 [7] writing vas...
+2011 [7] vas WRITE: 0.01 min
+2011 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2011.nc: 46.9 MB
+2011 [7] writing psl...
+2011 [7] psl WRITE: 0.01 min
+2011 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2011.nc: 32.2 MB
+2011 TOTAL: 0.29 min
+
+======================================================================
+YEAR 2012
+2012 [1] selected 2920 timesteps
+2012 [2] selection built: 1.4 s
+2012 [3] starting LOAD...
+2012 [3] LOAD done: 7.46 min, 154.0 MB
+2012: SPEEDY leap gap found: 2012-02-28T21 -> 2012-03-01T00
+2012 [4] source time validation: 0.0 s
+2012: inserted 8 records for Feb 29
+2012 [5] leap/final time processing: 0.9 s
+2012: uas min=-34.141, mean=0.020, max=37.931
+2012: vas min=-38.834, mean=0.176, max=38.507
+2012: psl min=94428.547, mean=101251.195, max=105735.867
+2012 [6] value validation: 0.2 s
+2012 [7] writing uas...
+2012 [7] uas WRITE: 0.01 min
+2012 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2012.nc: 46.2 MB
+2012 [7] writing vas...
+2012 [7] vas WRITE: 0.03 min
+2012 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2012.nc: 47.1 MB
+2012 [7] writing psl...
+2012 [7] psl WRITE: 0.01 min
+2012 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2012.nc: 32.3 MB
+2012 TOTAL: 7.55 min
+
+======================================================================
+YEAR 2013
+2013 [1] selected 2920 timesteps
+2013 [2] selection built: 1.4 s
+2013 [3] starting LOAD...
+2013 [3] LOAD done: 6.91 min, 154.0 MB
+2013 [4] source time validation: 0.0 s
+2013 [5] leap/final time processing: 0.0 s
+2013: uas min=-32.768, mean=0.124, max=36.607
+2013: vas min=-40.550, mean=0.190, max=41.362
+2013: psl min=94205.625, mean=101188.867, max=106475.320
+2013 [6] value validation: 0.1 s
+2013 [7] writing uas...
+2013 [7] uas WRITE: 0.01 min
+2013 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2013.nc: 46.0 MB
+2013 [7] writing vas...
+2013 [7] vas WRITE: 0.01 min
+2013 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2013.nc: 46.9 MB
+2013 [7] writing psl...
+2013 [7] psl WRITE: 0.01 min
+2013 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2013.nc: 32.2 MB
+2013 TOTAL: 6.96 min
+
+======================================================================
+YEAR 2014
+2014 [1] selected 2920 timesteps
+2014 [2] selection built: 1.5 s
+2014 [3] starting LOAD...
+2014 [3] LOAD done: 7.37 min, 154.0 MB
+2014 [4] source time validation: 0.0 s
+2014 [5] leap/final time processing: 0.0 s
+2014: uas min=-36.683, mean=0.134, max=39.599
+2014: vas min=-36.036, mean=0.208, max=41.582
+2014: psl min=94702.234, mean=101195.883, max=106081.555
+2014 [6] value validation: 0.1 s
+2014 [7] writing uas...
+2014 [7] uas WRITE: 0.01 min
+2014 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2014.nc: 46.0 MB
+2014 [7] writing vas...
+2014 [7] vas WRITE: 0.01 min
+2014 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2014.nc: 46.9 MB
+2014 [7] writing psl...
+2014 [7] psl WRITE: 0.01 min
+2014 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2014.nc: 32.2 MB
+2014 TOTAL: 7.42 min
+
+======================================================================
+YEAR 2015
+2015 [1] selected 2920 timesteps
+2015 [2] selection built: 1.4 s
+2015 [3] starting LOAD...
+2015 [3] LOAD done: 5.46 min, 154.0 MB
+2015 [4] source time validation: 0.0 s
+2015 [5] leap/final time processing: 0.0 s
+2015: uas min=-37.412, mean=0.088, max=37.198
+2015: vas min=-38.436, mean=0.204, max=40.843
+2015: psl min=94415.570, mean=101222.188, max=105377.969
+2015 [6] value validation: 0.1 s
+2015 [7] writing uas...
+2015 [7] uas WRITE: 0.01 min
+2015 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2015.nc: 46.0 MB
+2015 [7] writing vas...
+2015 [7] vas WRITE: 0.01 min
+2015 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2015.nc: 46.9 MB
+2015 [7] writing psl...
+2015 [7] psl WRITE: 0.01 min
+2015 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2015.nc: 32.2 MB
+2015 TOTAL: 5.50 min
+
+======================================================================
+YEAR 2016
+2016 [1] selected 2920 timesteps
+2016 [2] selection built: 1.4 s
+2016 [3] starting LOAD...
+2016 [3] LOAD done: 0.22 min, 154.0 MB
+2016: SPEEDY leap gap found: 2016-02-28T21 -> 2016-03-01T00
+2016 [4] source time validation: 0.0 s
+2016: inserted 8 records for Feb 29
+2016 [5] leap/final time processing: 1.0 s
+2016: uas min=-34.434, mean=-0.037, max=37.966
+2016: vas min=-41.030, mean=0.212, max=43.180
+2016: psl min=94284.438, mean=101259.055, max=106039.430
+2016 [6] value validation: 0.2 s
+2016 [7] writing uas...
+2016 [7] uas WRITE: 0.01 min
+2016 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2016.nc: 46.2 MB
+2016 [7] writing vas...
+2016 [7] vas WRITE: 0.02 min
+2016 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2016.nc: 47.1 MB
+2016 [7] writing psl...
+2016 [7] psl WRITE: 0.01 min
+2016 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2016.nc: 32.3 MB
+2016 TOTAL: 0.30 min
+
+======================================================================
+YEAR 2017
+2017 [1] selected 2920 timesteps
+2017 [2] selection built: 1.5 s
+2017 [3] starting LOAD...
+2017 [3] LOAD done: 5.16 min, 154.0 MB
+2017 [4] source time validation: 0.0 s
+2017 [5] leap/final time processing: 0.0 s
+2017: uas min=-35.964, mean=0.167, max=41.556
+2017: vas min=-41.169, mean=0.204, max=40.127
+2017: psl min=94105.906, mean=101177.633, max=105700.219
+2017 [6] value validation: 0.1 s
+2017 [7] writing uas...
+2017 [7] uas WRITE: 0.01 min
+2017 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2017.nc: 46.0 MB
+2017 [7] writing vas...
+2017 [7] vas WRITE: 0.07 min
+2017 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2017.nc: 46.9 MB
+2017 [7] writing psl...
+2017 [7] psl WRITE: 0.00 min
+2017 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2017.nc: 32.2 MB
+2017 TOTAL: 5.27 min
+
+======================================================================
+YEAR 2018
+2018 [1] selected 2920 timesteps
+2018 [2] selection built: 1.5 s
+2018 [3] starting LOAD...
+2018 [3] LOAD done: 5.37 min, 154.0 MB
+2018 [4] source time validation: 0.0 s
+2018 [5] leap/final time processing: 0.0 s
+2018: uas min=-36.772, mean=0.153, max=37.825
+2018: vas min=-37.346, mean=0.186, max=46.182
+2018: psl min=94318.281, mean=101186.219, max=105902.516
+2018 [6] value validation: 0.2 s
+2018 [7] writing uas...
+2018 [7] uas WRITE: 0.01 min
+2018 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2018.nc: 46.0 MB
+2018 [7] writing vas...
+2018 [7] vas WRITE: 0.01 min
+2018 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2018.nc: 46.9 MB
+2018 [7] writing psl...
+2018 [7] psl WRITE: 0.01 min
+2018 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2018.nc: 32.2 MB
+2018 TOTAL: 5.43 min
+
+======================================================================
+YEAR 2019
+2019 [1] selected 2920 timesteps
+2019 [2] selection built: 1.5 s
+2019 [3] starting LOAD...
+2019 [3] LOAD done: 8.86 min, 154.0 MB
+2019 [4] source time validation: 0.0 s
+2019 [5] leap/final time processing: 0.0 s
+2019: uas min=-31.897, mean=0.212, max=37.956
+2019: vas min=-36.796, mean=0.208, max=50.878
+2019: psl min=94170.469, mean=101161.734, max=105724.523
+2019 [6] value validation: 0.1 s
+2019 [7] writing uas...
+2019 [7] uas WRITE: 0.01 min
+2019 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2019.nc: 46.0 MB
+2019 [7] writing vas...
+2019 [7] vas WRITE: 0.01 min
+2019 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2019.nc: 46.9 MB
+2019 [7] writing psl...
+2019 [7] psl WRITE: 0.01 min
+2019 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2019.nc: 32.2 MB
+2019 TOTAL: 8.91 min
+
+======================================================================
+YEAR 2020
+2020 [1] selected 2920 timesteps
+2020 [2] selection built: 1.5 s
+2020 [3] starting LOAD...
+2020 [3] LOAD done: 6.92 min, 154.0 MB
+2020: SPEEDY leap gap found: 2020-02-28T21 -> 2020-03-01T00
+2020 [4] source time validation: 0.0 s
+2020: inserted 8 records for Feb 29
+2020 [5] leap/final time processing: 0.9 s
+2020: uas min=-43.749, mean=0.085, max=39.894
+2020: vas min=-39.111, mean=0.202, max=44.959
+2020: psl min=94204.109, mean=101212.164, max=106166.109
+2020 [6] value validation: 0.2 s
+2020 [7] writing uas...
+2020 [7] uas WRITE: 0.01 min
+2020 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2020.nc: 46.2 MB
+2020 [7] writing vas...
+2020 [7] vas WRITE: 0.01 min
+2020 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2020.nc: 47.1 MB
+2020 [7] writing psl...
+2020 [7] psl WRITE: 0.01 min
+2020 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2020.nc: 32.3 MB
+2020 TOTAL: 6.99 min
+
+======================================================================
+YEAR 2021
+2021 [1] selected 2920 timesteps
+2021 [2] selection built: 1.4 s
+2021 [3] starting LOAD...
+2021 [3] LOAD done: 6.95 min, 154.0 MB
+2021 [4] source time validation: 0.0 s
+2021 [5] leap/final time processing: 0.0 s
+2021: uas min=-35.037, mean=0.170, max=38.228
+2021: vas min=-35.828, mean=0.185, max=36.332
+2021: psl min=94804.000, mean=101179.383, max=105713.695
+2021 [6] value validation: 0.1 s
+2021 [7] writing uas...
+2021 [7] uas WRITE: 0.01 min
+2021 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2021.nc: 46.0 MB
+2021 [7] writing vas...
+2021 [7] vas WRITE: 0.01 min
+2021 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2021.nc: 46.9 MB
+2021 [7] writing psl...
+2021 [7] psl WRITE: 0.01 min
+2021 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2021.nc: 32.2 MB
+2021 TOTAL: 7.00 min
+
+======================================================================
+YEAR 2022
+2022 [1] selected 2920 timesteps
+2022 [2] selection built: 1.5 s
+2022 [3] starting LOAD...
+2022 [3] LOAD done: 5.77 min, 154.0 MB
+2022 [4] source time validation: 0.0 s
+2022 [5] leap/final time processing: 0.0 s
+2022: uas min=-35.626, mean=0.065, max=38.151
+2022: vas min=-37.130, mean=0.194, max=46.977
+2022: psl min=93328.984, mean=101234.438, max=105600.039
+2022 [6] value validation: 0.1 s
+2022 [7] writing uas...
+2022 [7] uas WRITE: 0.01 min
+2022 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2022.nc: 46.1 MB
+2022 [7] writing vas...
+2022 [7] vas WRITE: 0.01 min
+2022 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2022.nc: 47.0 MB
+2022 [7] writing psl...
+2022 [7] psl WRITE: 0.01 min
+2022 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2022.nc: 32.2 MB
+2022 TOTAL: 5.82 min
+
+======================================================================
+YEAR 2023
+2023 [1] selected 2920 timesteps
+2023 [2] selection built: 1.5 s
+2023 [3] starting LOAD...
+2023 [3] LOAD done: 6.09 min, 154.0 MB
+2023 [4] source time validation: 0.0 s
+2023 [5] leap/final time processing: 0.0 s
+2023: uas min=-35.088, mean=0.190, max=44.547
+2023: vas min=-39.814, mean=0.200, max=45.563
+2023: psl min=93925.867, mean=101178.406, max=105686.109
+2023 [6] value validation: 0.1 s
+2023 [7] writing uas...
+2023 [7] uas WRITE: 0.01 min
+2023 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2023.nc: 46.0 MB
+2023 [7] writing vas...
+2023 [7] vas WRITE: 0.01 min
+2023 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2023.nc: 47.0 MB
+2023 [7] writing psl...
+2023 [7] psl WRITE: 0.01 min
+2023 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2023.nc: 32.2 MB
+2023 TOTAL: 6.14 min
+
+======================================================================
+YEAR 2024
+2024 [1] selected 2920 timesteps
+2024 [2] selection built: 1.5 s
+2024 [3] starting LOAD...
+2024 [3] LOAD done: 6.97 min, 154.0 MB
+2024: SPEEDY leap gap found: 2024-02-28T21 -> 2024-03-01T00
+2024 [4] source time validation: 0.0 s
+2024: inserted 8 records for Feb 29
+2024 [5] leap/final time processing: 0.8 s
+2024: uas min=-34.307, mean=0.117, max=37.250
+2024: vas min=-42.663, mean=0.179, max=36.094
+2024: psl min=93874.453, mean=101200.266, max=106312.500
+2024 [6] value validation: 0.1 s
+2024 [7] writing uas...
+2024 [7] uas WRITE: 0.01 min
+2024 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2024.nc: 46.2 MB
+2024 [7] writing vas...
+2024 [7] vas WRITE: 0.01 min
+2024 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2024.nc: 47.1 MB
+2024 [7] writing psl...
+2024 [7] psl WRITE: 0.00 min
+2024 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2024.nc: 32.3 MB
+2024 TOTAL: 7.03 min
+
+======================================================================
+YEAR 2025
+2025 [1] selected 2920 timesteps
+2025 [2] selection built: 1.4 s
+2025 [3] starting LOAD...
+2025 [3] LOAD done: 5.30 min, 154.0 MB
+2025 [4] source time validation: 0.0 s
+2025 [5] leap/final time processing: 0.0 s
+2025: uas min=-36.579, mean=0.045, max=38.935
+2025: vas min=-38.545, mean=0.188, max=40.061
+2025: psl min=94378.648, mean=101211.117, max=106020.555
+2025 [6] value validation: 0.1 s
+2025 [7] writing uas...
+2025 [7] uas WRITE: 0.01 min
+2025 [8] uas VERIFY: 0.0 s
+DONE uas_SPEEDY_2025.nc: 46.0 MB
+2025 [7] writing vas...
+2025 [7] vas WRITE: 0.01 min
+2025 [8] vas VERIFY: 0.0 s
+DONE vas_SPEEDY_2025.nc: 46.9 MB
+2025 [7] writing psl...
+2025 [7] psl WRITE: 0.00 min
+2025 [8] psl VERIFY: 0.0 s
+DONE psl_SPEEDY_2025.nc: 32.2 MB
+2025 TOTAL: 5.35 min
+
+ALL YEARS COMPLETED

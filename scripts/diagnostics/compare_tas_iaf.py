@@ -167,8 +167,8 @@ def plot_ts(a, b, title, name):
     plt.close(fig)
 
 plot_ts(jg, sg, "Area-weighted Global-Mean Near-Surface Air T [°C], 1958–2019",
-        "global_mean_T_1958_2019.png")
+        "global_mean_T_1958_2019_co2.png")
 plot_ts(jo, so, "Area-weighted Global-Mean Near-Surface Air T [°C] over Ocean, 1958–2019",
-        "ocean_mean_T_1958_2019.png")
+        "ocean_mean_T_1958_2019_co2.png")
 
 print("DONE")

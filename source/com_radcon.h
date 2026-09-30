@@ -39,10 +39,18 @@ C--:   ABLWV2 = abs. of water vapour in H2O band 2 (strong), for dq = 1 g/kg
 C--:   ABLCL1 = abs. of "thick" clouds in window band (below cloud top) 
 C--:   ABLCL2 = abs. of "thin" upper clouds in window and H2O bands
 C--
+
+cc      COMMON /RADCON/ SOLC,   ALBSEA, ALBICE, ALBSN,
+cc     &                RHCL1,  RHCL2,  QACL,   WPCL,   PMAXCL,
+cc     &                CLSMAX, CLSMINL,GSE_S0, GSE_S1,
+cc     &                ALBCL,  ALBCLS, EPSSW,  EPSLW,  EMISFC, 
+cc     &                ABSDRY, ABSAER, ABSWV1, ABSWV2, ABSCL1, ABSCL2, 
+cc     &                ABLWIN, ABLCO2, ABLCO2_ref,     ABLWV1, ABLWV2, 
+cc     &                ABLCL1, ABLCL2
       COMMON /RADCON/ SOLC,   ALBSEA, ALBICE, ALBSN,
      &                RHCL1,  RHCL2,  QACL,   WPCL,   PMAXCL,
-     &                CLSMAX, CLSMINL,GSE_S0, GSE_S1,
-     &                ALBCL,  ALBCLS, EPSSW,  EPSLW,  EMISFC, 
+     &                CLSMAX, CLSMINL, GSE_S0, GSE_S1,
+     &                ALBCL, DALBCL, ALBCLS, EPSSW,  EPSLW,  EMISFC, 
      &                ABSDRY, ABSAER, ABSWV1, ABSWV2, ABSCL1, ABSCL2, 
      &                ABLWIN, ABLCO2, ABLCO2_ref,     ABLWV1, ABLWV2, 
      &                ABLCL1, ABLCL2

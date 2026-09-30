@@ -137,7 +137,7 @@ for var, cfg in CFG.items():
     c2.set_label(f"{var.upper()} difference [W m$^{{-2}}$]")
     c2.outline.set_visible(False)
 
-    fig.savefig(OUT / f"diff_mean_{var}_1958_2019.png", dpi=150, bbox_inches="tight")
+    fig.savefig(OUT / f"diff_mean_{var}_1958_2019_co2.png", dpi=150, bbox_inches="tight")
     plt.close(fig)
 
     years = np.array(years)
@@ -154,7 +154,7 @@ for var, cfg in CFG.items():
     ax.spines["right"].set_visible(False)
     ax.legend(frameon=False)
     fig.tight_layout()
-    fig.savefig(OUT / f"ocean_mean_{var}_1958_2019.png", dpi=150, bbox_inches="tight")
+    fig.savefig(OUT / f"ocean_mean_{var}_1958_2019_co2.png", dpi=150, bbox_inches="tight")
     plt.close(fig)
 
     print(f"\n{var.upper()} ocean mean")

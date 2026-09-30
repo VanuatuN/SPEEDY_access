@@ -6,10 +6,10 @@ import numpy as np
 import xarray as xr
 from xgrads import open_CtlDataset
 
-SOURCE_CTL = Path("/leonardo_scratch/fast/ICT26_ESP/ntilinin/SPEEDY_access/output/exp_195/attm195.ctl")
+SOURCE_CTL = Path("/leonardo_scratch/fast/ICT26_ESP/ntilinin/SPEEDY_access/output/exp_196/attm196.ctl")
 OUT_DIR = Path("/leonardo_scratch/fast/ICT26_ESP/ntilinin/SPEEDY_access/access_forcing/IAF/")
 
-START_YEAR = 1958
+START_YEAR = 1976
 END_YEAR = 2025
 
 VARMAP = {"U0": "uas", "V0": "vas", "MSLP": "psl"}
