@@ -25,3 +25,6 @@ output/
 
 # SPEEDY restart files
 *.rst
+
+*.err
+*.out
