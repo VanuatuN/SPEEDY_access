@@ -325,34 +325,24 @@ C--   1.  Initialization
 
       DO J=1,NGP
 cfk-- change to ensure only ICLTOP <= NLEV used
-       IF(ICLTOP(J) .LE. NLEV) THEN
-          FREFL(J,ICLTOP(J))= ALBCL*CLOUDC(J)
-       ENDIF
+        IF(ICLTOP(J) .LE. NLEV) THEN
+
+cfk
+cfk       Latitude dependent cloud albedo
+cfk   
+        JLAT=INT(J/NLON+1)
+cfk       function of lat for  60S to 60N
+          IF(CLAT(JLAT) .gt. 0.5) then
+           ALBCL_LAT=ALBCL+DALBCL*ABS(SLAT(JLAT))**4
+          ELSE
+           ALBCL_LAT=ALBCL+DALBCL*ABS(SIN(ACOS(0.5)))**4
+          ENDIF
+cfk          FREFL(J,ICLTOP(J))= ALBCL*CLOUDC(J)
+          FREFL(J,ICLTOP(J))= ALBCL_LAT*CLOUDC(J)
+        ENDIF
 cfk-- end change
         FREFL(J,NLEV)     = ALBCLS*CLSTR(J)
       ENDDO
-
-! Parametrisation for zenith angle of cloud albedo 
-!       DO J=1,NGP
-! cfk-- change to ensure only ICLTOP <= NLEV used
-!         IF(ICLTOP(J) .LE. NLEV) THEN
-
-! cfk
-! cfk       Latitude dependent cloud albedo
-! cfk   
-!         JLAT=INT(J/NLON+1)
-! cfk       function of lat for  60S to 60N
-!           IF(CLAT(JLAT) .gt. 0.5) then
-!            ALBCL_LAT=ALBCL+DALBCL*ABS(SLAT(JLAT))**4
-!           ELSE
-!            ALBCL_LAT=ALBCL+DALBCL*ABS(SIN(ACOS(0.5)))**4
-!           ENDIF
-! cfk          FREFL(J,ICLTOP(J))= ALBCL*CLOUDC(J)
-!           FREFL(J,ICLTOP(J))= ALBCL_LAT*CLOUDC(J)
-!         ENDIF
-! cfk-- end change
-!         FREFL(J,NLEV)     = ALBCLS*CLSTR(J)
-!       ENDDO
 
 C
 C--   2. Shortwave transmissivity:

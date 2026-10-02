@@ -5,6 +5,7 @@ import xarray as xr
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
+from xgrads import open_CtlDataset
 from cartopy.io import shapereader
 from shapely.ops import unary_union
 
@@ -13,9 +14,8 @@ try:
 except ImportError:
     from shapely.vectorized import contains as contains_xy
 
-JRA = Path("/leonardo_work/ICT26_ESP/ntilinin/INPUT/OMIP")
-SPD_OLD = Path("/leonardo_scratch/fast/ICT26_ESP/ntilinin/SPEEDY_access/access_forcing/IAF/SR_npar")
-SPD_NEW = Path("/leonardo_scratch/fast/ICT26_ESP/ntilinin/SPEEDY_access/access_forcing/IAF/SR_par")
+SPD_OLD_CTL = "/leonardo_scratch/fast/ICT26_ESP/ntilinin/SPEEDY_access/output/exp_198/attm198.ctl"
+SPD_NEW_CTL = "/leonardo_work/ICT26_ESP/ntilinin/SPEEDY_forcing/exp_197/attm197.ctl"
 ERA = Path("/leonardo_work/ICT26_ESP/ntilinin/ERA5/")
 OUT = Path("/leonardo_scratch/fast/ICT26_ESP/ntilinin/SPEEDY_access/scripts/figures/IAF_1958_2019")
 OUT.mkdir(parents=True, exist_ok=True)
@@ -24,9 +24,10 @@ YEARS = range(1958, 2021)
 SEASONS = {"JJAS":[6,7,8,9], "DJFM":[12,1,2,3]}
 Y0 = YEARS.start
 Y1 = YEARS.stop - 1
-VAR = "rsds" #for ERA5 switch var name manually avg_sdswrf/avg_snswrf
-VVAR = "net shortwave radiation"
 
+VAR = "SSR"
+ERA_VAR = "avg_snswrf"
+VVAR = "surface net shortwave radiation"
 
 plt.rcParams.update({"font.family":"Nimbus Sans","font.size":12})
 
@@ -53,35 +54,26 @@ def ocean_mask(x):
         dims=("lat","lon")
     )
 
-def jra_file(y):
-    return next(
-        f for f in sorted(JRA.glob(
-            f"{VAR}_input4MIPs_atmosphericState_OMIP_MRI-JRA55-do-*_gr_{y}*.nc"
-        )) if f.stat().st_size>0
-    )
-
-def speedy_old_file(y):
-    return SPD_OLD / f"{VAR}_SPEEDY_{y}.nc"
-
-def speedy_new_file(y):
-    return SPD_NEW / f"{VAR}_SPEEDY_{y}.nc"
-
 def era_file(y):
     return ERA / f"era5_sw_{y}.nc"
 
-def means_3h(path,var):
-    with xr.open_dataset(path,chunks={"time":240}) as ds:
-        x = normlon(standard_coords(ds[var]))
-        counts = {}
-        out = {}
-        for season,months in SEASONS.items():
-            z = x.where(x.time.dt.month.isin(months),drop=True)
-            counts[season] = z.sizes["time"]
-            out[season] = z.mean("time")
-        return xr.Dataset(out).compute(), counts
+def means_speedy(ds,y):
+    x = normlon(standard_coords(ds[VAR]))
+    x = x.where(x.time.dt.year==y,drop=True)
+
+    counts = {}
+    out = {}
+
+    for season,months in SEASONS.items():
+        z = x.where(x.time.dt.month.isin(months),drop=True)
+        counts[season] = z.sizes["time"]
+        out[season] = z.mean("time")
+
+    return xr.Dataset(out).compute(), counts
+
 def means_era(path):
     with xr.open_dataset(path) as ds:
-        x = normlon(standard_coords(ds["avg_sdswrf"]))
+        x = normlon(standard_coords(ds[ERA_VAR]))
         counts = {}
         out = {}
 
@@ -92,7 +84,22 @@ def means_era(path):
 
         return xr.Dataset(out).compute(), counts
 
-names = ["JRA55","ERA5","SPEEDY old","SPEEDY new"]
+print("Opening SPEEDY old")
+spd_old = open_CtlDataset(SPD_OLD_CTL)
+
+print("Opening SPEEDY new")
+spd_new = open_CtlDataset(SPD_NEW_CTL)
+
+print("OLD SSR:",spd_old[VAR])
+print("NEW SSR:",spd_new[VAR])
+
+names = ["ERA5","SPEEDY old","SPEEDY new"]
+
+colors = {
+    "ERA5": "darkorange",
+    "SPEEDY old": "forestgreen",
+    "SPEEDY new": "#CD0000",
+}
 sum_g = {n:{s:None for s in SEASONS} for n in names}
 sum_o = {n:{s:None for s in SEASONS} for n in names}
 count = {n:{s:0 for s in SEASONS} for n in names}
@@ -102,10 +109,9 @@ for y in YEARS:
     print(y,flush=True)
 
     data = {
-        "JRA55": means_3h(jra_file(y),VAR ),
         "ERA5": means_era(era_file(y)),
-        "SPEEDY old": means_3h(speedy_old_file(y),VAR ),
-        "SPEEDY new": means_3h(speedy_new_file(y),VAR),
+        "SPEEDY old": means_speedy(spd_old,y),
+        "SPEEDY new": means_speedy(spd_new,y),
     }
 
     for name,(ds,cnt) in data.items():
@@ -136,7 +142,7 @@ for domain in ["Global","Ocean"]:
     for ax,season in zip(axes,["JJAS","DJFM"]):
         for name in names:
             x = res[domain][season][name]
-            ax.plot(x.lat,x,lw=1.8,label=name)
+            ax.plot(x.lat,x,lw=1.8,label=name,color=colors[name])
 
         ax.set_title(season,fontweight="bold",fontsize=14)
         ax.set_xlabel("Latitude")
@@ -145,18 +151,21 @@ for domain in ["Global","Ocean"]:
         ax.spines["top"].set_visible(True)
         ax.spines["right"].set_visible(True)
 
-    axes[0].set_ylabel(f"{VAR} [W m$^{-2}$]")
+    axes[0].set_ylabel(f"{VAR} [W m$^{{-2}}$]")
     axes[0].legend(frameon=False)
+
     fig.suptitle(
         f"{domain} zonal-mean {VVAR}, {Y0}-{Y1}",
         fontsize=15,fontweight="bold"
     )
+
     fig.tight_layout()
 
     fig.savefig(
-        OUT/f"zonal_{VAR}_{domain.lower()}_JJAS_DJFM_{Y0}_{Y1}.png",
+        OUT/f"zonal_{VAR.lower()}_{domain.lower()}_JJAS_DJFM_{Y0}_{Y1}.png",
         dpi=150,bbox_inches="tight"
     )
+
     plt.close(fig)
 
 print("DONE")

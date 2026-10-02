@@ -1,0 +1,1153 @@
+
+======================================================================
+YEAR 1958
+1958 [1] selected 2920 timesteps
+1958 [2] starting LOAD...
+1958 [2] LOAD: 0.77 min, 102.7 MB
+1958 [3] leap/time: 0.0 s
+1958: rlds min=22.900, mean=288.336, max=503.623
+1958: rsds min=0.000, mean=178.415, max=525.083
+1958 [4] writing rlds...
+1958 [4] rlds WRITE: 0.02 min
+DONE rlds_SPEEDY_1958.nc: 41.3 MB
+1958 [4] writing rsds...
+1958 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1958.nc: 38.1 MB
+1958 TOTAL: 0.83 min
+
+======================================================================
+YEAR 1959
+1959 [1] selected 2920 timesteps
+1959 [2] starting LOAD...
+1959 [2] LOAD: 0.56 min, 102.7 MB
+1959 [3] leap/time: 0.0 s
+1959: rlds min=23.604, mean=288.213, max=498.900
+WARNING 1959: negative rsds=-0.000 W m-2
+1959: rsds min=-0.000, mean=178.808, max=529.677
+1959 [4] writing rlds...
+1959 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1959.nc: 41.3 MB
+1959 [4] writing rsds...
+1959 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1959.nc: 38.1 MB
+1959 TOTAL: 0.60 min
+
+======================================================================
+YEAR 1960
+1960 [1] selected 2920 timesteps
+1960 [2] starting LOAD...
+1960 [2] LOAD: 0.07 min, 102.7 MB
+1960: leap gap found: 1960-02-28T21 -> 1960-03-01T00
+1960: inserted 8 Feb 29 radiation intervals
+1960 [3] leap/time: 0.3 s
+1960: rlds min=24.108, mean=287.848, max=500.163
+1960: rsds min=0.000, mean=178.798, max=529.357
+1960 [4] writing rlds...
+1960 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1960.nc: 41.4 MB
+1960 [4] writing rsds...
+1960 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1960.nc: 38.3 MB
+1960 TOTAL: 0.11 min
+
+======================================================================
+YEAR 1961
+1961 [1] selected 2920 timesteps
+1961 [2] starting LOAD...
+1961 [2] LOAD: 0.07 min, 102.7 MB
+1961 [3] leap/time: 0.0 s
+1961: rlds min=23.073, mean=287.785, max=503.650
+WARNING 1961: negative rsds=-6.572 W m-2
+1961: rsds min=-6.572, mean=178.983, max=525.497
+1961 [4] writing rlds...
+1961 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1961.nc: 41.3 MB
+1961 [4] writing rsds...
+1961 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1961.nc: 38.1 MB
+1961 TOTAL: 0.11 min
+
+======================================================================
+YEAR 1962
+1962 [1] selected 2920 timesteps
+1962 [2] starting LOAD...
+1962 [2] LOAD: 0.30 min, 102.7 MB
+1962 [3] leap/time: 0.0 s
+1962: rlds min=24.817, mean=287.711, max=505.062
+WARNING 1962: negative rsds=-1.369 W m-2
+1962: rsds min=-1.369, mean=179.051, max=529.427
+1962 [4] writing rlds...
+1962 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1962.nc: 41.3 MB
+1962 [4] writing rsds...
+1962 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1962.nc: 38.1 MB
+1962 TOTAL: 0.33 min
+
+======================================================================
+YEAR 1963
+1963 [1] selected 2920 timesteps
+1963 [2] starting LOAD...
+1963 [2] LOAD: 0.26 min, 102.7 MB
+1963 [3] leap/time: 0.0 s
+1963: rlds min=23.406, mean=288.119, max=499.964
+1963: rsds min=0.000, mean=179.002, max=529.863
+1963 [4] writing rlds...
+1963 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1963.nc: 41.3 MB
+1963 [4] writing rsds...
+1963 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1963.nc: 38.1 MB
+1963 TOTAL: 0.30 min
+
+======================================================================
+YEAR 1964
+1964 [1] selected 2920 timesteps
+1964 [2] starting LOAD...
+1964 [2] LOAD: 0.30 min, 102.7 MB
+1964: leap gap found: 1964-02-28T21 -> 1964-03-01T00
+1964: inserted 8 Feb 29 radiation intervals
+1964 [3] leap/time: 0.2 s
+1964: rlds min=23.562, mean=287.471, max=502.798
+WARNING 1964: negative rsds=-4.185 W m-2
+1964: rsds min=-4.185, mean=178.953, max=530.101
+1964 [4] writing rlds...
+1964 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1964.nc: 41.4 MB
+1964 [4] writing rsds...
+1964 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1964.nc: 38.2 MB
+1964 TOTAL: 0.34 min
+
+======================================================================
+YEAR 1965
+1965 [1] selected 2920 timesteps
+1965 [2] starting LOAD...
+1965 [2] LOAD: 0.80 min, 102.7 MB
+1965 [3] leap/time: 0.0 s
+1965: rlds min=24.000, mean=287.253, max=500.846
+1965: rsds min=0.000, mean=178.791, max=530.087
+1965 [4] writing rlds...
+1965 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1965.nc: 41.3 MB
+1965 [4] writing rsds...
+1965 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1965.nc: 38.1 MB
+1965 TOTAL: 0.84 min
+
+======================================================================
+YEAR 1966
+1966 [1] selected 2920 timesteps
+1966 [2] starting LOAD...
+1966 [2] LOAD: 0.64 min, 102.7 MB
+1966 [3] leap/time: 0.0 s
+1966: rlds min=24.471, mean=287.836, max=503.041
+WARNING 1966: negative rsds=-6.622 W m-2
+1966: rsds min=-6.622, mean=178.951, max=530.042
+1966 [4] writing rlds...
+1966 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1966.nc: 41.3 MB
+1966 [4] writing rsds...
+1966 [4] rsds WRITE: 0.04 min
+DONE rsds_SPEEDY_1966.nc: 38.1 MB
+1966 TOTAL: 0.71 min
+
+======================================================================
+YEAR 1967
+1967 [1] selected 2920 timesteps
+1967 [2] starting LOAD...
+1967 [2] LOAD: 0.14 min, 102.7 MB
+1967 [3] leap/time: 0.0 s
+1967: rlds min=23.482, mean=287.766, max=512.680
+WARNING 1967: negative rsds=-5.633 W m-2
+1967: rsds min=-5.633, mean=179.022, max=529.228
+1967 [4] writing rlds...
+1967 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1967.nc: 41.3 MB
+1967 [4] writing rsds...
+1967 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1967.nc: 38.1 MB
+1967 TOTAL: 0.18 min
+
+======================================================================
+YEAR 1968
+1968 [1] selected 2920 timesteps
+1968 [2] starting LOAD...
+1968 [2] LOAD: 0.72 min, 102.7 MB
+1968: leap gap found: 1968-02-28T21 -> 1968-03-01T00
+1968: inserted 8 Feb 29 radiation intervals
+1968 [3] leap/time: 0.2 s
+1968: rlds min=23.390, mean=287.951, max=503.578
+WARNING 1968: negative rsds=-4.939 W m-2
+1968: rsds min=-4.939, mean=179.004, max=530.427
+1968 [4] writing rlds...
+1968 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1968.nc: 41.4 MB
+1968 [4] writing rsds...
+1968 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1968.nc: 38.3 MB
+1968 TOTAL: 0.76 min
+
+======================================================================
+YEAR 1969
+1969 [1] selected 2920 timesteps
+1969 [2] starting LOAD...
+1969 [2] LOAD: 0.07 min, 102.7 MB
+1969 [3] leap/time: 0.0 s
+1969: rlds min=24.849, mean=289.486, max=505.948
+1969: rsds min=0.000, mean=178.313, max=527.728
+1969 [4] writing rlds...
+1969 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1969.nc: 41.3 MB
+1969 [4] writing rsds...
+1969 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1969.nc: 38.1 MB
+1969 TOTAL: 0.11 min
+
+======================================================================
+YEAR 1970
+1970 [1] selected 2920 timesteps
+1970 [2] starting LOAD...
+1970 [2] LOAD: 0.07 min, 102.7 MB
+1970 [3] leap/time: 0.0 s
+1970: rlds min=24.252, mean=288.364, max=498.641
+1970: rsds min=0.000, mean=178.889, max=525.747
+1970 [4] writing rlds...
+1970 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1970.nc: 41.3 MB
+1970 [4] writing rsds...
+1970 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1970.nc: 38.1 MB
+1970 TOTAL: 0.10 min
+
+======================================================================
+YEAR 1971
+1971 [1] selected 2920 timesteps
+1971 [2] starting LOAD...
+1971 [2] LOAD: 0.60 min, 102.7 MB
+1971 [3] leap/time: 0.0 s
+1971: rlds min=23.652, mean=287.200, max=500.503
+1971: rsds min=0.000, mean=179.125, max=530.327
+1971 [4] writing rlds...
+1971 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1971.nc: 41.3 MB
+1971 [4] writing rsds...
+1971 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1971.nc: 38.2 MB
+1971 TOTAL: 0.63 min
+
+======================================================================
+YEAR 1972
+1972 [1] selected 2920 timesteps
+1972 [2] starting LOAD...
+1972 [2] LOAD: 0.33 min, 102.7 MB
+1972: leap gap found: 1972-02-28T21 -> 1972-03-01T00
+1972: inserted 8 Feb 29 radiation intervals
+1972 [3] leap/time: 0.2 s
+1972: rlds min=24.592, mean=288.267, max=495.473
+1972: rsds min=0.000, mean=178.865, max=526.577
+1972 [4] writing rlds...
+1972 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1972.nc: 41.4 MB
+1972 [4] writing rsds...
+1972 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1972.nc: 38.3 MB
+1972 TOTAL: 0.37 min
+
+======================================================================
+YEAR 1973
+1973 [1] selected 2920 timesteps
+1973 [2] starting LOAD...
+1973 [2] LOAD: 1.03 min, 102.7 MB
+1973 [3] leap/time: 0.0 s
+1973: rlds min=23.551, mean=288.928, max=499.054
+WARNING 1973: negative rsds=-10.454 W m-2
+1973: rsds min=-10.454, mean=178.908, max=530.162
+1973 [4] writing rlds...
+1973 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1973.nc: 41.3 MB
+1973 [4] writing rsds...
+1973 [4] rsds WRITE: 0.05 min
+DONE rsds_SPEEDY_1973.nc: 38.1 MB
+1973 TOTAL: 1.11 min
+
+======================================================================
+YEAR 1974
+1974 [1] selected 2920 timesteps
+1974 [2] starting LOAD...
+1974 [2] LOAD: 0.58 min, 102.7 MB
+1974 [3] leap/time: 0.0 s
+1974: rlds min=23.913, mean=288.088, max=504.182
+1974: rsds min=0.000, mean=178.954, max=525.089
+1974 [4] writing rlds...
+1974 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1974.nc: 41.3 MB
+1974 [4] writing rsds...
+1974 [4] rsds WRITE: 0.02 min
+DONE rsds_SPEEDY_1974.nc: 38.2 MB
+1974 TOTAL: 0.62 min
+
+======================================================================
+YEAR 1975
+1975 [1] selected 2920 timesteps
+1975 [2] starting LOAD...
+1975 [2] LOAD: 0.38 min, 102.7 MB
+1975 [3] leap/time: 0.0 s
+1975: rlds min=23.725, mean=287.320, max=501.052
+1975: rsds min=0.000, mean=179.698, max=529.972
+1975 [4] writing rlds...
+1975 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1975.nc: 41.3 MB
+1975 [4] writing rsds...
+1975 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1975.nc: 38.2 MB
+1975 TOTAL: 0.42 min
+
+======================================================================
+YEAR 1976
+1976 [1] selected 2920 timesteps
+1976 [2] starting LOAD...
+1976 [2] LOAD: 6.30 min, 102.7 MB
+1976: leap gap found: 1976-02-28T21 -> 1976-03-01T00
+1976: inserted 8 Feb 29 radiation intervals
+1976 [3] leap/time: 0.2 s
+1976: rlds min=24.154, mean=287.723, max=501.214
+1976: rsds min=0.000, mean=179.332, max=529.457
+1976 [4] writing rlds...
+1976 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1976.nc: 41.4 MB
+1976 [4] writing rsds...
+1976 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1976.nc: 38.3 MB
+1976 TOTAL: 6.34 min
+
+======================================================================
+YEAR 1977
+1977 [1] selected 2920 timesteps
+1977 [2] starting LOAD...
+1977 [2] LOAD: 0.70 min, 102.7 MB
+1977 [3] leap/time: 0.0 s
+1977: rlds min=23.372, mean=288.713, max=501.140
+WARNING 1977: negative rsds=-0.737 W m-2
+1977: rsds min=-0.737, mean=179.276, max=529.844
+1977 [4] writing rlds...
+1977 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1977.nc: 41.3 MB
+1977 [4] writing rsds...
+1977 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1977.nc: 38.1 MB
+1977 TOTAL: 0.75 min
+
+======================================================================
+YEAR 1978
+1978 [1] selected 2920 timesteps
+1978 [2] starting LOAD...
+1978 [2] LOAD: 0.35 min, 102.7 MB
+1978 [3] leap/time: 0.0 s
+1978: rlds min=24.747, mean=288.193, max=496.210
+1978: rsds min=0.000, mean=178.874, max=529.742
+1978 [4] writing rlds...
+1978 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1978.nc: 41.3 MB
+1978 [4] writing rsds...
+1978 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1978.nc: 38.1 MB
+1978 TOTAL: 0.38 min
+
+======================================================================
+YEAR 1979
+1979 [1] selected 2920 timesteps
+1979 [2] starting LOAD...
+1979 [2] LOAD: 0.37 min, 102.7 MB
+1979 [3] leap/time: 0.0 s
+1979: rlds min=24.109, mean=289.903, max=503.526
+1979: rsds min=0.000, mean=178.605, max=527.084
+1979 [4] writing rlds...
+1979 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1979.nc: 41.3 MB
+1979 [4] writing rsds...
+1979 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1979.nc: 38.2 MB
+1979 TOTAL: 0.41 min
+
+======================================================================
+YEAR 1980
+1980 [1] selected 2920 timesteps
+1980 [2] starting LOAD...
+1980 [2] LOAD: 0.82 min, 102.7 MB
+1980: leap gap found: 1980-02-28T21 -> 1980-03-01T00
+1980: inserted 8 Feb 29 radiation intervals
+1980 [3] leap/time: 0.2 s
+1980: rlds min=23.516, mean=289.380, max=505.191
+1980: rsds min=0.000, mean=178.571, max=524.293
+1980 [4] writing rlds...
+1980 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1980.nc: 41.4 MB
+1980 [4] writing rsds...
+1980 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1980.nc: 38.2 MB
+1980 TOTAL: 0.86 min
+
+======================================================================
+YEAR 1981
+1981 [1] selected 2920 timesteps
+1981 [2] starting LOAD...
+1981 [2] LOAD: 0.78 min, 102.7 MB
+1981 [3] leap/time: 0.0 s
+1981: rlds min=24.042, mean=288.688, max=504.911
+1981: rsds min=0.000, mean=179.010, max=525.949
+1981 [4] writing rlds...
+1981 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1981.nc: 41.3 MB
+1981 [4] writing rsds...
+1981 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1981.nc: 38.1 MB
+1981 TOTAL: 0.82 min
+
+======================================================================
+YEAR 1982
+1982 [1] selected 2920 timesteps
+1982 [2] starting LOAD...
+1982 [2] LOAD: 0.91 min, 102.7 MB
+1982 [3] leap/time: 0.0 s
+1982: rlds min=24.442, mean=289.290, max=503.335
+1982: rsds min=0.000, mean=178.678, max=529.817
+1982 [4] writing rlds...
+1982 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1982.nc: 41.3 MB
+1982 [4] writing rsds...
+1982 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1982.nc: 38.1 MB
+1982 TOTAL: 0.96 min
+
+======================================================================
+YEAR 1983
+1983 [1] selected 2920 timesteps
+1983 [2] starting LOAD...
+1983 [2] LOAD: 2.81 min, 102.7 MB
+1983 [3] leap/time: 0.0 s
+1983: rlds min=23.279, mean=289.729, max=501.515
+1983: rsds min=0.000, mean=178.267, max=529.677
+1983 [4] writing rlds...
+1983 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1983.nc: 41.3 MB
+1983 [4] writing rsds...
+1983 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1983.nc: 38.1 MB
+1983 TOTAL: 2.85 min
+
+======================================================================
+YEAR 1984
+1984 [1] selected 2920 timesteps
+1984 [2] starting LOAD...
+1984 [2] LOAD: 0.63 min, 102.7 MB
+1984: leap gap found: 1984-02-28T21 -> 1984-03-01T00
+1984: inserted 8 Feb 29 radiation intervals
+1984 [3] leap/time: 0.2 s
+1984: rlds min=24.150, mean=288.663, max=499.673
+WARNING 1984: negative rsds=-2.610 W m-2
+1984: rsds min=-2.610, mean=178.866, max=525.215
+1984 [4] writing rlds...
+1984 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1984.nc: 41.4 MB
+1984 [4] writing rsds...
+1984 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1984.nc: 38.3 MB
+1984 TOTAL: 0.67 min
+
+======================================================================
+YEAR 1985
+1985 [1] selected 2920 timesteps
+1985 [2] starting LOAD...
+1985 [2] LOAD: 0.82 min, 102.7 MB
+1985 [3] leap/time: 0.0 s
+1985: rlds min=24.119, mean=288.557, max=507.688
+1985: rsds min=0.000, mean=178.724, max=529.633
+1985 [4] writing rlds...
+1985 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1985.nc: 41.3 MB
+1985 [4] writing rsds...
+1985 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1985.nc: 38.1 MB
+1985 TOTAL: 0.86 min
+
+======================================================================
+YEAR 1986
+1986 [1] selected 2920 timesteps
+1986 [2] starting LOAD...
+1986 [2] LOAD: 0.30 min, 102.7 MB
+1986 [3] leap/time: 0.0 s
+1986: rlds min=24.174, mean=289.224, max=505.878
+1986: rsds min=0.000, mean=178.602, max=527.957
+1986 [4] writing rlds...
+1986 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1986.nc: 41.3 MB
+1986 [4] writing rsds...
+1986 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1986.nc: 38.1 MB
+1986 TOTAL: 0.34 min
+
+======================================================================
+YEAR 1987
+1987 [1] selected 2920 timesteps
+1987 [2] starting LOAD...
+1987 [2] LOAD: 0.27 min, 102.7 MB
+1987 [3] leap/time: 0.0 s
+1987: rlds min=24.616, mean=290.668, max=504.544
+1987: rsds min=0.000, mean=178.050, max=526.230
+1987 [4] writing rlds...
+1987 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1987.nc: 41.3 MB
+1987 [4] writing rsds...
+1987 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1987.nc: 38.1 MB
+1987 TOTAL: 0.31 min
+
+======================================================================
+YEAR 1988
+1988 [1] selected 2920 timesteps
+1988 [2] starting LOAD...
+1988 [2] LOAD: 0.36 min, 102.7 MB
+1988: leap gap found: 1988-02-28T21 -> 1988-03-01T00
+1988: inserted 8 Feb 29 radiation intervals
+1988 [3] leap/time: 0.2 s
+1988: rlds min=24.251, mean=290.167, max=501.598
+WARNING 1988: negative rsds=-4.047 W m-2
+1988: rsds min=-4.047, mean=178.544, max=529.421
+1988 [4] writing rlds...
+1988 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1988.nc: 41.4 MB
+1988 [4] writing rsds...
+1988 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1988.nc: 38.2 MB
+1988 TOTAL: 0.39 min
+
+======================================================================
+YEAR 1989
+1989 [1] selected 2920 timesteps
+1989 [2] starting LOAD...
+1989 [2] LOAD: 0.64 min, 102.7 MB
+1989 [3] leap/time: 0.0 s
+1989: rlds min=23.867, mean=289.639, max=503.081
+1989: rsds min=0.000, mean=178.729, max=529.479
+1989 [4] writing rlds...
+1989 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1989.nc: 41.3 MB
+1989 [4] writing rsds...
+1989 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1989.nc: 38.1 MB
+1989 TOTAL: 0.68 min
+
+======================================================================
+YEAR 1990
+1990 [1] selected 2920 timesteps
+1990 [2] starting LOAD...
+1990 [2] LOAD: 0.22 min, 102.7 MB
+1990 [3] leap/time: 0.0 s
+1990: rlds min=24.162, mean=290.381, max=501.894
+WARNING 1990: negative rsds=-3.000 W m-2
+1990: rsds min=-3.000, mean=178.642, max=527.105
+1990 [4] writing rlds...
+1990 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1990.nc: 41.3 MB
+1990 [4] writing rsds...
+1990 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1990.nc: 38.1 MB
+1990 TOTAL: 0.26 min
+
+======================================================================
+YEAR 1991
+1991 [1] selected 2920 timesteps
+1991 [2] starting LOAD...
+1991 [2] LOAD: 0.23 min, 102.7 MB
+1991 [3] leap/time: 0.0 s
+1991: rlds min=23.715, mean=289.813, max=503.665
+1991: rsds min=0.000, mean=178.754, max=526.463
+1991 [4] writing rlds...
+1991 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1991.nc: 41.3 MB
+1991 [4] writing rsds...
+1991 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1991.nc: 38.1 MB
+1991 TOTAL: 0.27 min
+
+======================================================================
+YEAR 1992
+1992 [1] selected 2920 timesteps
+1992 [2] starting LOAD...
+1992 [2] LOAD: 0.07 min, 102.7 MB
+1992: leap gap found: 1992-02-28T21 -> 1992-03-01T00
+1992: inserted 8 Feb 29 radiation intervals
+1992 [3] leap/time: 0.2 s
+1992: rlds min=23.299, mean=290.374, max=520.614
+WARNING 1992: negative rsds=-8.898 W m-2
+1992: rsds min=-8.898, mean=178.612, max=524.429
+1992 [4] writing rlds...
+1992 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1992.nc: 41.4 MB
+1992 [4] writing rsds...
+1992 [4] rsds WRITE: 0.03 min
+DONE rsds_SPEEDY_1992.nc: 38.2 MB
+1992 TOTAL: 0.13 min
+
+======================================================================
+YEAR 1993
+1993 [1] selected 2920 timesteps
+1993 [2] starting LOAD...
+1993 [2] LOAD: 0.12 min, 102.7 MB
+1993 [3] leap/time: 0.0 s
+1993: rlds min=24.289, mean=289.736, max=505.400
+WARNING 1993: negative rsds=-0.002 W m-2
+1993: rsds min=-0.002, mean=178.450, max=528.766
+1993 [4] writing rlds...
+1993 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1993.nc: 41.3 MB
+1993 [4] writing rsds...
+1993 [4] rsds WRITE: 0.09 min
+DONE rsds_SPEEDY_1993.nc: 38.1 MB
+1993 TOTAL: 0.24 min
+
+======================================================================
+YEAR 1994
+1994 [1] selected 2920 timesteps
+1994 [2] starting LOAD...
+1994 [2] LOAD: 0.67 min, 102.7 MB
+1994 [3] leap/time: 0.0 s
+1994: rlds min=24.058, mean=289.854, max=499.689
+WARNING 1994: negative rsds=-0.012 W m-2
+1994: rsds min=-0.012, mean=178.857, max=530.178
+1994 [4] writing rlds...
+1994 [4] rlds WRITE: 0.02 min
+DONE rlds_SPEEDY_1994.nc: 41.3 MB
+1994 [4] writing rsds...
+1994 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1994.nc: 38.1 MB
+1994 TOTAL: 0.71 min
+
+======================================================================
+YEAR 1995
+1995 [1] selected 2920 timesteps
+1995 [2] starting LOAD...
+1995 [2] LOAD: 0.26 min, 102.7 MB
+1995 [3] leap/time: 0.0 s
+1995: rlds min=24.340, mean=290.492, max=513.304
+WARNING 1995: negative rsds=-21.632 W m-2
+1995: rsds min=-21.632, mean=178.219, max=523.917
+1995 [4] writing rlds...
+1995 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1995.nc: 41.3 MB
+1995 [4] writing rsds...
+1995 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1995.nc: 38.1 MB
+1995 TOTAL: 0.30 min
+
+======================================================================
+YEAR 1996
+1996 [1] selected 2920 timesteps
+1996 [2] starting LOAD...
+1996 [2] LOAD: 0.34 min, 102.7 MB
+1996: leap gap found: 1996-02-28T21 -> 1996-03-01T00
+1996: inserted 8 Feb 29 radiation intervals
+1996 [3] leap/time: 0.2 s
+1996: rlds min=22.776, mean=290.949, max=503.693
+WARNING 1996: negative rsds=-2.326 W m-2
+1996: rsds min=-2.326, mean=178.379, max=529.865
+1996 [4] writing rlds...
+1996 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1996.nc: 41.4 MB
+1996 [4] writing rsds...
+1996 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1996.nc: 38.2 MB
+1996 TOTAL: 0.38 min
+
+======================================================================
+YEAR 1997
+1997 [1] selected 2920 timesteps
+1997 [2] starting LOAD...
+1997 [2] LOAD: 0.07 min, 102.7 MB
+1997 [3] leap/time: 0.0 s
+1997: rlds min=24.180, mean=291.479, max=505.054
+WARNING 1997: negative rsds=-2.951 W m-2
+1997: rsds min=-2.951, mean=178.319, max=525.298
+1997 [4] writing rlds...
+1997 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1997.nc: 41.3 MB
+1997 [4] writing rsds...
+1997 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1997.nc: 38.1 MB
+1997 TOTAL: 0.10 min
+
+======================================================================
+YEAR 1998
+1998 [1] selected 2920 timesteps
+1998 [2] starting LOAD...
+1998 [2] LOAD: 0.10 min, 102.7 MB
+1998 [3] leap/time: 0.0 s
+1998: rlds min=23.692, mean=292.244, max=502.224
+1998: rsds min=0.000, mean=178.057, max=524.844
+1998 [4] writing rlds...
+1998 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1998.nc: 41.3 MB
+1998 [4] writing rsds...
+1998 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1998.nc: 38.1 MB
+1998 TOTAL: 0.14 min
+
+======================================================================
+YEAR 1999
+1999 [1] selected 2920 timesteps
+1999 [2] starting LOAD...
+1999 [2] LOAD: 0.35 min, 102.7 MB
+1999 [3] leap/time: 0.0 s
+1999: rlds min=23.973, mean=290.469, max=515.253
+WARNING 1999: negative rsds=-0.791 W m-2
+1999: rsds min=-0.791, mean=178.360, max=529.348
+1999 [4] writing rlds...
+1999 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_1999.nc: 41.3 MB
+1999 [4] writing rsds...
+1999 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_1999.nc: 38.1 MB
+1999 TOTAL: 0.39 min
+
+======================================================================
+YEAR 2000
+2000 [1] selected 2920 timesteps
+2000 [2] starting LOAD...
+2000 [2] LOAD: 0.07 min, 102.7 MB
+2000: leap gap found: 2000-02-28T21 -> 2000-03-01T00
+2000: inserted 8 Feb 29 radiation intervals
+2000 [3] leap/time: 0.2 s
+2000: rlds min=23.797, mean=290.352, max=504.411
+2000: rsds min=0.000, mean=178.946, max=526.538
+2000 [4] writing rlds...
+2000 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2000.nc: 41.4 MB
+2000 [4] writing rsds...
+2000 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2000.nc: 38.3 MB
+2000 TOTAL: 0.11 min
+
+======================================================================
+YEAR 2001
+2001 [1] selected 2920 timesteps
+2001 [2] starting LOAD...
+2001 [2] LOAD: 0.34 min, 102.7 MB
+2001 [3] leap/time: 0.0 s
+2001: rlds min=23.298, mean=290.789, max=505.073
+2001: rsds min=0.000, mean=178.665, max=525.519
+2001 [4] writing rlds...
+2001 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2001.nc: 41.3 MB
+2001 [4] writing rsds...
+2001 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2001.nc: 38.1 MB
+2001 TOTAL: 0.38 min
+
+======================================================================
+YEAR 2002
+2002 [1] selected 2920 timesteps
+2002 [2] starting LOAD...
+2002 [2] LOAD: 0.49 min, 102.7 MB
+2002 [3] leap/time: 0.0 s
+2002: rlds min=23.911, mean=291.389, max=510.083
+2002: rsds min=0.000, mean=178.135, max=530.752
+2002 [4] writing rlds...
+2002 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2002.nc: 41.3 MB
+2002 [4] writing rsds...
+2002 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2002.nc: 38.1 MB
+2002 TOTAL: 0.52 min
+
+======================================================================
+YEAR 2003
+2003 [1] selected 2920 timesteps
+2003 [2] starting LOAD...
+2003 [2] LOAD: 0.58 min, 102.7 MB
+2003 [3] leap/time: 0.0 s
+2003: rlds min=24.179, mean=291.889, max=507.600
+WARNING 2003: negative rsds=-13.563 W m-2
+2003: rsds min=-13.563, mean=178.277, max=529.983
+2003 [4] writing rlds...
+2003 [4] rlds WRITE: 0.02 min
+DONE rlds_SPEEDY_2003.nc: 41.3 MB
+2003 [4] writing rsds...
+2003 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2003.nc: 38.1 MB
+2003 TOTAL: 0.63 min
+
+======================================================================
+YEAR 2004
+2004 [1] selected 2920 timesteps
+2004 [2] starting LOAD...
+2004 [2] LOAD: 0.41 min, 102.7 MB
+2004: leap gap found: 2004-02-28T21 -> 2004-03-01T00
+2004: inserted 8 Feb 29 radiation intervals
+2004 [3] leap/time: 0.3 s
+2004: rlds min=24.731, mean=291.768, max=504.999
+2004: rsds min=0.000, mean=178.297, max=527.621
+2004 [4] writing rlds...
+2004 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2004.nc: 41.4 MB
+2004 [4] writing rsds...
+2004 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2004.nc: 38.2 MB
+2004 TOTAL: 0.45 min
+
+======================================================================
+YEAR 2005
+2005 [1] selected 2920 timesteps
+2005 [2] starting LOAD...
+2005 [2] LOAD: 0.37 min, 102.7 MB
+2005 [3] leap/time: 0.0 s
+2005: rlds min=24.690, mean=292.207, max=511.420
+2005: rsds min=0.000, mean=178.254, max=527.744
+2005 [4] writing rlds...
+2005 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2005.nc: 41.3 MB
+2005 [4] writing rsds...
+2005 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2005.nc: 38.1 MB
+2005 TOTAL: 0.41 min
+
+======================================================================
+YEAR 2006
+2006 [1] selected 2920 timesteps
+2006 [2] starting LOAD...
+2006 [2] LOAD: 0.51 min, 102.7 MB
+2006 [3] leap/time: 0.0 s
+2006: rlds min=24.743, mean=291.660, max=505.798
+2006: rsds min=0.000, mean=178.159, max=529.694
+2006 [4] writing rlds...
+2006 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2006.nc: 41.3 MB
+2006 [4] writing rsds...
+2006 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2006.nc: 38.1 MB
+2006 TOTAL: 0.54 min
+
+======================================================================
+YEAR 2007
+2007 [1] selected 2920 timesteps
+2007 [2] starting LOAD...
+2007 [2] LOAD: 0.75 min, 102.7 MB
+2007 [3] leap/time: 0.0 s
+2007: rlds min=24.493, mean=291.726, max=506.905
+2007: rsds min=0.000, mean=178.593, max=529.424
+2007 [4] writing rlds...
+2007 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2007.nc: 41.3 MB
+2007 [4] writing rsds...
+2007 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2007.nc: 38.1 MB
+2007 TOTAL: 0.79 min
+
+======================================================================
+YEAR 2008
+2008 [1] selected 2920 timesteps
+2008 [2] starting LOAD...
+2008 [2] LOAD: 1.94 min, 102.7 MB
+2008: leap gap found: 2008-02-28T21 -> 2008-03-01T00
+2008: inserted 8 Feb 29 radiation intervals
+2008 [3] leap/time: 0.3 s
+2008: rlds min=24.886, mean=290.932, max=505.790
+2008: rsds min=0.000, mean=178.485, max=527.830
+2008 [4] writing rlds...
+2008 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2008.nc: 41.4 MB
+2008 [4] writing rsds...
+2008 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2008.nc: 38.2 MB
+2008 TOTAL: 1.99 min
+
+======================================================================
+YEAR 2009
+2009 [1] selected 2920 timesteps
+2009 [2] starting LOAD...
+2009 [2] LOAD: 2.69 min, 102.7 MB
+2009 [3] leap/time: 0.0 s
+2009: rlds min=23.617, mean=291.868, max=505.776
+2009: rsds min=0.000, mean=178.305, max=524.076
+2009 [4] writing rlds...
+2009 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2009.nc: 41.3 MB
+2009 [4] writing rsds...
+2009 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2009.nc: 38.1 MB
+2009 TOTAL: 2.73 min
+
+======================================================================
+YEAR 2010
+2010 [1] selected 2920 timesteps
+2010 [2] starting LOAD...
+2010 [2] LOAD: 1.39 min, 102.7 MB
+2010 [3] leap/time: 0.0 s
+2010: rlds min=24.369, mean=292.590, max=506.400
+2010: rsds min=0.000, mean=178.132, max=531.467
+2010 [4] writing rlds...
+2010 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2010.nc: 41.3 MB
+2010 [4] writing rsds...
+2010 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2010.nc: 38.1 MB
+2010 TOTAL: 1.42 min
+
+======================================================================
+YEAR 2011
+2011 [1] selected 2920 timesteps
+2011 [2] starting LOAD...
+2011 [2] LOAD: 1.55 min, 102.7 MB
+2011 [3] leap/time: 0.0 s
+2011: rlds min=23.771, mean=290.949, max=499.939
+WARNING 2011: negative rsds=-1.614 W m-2
+2011: rsds min=-1.614, mean=178.591, max=527.154
+2011 [4] writing rlds...
+2011 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2011.nc: 41.3 MB
+2011 [4] writing rsds...
+2011 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2011.nc: 38.1 MB
+2011 TOTAL: 1.59 min
+
+======================================================================
+YEAR 2012
+2012 [1] selected 2920 timesteps
+2012 [2] starting LOAD...
+2012 [2] LOAD: 0.24 min, 102.7 MB
+2012: leap gap found: 2012-02-28T21 -> 2012-03-01T00
+2012: inserted 8 Feb 29 radiation intervals
+2012 [3] leap/time: 0.3 s
+2012: rlds min=24.163, mean=291.252, max=514.051
+WARNING 2012: negative rsds=-0.814 W m-2
+2012: rsds min=-0.814, mean=177.970, max=525.809
+2012 [4] writing rlds...
+2012 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2012.nc: 41.4 MB
+2012 [4] writing rsds...
+2012 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2012.nc: 38.2 MB
+2012 TOTAL: 0.28 min
+
+======================================================================
+YEAR 2013
+2013 [1] selected 2920 timesteps
+2013 [2] starting LOAD...
+2013 [2] LOAD: 0.34 min, 102.7 MB
+2013 [3] leap/time: 0.0 s
+2013: rlds min=23.397, mean=291.651, max=509.400
+2013: rsds min=0.000, mean=178.526, max=525.738
+2013 [4] writing rlds...
+2013 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2013.nc: 41.3 MB
+2013 [4] writing rsds...
+2013 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2013.nc: 38.1 MB
+2013 TOTAL: 0.37 min
+
+======================================================================
+YEAR 2014
+2014 [1] selected 2920 timesteps
+2014 [2] starting LOAD...
+2014 [2] LOAD: 1.19 min, 102.7 MB
+2014 [3] leap/time: 0.0 s
+2014: rlds min=24.125, mean=292.115, max=508.138
+2014: rsds min=0.000, mean=178.247, max=529.603
+2014 [4] writing rlds...
+2014 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2014.nc: 41.3 MB
+2014 [4] writing rsds...
+2014 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2014.nc: 38.1 MB
+2014 TOTAL: 1.22 min
+
+======================================================================
+YEAR 2015
+2015 [1] selected 2920 timesteps
+2015 [2] starting LOAD...
+2015 [2] LOAD: 0.36 min, 102.7 MB
+2015 [3] leap/time: 0.0 s
+2015: rlds min=25.456, mean=293.206, max=511.960
+2015: rsds min=0.000, mean=178.322, max=525.066
+2015 [4] writing rlds...
+2015 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2015.nc: 41.3 MB
+2015 [4] writing rsds...
+2015 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2015.nc: 38.1 MB
+2015 TOTAL: 0.40 min
+
+======================================================================
+YEAR 2016
+2016 [1] selected 2920 timesteps
+2016 [2] starting LOAD...
+2016 [2] LOAD: 0.88 min, 102.7 MB
+2016: leap gap found: 2016-02-28T21 -> 2016-03-01T00
+2016: inserted 8 Feb 29 radiation intervals
+2016 [3] leap/time: 0.3 s
+2016: rlds min=23.829, mean=293.496, max=515.801
+WARNING 2016: negative rsds=-1.889 W m-2
+2016: rsds min=-1.889, mean=177.954, max=526.083
+2016 [4] writing rlds...
+2016 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2016.nc: 41.4 MB
+2016 [4] writing rsds...
+2016 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2016.nc: 38.2 MB
+2016 TOTAL: 0.92 min
+
+======================================================================
+YEAR 2017
+2017 [1] selected 2920 timesteps
+2017 [2] starting LOAD...
+2017 [2] LOAD: 0.07 min, 102.7 MB
+2017 [3] leap/time: 0.0 s
+2017: rlds min=23.714, mean=292.690, max=513.702
+WARNING 2017: negative rsds=-10.789 W m-2
+2017: rsds min=-10.789, mean=178.297, max=527.965
+2017 [4] writing rlds...
+2017 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2017.nc: 41.3 MB
+2017 [4] writing rsds...
+2017 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2017.nc: 38.1 MB
+2017 TOTAL: 0.11 min
+
+======================================================================
+YEAR 2018
+2018 [1] selected 2920 timesteps
+2018 [2] starting LOAD...
+2018 [2] LOAD: 0.39 min, 102.7 MB
+2018 [3] leap/time: 0.0 s
+2018: rlds min=24.243, mean=292.864, max=502.165
+WARNING 2018: negative rsds=-0.058 W m-2
+2018: rsds min=-0.058, mean=178.157, max=528.814
+2018 [4] writing rlds...
+2018 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2018.nc: 41.3 MB
+2018 [4] writing rsds...
+2018 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2018.nc: 38.1 MB
+2018 TOTAL: 0.43 min
+
+======================================================================
+YEAR 2019
+2019 [1] selected 2920 timesteps
+2019 [2] starting LOAD...
+2019 [2] LOAD: 0.54 min, 102.7 MB
+2019 [3] leap/time: 0.0 s
+2019: rlds min=24.419, mean=293.630, max=515.494
+2019: rsds min=0.000, mean=178.070, max=530.665
+2019 [4] writing rlds...
+2019 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2019.nc: 41.3 MB
+2019 [4] writing rsds...
+2019 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2019.nc: 38.1 MB
+2019 TOTAL: 0.58 min
+
+======================================================================
+YEAR 2020
+2020 [1] selected 2920 timesteps
+2020 [2] starting LOAD...
+2020 [2] LOAD: 0.42 min, 102.7 MB
+2020: leap gap found: 2020-02-28T21 -> 2020-03-01T00
+2020: inserted 8 Feb 29 radiation intervals
+2020 [3] leap/time: 0.3 s
+2020: rlds min=24.848, mean=293.024, max=514.515
+WARNING 2020: negative rsds=-4.960 W m-2
+2020: rsds min=-4.960, mean=178.120, max=528.915
+2020 [4] writing rlds...
+2020 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2020.nc: 41.4 MB
+2020 [4] writing rsds...
+2020 [4] rsds WRITE: 0.02 min
+DONE rsds_SPEEDY_2020.nc: 38.2 MB
+2020 TOTAL: 0.47 min
+
+======================================================================
+YEAR 2021
+2021 [1] selected 2920 timesteps
+2021 [2] starting LOAD...
+2021 [2] LOAD: 0.07 min, 102.7 MB
+2021 [3] leap/time: 0.0 s
+2021: rlds min=24.704, mean=293.229, max=509.521
+2021: rsds min=0.000, mean=177.915, max=522.593
+2021 [4] writing rlds...
+2021 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2021.nc: 41.3 MB
+2021 [4] writing rsds...
+2021 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2021.nc: 38.1 MB
+2021 TOTAL: 0.11 min
+
+======================================================================
+YEAR 2022
+2022 [1] selected 2920 timesteps
+2022 [2] starting LOAD...
+2022 [2] LOAD: 0.91 min, 102.7 MB
+2022 [3] leap/time: 0.0 s
+2022: rlds min=23.555, mean=293.336, max=508.920
+WARNING 2022: negative rsds=-14.949 W m-2
+2022: rsds min=-14.949, mean=178.136, max=528.135
+2022 [4] writing rlds...
+2022 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2022.nc: 41.3 MB
+2022 [4] writing rsds...
+2022 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2022.nc: 38.1 MB
+2022 TOTAL: 0.95 min
+
+======================================================================
+YEAR 2023
+2023 [1] selected 2920 timesteps
+2023 [2] starting LOAD...
+2023 [2] LOAD: 1.01 min, 102.7 MB
+2023 [3] leap/time: 0.0 s
+2023: rlds min=24.087, mean=294.966, max=520.682
+WARNING 2023: negative rsds=-1.503 W m-2
+2023: rsds min=-1.503, mean=177.532, max=523.254
+2023 [4] writing rlds...
+2023 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2023.nc: 41.3 MB
+2023 [4] writing rsds...
+2023 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2023.nc: 38.1 MB
+2023 TOTAL: 1.05 min
+
+======================================================================
+YEAR 2024
+2024 [1] selected 2920 timesteps
+2024 [2] starting LOAD...
+2024 [2] LOAD: 0.67 min, 102.7 MB
+2024: leap gap found: 2024-02-28T21 -> 2024-03-01T00
+2024: inserted 8 Feb 29 radiation intervals
+2024 [3] leap/time: 0.2 s
+2024: rlds min=23.892, mean=295.168, max=510.903
+WARNING 2024: negative rsds=-5.271 W m-2
+2024: rsds min=-5.271, mean=177.246, max=525.731
+2024 [4] writing rlds...
+2024 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2024.nc: 41.4 MB
+2024 [4] writing rsds...
+2024 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2024.nc: 38.2 MB
+2024 TOTAL: 0.71 min
+
+======================================================================
+YEAR 2025
+2025 [1] selected 2920 timesteps
+2025 [2] starting LOAD...
+2025 [2] LOAD: 0.36 min, 102.7 MB
+2025 [3] leap/time: 0.0 s
+2025: rlds min=24.113, mean=293.977, max=510.773
+2025: rsds min=0.000, mean=177.772, max=530.562
+2025 [4] writing rlds...
+2025 [4] rlds WRITE: 0.01 min
+DONE rlds_SPEEDY_2025.nc: 41.3 MB
+2025 [4] writing rsds...
+2025 [4] rsds WRITE: 0.01 min
+DONE rsds_SPEEDY_2025.nc: 38.1 MB
+2025 TOTAL: 0.41 min
+
+ALL YEARS COMPLETED

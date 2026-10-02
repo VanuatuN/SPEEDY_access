@@ -5,7 +5,7 @@
 #SBATCH --partition=dcgp_usr_prod
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
-#SBATCH --cpus-per-task=1
+#SBATCH --cpus-per-task=8
 #SBATCH --time=09:00:00
 #SBATCH --mem=20G
 #SBATCH --output=rad_forcing-%j.out

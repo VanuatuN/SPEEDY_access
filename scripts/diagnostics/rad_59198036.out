@@ -1,0 +1,24 @@
+NODE: lrdn4917.leonardo.local
+PYTHON: /leonardo/home/userexternal/ntilinin/.venvs/ocean2/bin/python
+Python 3.11.7
+Opening SPEEDY old
+Opening SPEEDY new
+OLD SSR: <xarray.DataArray 'SSR' (time: 207320, lat: 48, lon: 96)> Size: 4GB
+dask.array<reshape, shape=(207320, 48, 96), dtype=>f4, chunksize=(1, 48, 96), chunktype=numpy.ndarray>
+Coordinates:
+  * time     (time) datetime64[ns] 2MB 1956-01-01 ... 2026-12-31T21:00:00
+  * lat      (lat) float64 384B -87.16 -83.48 -79.78 ... 79.78 83.48 87.16
+  * lon      (lon) float32 384B 0.0 3.75 7.5 11.25 ... 345.0 348.8 352.5 356.2
+Attributes:
+    comment:  surface shortwave rad.
+    storage:  99
+NEW SSR: <xarray.DataArray 'SSR' (time: 207320, lat: 48, lon: 96)> Size: 4GB
+dask.array<reshape, shape=(207320, 48, 96), dtype=>f4, chunksize=(1, 48, 96), chunktype=numpy.ndarray>
+Coordinates:
+  * time     (time) datetime64[ns] 2MB 1956-01-01 ... 2026-12-31T21:00:00
+  * lat      (lat) float64 384B -87.16 -83.48 -79.78 ... 79.78 83.48 87.16
+  * lon      (lon) float32 384B 0.0 3.75 7.5 11.25 ... 345.0 348.8 352.5 356.2
+Attributes:
+    comment:  surface shortwave rad.
+    storage:  99
+1958
