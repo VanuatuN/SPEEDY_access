@@ -17,43 +17,43 @@ CB=$UT/output/exp_$2
 CC=$UT/ver41.input
 CD=$UT/output/exp_$3
 
-# Edit input files if needed
+# # Edit input files if needed
 
-echo "Do you want to modify the time-stepping parameters (y/n)?"
-read MODIFY
-if [ "$MODIFY" = 'y' ] ; then
-  emacs $UT/ver41.input/cls_instep.h $SA/doc_instep.txt
-fi
+# echo "Do you want to modify the time-stepping parameters (y/n)?"
+# read MODIFY
+# if [ "$MODIFY" = 'y' ] ; then
+#   emacs $UT/ver41.input/cls_instep.h $SA/doc_instep.txt
+# fi
 
-echo "Do you want to modify the dynamics parameters (y/n)?"
-read MODIFY
-if [ "$MODIFY" = 'y' ] ; then
-  emacs $UT/ver41.input/cls_indyns.h $SA/doc_indyns.txt
-fi
+# echo "Do you want to modify the dynamics parameters (y/n)?"
+# read MODIFY
+# if [ "$MODIFY" = 'y' ] ; then
+#   emacs $UT/ver41.input/cls_indyns.h $SA/doc_indyns.txt
+# fi
 
-echo "Do you want to modify the physics parameters (y/n)?"
-read MODIFY
-if [ "$MODIFY" = 'y' ] ; then
-  emacs $UT/ver41.input/cls_inphys.h $SA/doc_inphys.txt
-fi
+# echo "Do you want to modify the physics parameters (y/n)?"
+# read MODIFY
+# if [ "$MODIFY" = 'y' ] ; then
+#   emacs $UT/ver41.input/cls_inphys.h $SA/doc_inphys.txt
+# fi
 
-echo "Do you want to modify the land model parameters (y/n)?"
-read MODIFY
-if [ "$MODIFY" = 'y' ] ; then
-  emacs $UT/ver41.input/cls_inland.h
-fi
+# echo "Do you want to modify the land model parameters (y/n)?"
+# read MODIFY
+# if [ "$MODIFY" = 'y' ] ; then
+#   emacs $UT/ver41.input/cls_inland.h
+# fi
 
-echo "Do you want to modify the sea/ice model parameters (y/n)?"
-read MODIFY
-if [ "$MODIFY" = 'y' ] ; then
-  emacs $UT/ver41.input/cls_insea.h
-fi
+# echo "Do you want to modify the sea/ice model parameters (y/n)?"
+# read MODIFY
+# if [ "$MODIFY" = 'y' ] ; then
+#   emacs $UT/ver41.input/cls_insea.h
+# fi
 
-echo "Do you want to modify the input files (y/n)?"
-read MODIFY
-if [ "$MODIFY" = 'y' ] ; then
-  emacs $UT/ver41.input/inpfiles.s
-fi
+# echo "Do you want to modify the input files (y/n)?"
+# read MODIFY
+# if [ "$MODIFY" = 'y' ] ; then
+#   emacs $UT/ver41.input/inpfiles.s
+# fi
 
 mkdir -p $UT/input/exp_$2
 

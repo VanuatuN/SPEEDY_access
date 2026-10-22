@@ -5,7 +5,7 @@
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=8
 #SBATCH --mem=32G
-#SBATCH -t 00:30:00
+#SBATCH -t 01:30:00
 #SBATCH -J tas
 #SBATCH -o rad_%j.out
 #SBATCH -e rad_%j.err
@@ -22,4 +22,4 @@ echo "NODE: $(hostname)"
 echo "PYTHON: $(which python)"
 python --version
 
-python compare_rad_iaf_sum.py
+python compare_rad_iaf_v2.py

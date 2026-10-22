@@ -3,6 +3,8 @@ C--   Length of the integration and time stepping constants (common ISTEPS)
 
       NMONTS = 852
 
+C--      NMONTS = 480
+C--      NMONTS = 36
       NDAYSL = 0
       NSTEPS = 48
 
@@ -13,7 +15,7 @@ C--   Length of the integration and time stepping constants (common ISTEPS)
       NMONRS = 3
 
       ISEASC = 1
-      IYEAR0 = 1956
+      IYEAR0 = 1957
       IMONT0 = 1
 
       NSTRAD = 4

@@ -44,9 +44,12 @@ c      CLSMAX  = 0.50
       GSE_S0  = 0.25
       GSE_S1  = 0.40
 
-      ALBCL  =  0.41
-      DALBCL=0.2
-      ALBCLS =  0.50
+      ALBCL  =  0.35
+c      ALBCL  =  0.5
+      DALBCL =  0.35
+      ALBCLS =  0.6 
+c      ALBCLS =  0.40
+
 
       EPSSW  =  0.020
 c      EPSSW  =  0.025
@@ -56,7 +59,7 @@ c      EPSSW  =  0.025
       ABSDRY =  0.033
       ABSAER =  0.033
       ABSWV1 =  0.022
-      ABSWV2 = 15.000
+      ABSWV2 = 15.000 
 
       ABSCL1 =  0.015
       ABSCL2 =  0.15

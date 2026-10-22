@@ -25,4 +25,4 @@ echo "NODE: $(hostname)"
 echo "PYTHON: $(which python)"
 python --version
 
-python -u compare_srds_speedy_new_old_iaf.py
+python -u compare_srds_speedy_new_old_iaf_v2.py

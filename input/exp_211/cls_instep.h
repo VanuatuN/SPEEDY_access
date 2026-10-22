@@ -1,0 +1,40 @@
+C--
+C--   Length of the integration and time stepping constants (common ISTEPS)
+
+      NMONTS = 852
+
+C--      NMONTS = 480
+C--      NMONTS = 36
+      NDAYSL = 0
+      NSTEPS = 48
+
+      NSTDIA = 48*5
+      NSTPPR = 6
+      NSTOUT = 6
+      IDOUT  = 0
+      NMONRS = 3
+
+      ISEASC = 1
+      IYEAR0 = 1957
+      IMONT0 = 1
+
+      NSTRAD = 4
+      NSTRDF = 0
+      INDRDF = 1
+
+      ICLAND = 1
+      ICSEA  = 0
+      ICICE  = 1
+      ISSTAN = 1
+  
+
+      ISSTY0 = 1870
+      ISST0  = (IYEAR0-ISSTY0)*12+IMONT0
+
+C--
+C--   Logical flags (common LFLAG1)
+
+      LPPRES = .true.
+      LCO2 = .true.
+
+

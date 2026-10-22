@@ -264,8 +264,9 @@ c         Correction for aerosols over land
       END
 
 
-      SUBROUTINE RADSW (PSA,QA,ICLTOP,CLOUDC,CLSTR,
-     &                  FSFCD,FSFC,FTOP,DFABS)
+      SUBROUTINE RADSW (PSA,QA,ICLTOP,CLOUDC,CLSTR,  
+     &                  FSFCD,FSFC,FTOP,DFABS) 
+
 C--
 C--   SUBROUTINE RADSW (PSA,QA,ICLTOP,CLOUDC,CLSTR,
 C--  &                  FSFCD,FSFC,FTOP,DFABS)
@@ -286,6 +287,7 @@ C     Resolution parameters
 C
       include "atparam.h"
       include "atparam1.h"
+      include "com_sigdt.h"
 C
       PARAMETER ( NLON=IX, NLAT=IL, NLEV=KX, NGP=NLON*NLAT )
 
@@ -303,6 +305,14 @@ C
       REAL FTOP(NGP), FSFC(NGP), FSFCD(NGP), DFABS(NGP,NLEV)
 
       REAL ACLOUD(NGP), PSAZ(NGP), FREFL(NGP,NLEV)
+      
+cnt-- added for vertical velocity on sigma levels    
+      ! REAL SIGMID,FASC,ALBCL_EFF
+      ! REAL SIGASC,DALBASC
+      REAL SIGBELOW,ASCENT,ALBCL_EFF
+      REAL CASC,DALBSUM,FSUM,FCSUM
+      REAL ASUM,CASC_EFF
+cnt-- end added          
 
       EQUIVALENCE (FREFL(1,1),TAU2(1,1,3))
 
@@ -323,37 +333,70 @@ C--   1.  Initialization
        ENDDO
       ENDDO
 
+      CASC=2.5E5
+
       DO J=1,NGP
-cfk-- change to ensure only ICLTOP <= NLEV used
-       IF(ICLTOP(J) .LE. NLEV) THEN
-          FREFL(J,ICLTOP(J))= ALBCL*CLOUDC(J)
-       ENDIF
-cfk-- end change
-        FREFL(J,NLEV)     = ALBCLS*CLSTR(J)
+
+        IF(ICLTOP(J) .LE. NLEV) THEN
+
+cfk--     Latitude dependent cloud albedo
+          JLAT=(J-1)/NLON+1
+
+          IF(CLAT(JLAT) .GT. 0.5) THEN
+            ALBCL_LAT=ALBCL+
+     &                DALBCL*ABS(SLAT(JLAT))**4
+          ELSE
+            ALBCL_LAT=ALBCL+
+     &                DALBCL*ABS(SIN(ACOS(0.5)))**4
+          ENDIF
+
+cnt--     Strongest ascent from cloud-top layer downward,
+cnt--     excluding lowest stratiform-cloud layer
+          ASCMAX=0.0
+
+          DO K=ICLTOP(J),NLEV-1
+            ASCMAX=MAX(ASCMAX,-SIGDT_RAD(J,K))
+          ENDDO
+
+cnt--     Smooth suppression of ASC correction in tropics
+cnt--     Full original correction poleward of 45 deg
+
+          ALAT=ABS(ASIN(SLAT(JLAT)))*180./3.14159265
+
+          IF(ALAT .GE. 45.) THEN
+            ASC_WEIGHT=1.0
+          ELSE
+            XASC=ALAT/45.
+            ASC_WEIGHT=XASC*XASC*(3.-2.*XASC)
+          ENDIF
+
+cnt--     Effective cloud albedo:
+cnt--     ascent correction applied without latitude weighting
+    !       ALBCL_EFF=MIN(1.,
+    !  &                  ALBCL_LAT+
+    !  &                  CASC*ASCMAX)
+          
+
+    !       FREFL(J,ICLTOP(J))=
+    !  &          ALBCL_EFF*CLOUDC(J)
+
+    !     
+
+cnt--     Effective cloud albedo
+          ALBCL_EFF=MIN(1.,
+     &                  ALBCL_LAT+
+     &                  CASC*ASCMAX*ASC_WEIGHT)
+
+          FREFL(J,ICLTOP(J))=
+     &          ALBCL_EFF*CLOUDC(J)
+
+        ENDIF
+
+cnt--     Separate low stratiform cloud reflection
+        FREFL(J,NLEV)=ALBCLS*CLSTR(J)
+
       ENDDO
-
-! Parametrisation for zenith angle of cloud albedo 
-!       DO J=1,NGP
-! cfk-- change to ensure only ICLTOP <= NLEV used
-!         IF(ICLTOP(J) .LE. NLEV) THEN
-
-! cfk
-! cfk       Latitude dependent cloud albedo
-! cfk   
-!         JLAT=INT(J/NLON+1)
-! cfk       function of lat for  60S to 60N
-!           IF(CLAT(JLAT) .gt. 0.5) then
-!            ALBCL_LAT=ALBCL+DALBCL*ABS(SLAT(JLAT))**4
-!           ELSE
-!            ALBCL_LAT=ALBCL+DALBCL*ABS(SIN(ACOS(0.5)))**4
-!           ENDIF
-! cfk          FREFL(J,ICLTOP(J))= ALBCL*CLOUDC(J)
-!           FREFL(J,ICLTOP(J))= ALBCL_LAT*CLOUDC(J)
-!         ENDIF
-! cfk-- end change
-!         FREFL(J,NLEV)     = ALBCLS*CLSTR(J)
-!       ENDDO
-
+cnt-- end change
 C
 C--   2. Shortwave transmissivity:
 C        function of layer mass, ozone (in the statosphere),
