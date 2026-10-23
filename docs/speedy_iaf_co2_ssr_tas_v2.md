@@ -5,6 +5,7 @@
 
 Two cloud albedo correction experiments against JRA55-do atmospheric forcing.
 
+|:--------|------------:|----------------------:|
 | **JRA55-do** | Reference dataset |
 | **SPEEDY old** | Original SPEEDY configuration without cloud albedo corrections |
 | **SPEEDY new** | First cloud albedo correction experiment |
