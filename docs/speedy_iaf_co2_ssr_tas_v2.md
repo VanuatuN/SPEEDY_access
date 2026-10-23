@@ -1,7 +1,7 @@
 
-# SPEEDY Cloud Albedo Experiments
+## SPEEDY Cloud Albedo Experiments
 
-## Comparison with JRA55-do (1958–2019)
+**Comparison with JRA55-do (1958–2019)**
 
 Two cloud albedo correction experiments against JRA55-do atmospheric forcing.
 
