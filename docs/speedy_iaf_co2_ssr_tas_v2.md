@@ -6,8 +6,9 @@
 **SPEEDY new v2** — Updated cloud albedo parameterization  
 
 ![Seasonal RSDS differences](../scripts/figures/IAF_1958_2019/maps_rsds_diff_speedyold_v2_DJFM_JJAS_1958_2019.png)
-![Annual mean RSDS](../scripts/figures/IAF_1958_2019/ocean_global_mean_rsds_speedyold_new_1958_2019.png)
 ![ST climatology](../scripts/figures/IAF_1958_2019/strato_cum_clim.jpg)
+![Annual mean RSDS](../scripts/figures/IAF_1958_2019/ocean_global_mean_rsds_speedyold_new_1958_2019.png)
+
 **Ocean Mean**
 
 | Dataset | RSDS (W/m²) | Bias vs. JRA55 (W/m²) |
