@@ -38,8 +38,6 @@ Two cloud albedo correction experiments against JRA55-do atmospheric forcing.
 | Ocean | +18.748 | +7.643 | **59.2%** |
 | Global | +19.343 | +7.395 | **61.8%** |
 
-## Annual Mean area-weighted Near-Surface Air Temperature (TAS)
-
 ![Annual mean near-surface air temperature](../scripts/figures/IAF_1958_2019/ocean_global_mean_tas_speedyold_new_1958_2019.png)
 
 ### Ocean Mean
