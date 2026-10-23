@@ -5,7 +5,7 @@
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=8
 #SBATCH --mem=32G
-#SBATCH -t 00:30:00
+#SBATCH -t 01:30:00
 #SBATCH -J tas
 #SBATCH -o tas_%j.out
 #SBATCH -e tas_%j.err
