@@ -1,19 +1,14 @@
+**SPEEDY Cloud Albedo Experiments**
 
-# SPEEDY Cloud Albedo Experiments
-
-**Comparison with JRA55-do (1958–2019)**
-
-Two cloud albedo correction experiments against JRA55-do atmospheric forcing.
-
-**JRA55-do** - Reference 
-**SPEEDY old** - Original SPEEDY configuration without cloud albedo corrections 
-**SPEEDY new** - First cloud albedo correction experiment 
-**SPEEDY new v2** - Updated cloud albedo parameterization (ascending, 
+**JRA55-do** — Reference  
+**SPEEDY old** — Original SPEEDY configuration without cloud albedo corrections  
+**SPEEDY new** — First cloud albedo correction experiment  
+**SPEEDY new v2** — Updated cloud albedo parameterization  
 
 ![Seasonal RSDS differences](../scripts/figures/IAF_1958_2019/maps_rsds_diff_speedyold_v2_DJFM_JJAS_1958_2019.png)
 ![Annual mean RSDS](../scripts/figures/IAF_1958_2019/ocean_global_mean_rsds_speedyold_new_1958_2019.png)
 
-### Ocean Mean
+**Ocean Mean**
 
 | Dataset | RSDS (W/m²) | Bias vs. JRA55 (W/m²) |
 |:--------|------------:|----------------------:|
@@ -22,7 +17,7 @@ Two cloud albedo correction experiments against JRA55-do atmospheric forcing.
 | SPEEDY new | 196.047 | +14.213 |
 | **SPEEDY new v2** | **189.476** | **+7.643** |
 
-### Global Mean
+**Global Mean**
 
 | Dataset | RSDS (W/m²) | Bias vs. JRA55 (W/m²) |
 |:--------|------------:|----------------------:|
@@ -31,7 +26,7 @@ Two cloud albedo correction experiments against JRA55-do atmospheric forcing.
 | SPEEDY new | 197.359 | +14.846 |
 | **SPEEDY new v2** | **189.908** | **+7.395** |
 
-### RSDS Bias Reduction
+**RSDS Bias Reduction**
 
 | Region | SPEEDY old (W/m²) | SPEEDY new v2 (W/m²) | Reduction |
 |:-------|------------------:|---------------------:|----------:|
@@ -40,7 +35,7 @@ Two cloud albedo correction experiments against JRA55-do atmospheric forcing.
 
 ![Annual mean near-surface air temperature](../scripts/figures/IAF_1958_2019/ocean_global_mean_tas_speedyold_new_1958_2019.png)
 
-### Ocean Mean
+**Ocean Mean**
 
 | Dataset | Temperature (°C) | Bias vs. JRA55 (°C) |
 |:--------|-----------------:|--------------------:|
@@ -49,7 +44,7 @@ Two cloud albedo correction experiments against JRA55-do atmospheric forcing.
 | SPEEDY new | 17.293 | +0.890 |
 | **SPEEDY new v2** | **17.258** | **+0.854** |
 
-### Global Mean
+**Global Mean**
 
 | Dataset | Temperature (°C) | Bias vs. JRA55 (°C) |
 |:--------|-----------------:|--------------------:|
@@ -58,20 +53,9 @@ Two cloud albedo correction experiments against JRA55-do atmospheric forcing.
 | SPEEDY new | 15.733 | +0.950 |
 | **SPEEDY new v2** | **15.480** | **+0.697** |
 
-### Temperature Bias Reduction
+**Temperature Bias Reduction**
 
 | Region | SPEEDY old (°C) | SPEEDY new v2 (°C) | Reduction |
 |:-------|----------------:|-------------------:|----------:|
 | Ocean | +0.915 | +0.854 | **6.7%** |
 | Global | +1.075 | +0.697 | **35.2%** |
-
-## Summary
-
-The cloud albedo corrections lead to improvements in both downward shortwave radiation and near-surface air temperature.
-
-| Metric | SPEEDY old bias | SPEEDY new v2 bias | Improvement |
-|:-------|----------------:|-------------------:|------------:|
-| Ocean RSDS | +18.748 W/m² | +7.643 W/m² | 59.2% |
-| Global RSDS | +19.343 W/m² | +7.395 W/m² | 61.8% |
-| Ocean TAS | +0.915 °C | +0.854 °C | 6.7% |
-| Global TAS | +1.075 °C | +0.697 °C | 35.2% |
