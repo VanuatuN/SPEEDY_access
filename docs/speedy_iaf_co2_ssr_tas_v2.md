@@ -1,5 +1,5 @@
 
-## SPEEDY Cloud Albedo Experiments
+# SPEEDY Cloud Albedo Experiments
 
 **Comparison with JRA55-do (1958–2019)**
 
