@@ -5,12 +5,10 @@
 
 Two cloud albedo correction experiments against JRA55-do atmospheric forcing.
 
-| Dataset | RSDS (W/m²) | Bias vs. JRA55 (W/m²) |
-|:--------|------------:|----------------------:|
-| **JRA55-do** | Reference dataset |
-| **SPEEDY old** | Original SPEEDY configuration without cloud albedo corrections |
-| **SPEEDY new** | First cloud albedo correction experiment |
-| **SPEEDY new v2** | Updated cloud albedo parameterization |
+**JRA55-do** - Reference 
+**SPEEDY old** - Original SPEEDY configuration without cloud albedo corrections 
+**SPEEDY new** - First cloud albedo correction experiment 
+**SPEEDY new v2** - Updated cloud albedo parameterization (ascending, 
 
 ![Seasonal RSDS differences](../scripts/figures/IAF_1958_2019/maps_rsds_diff_speedyold_v2_DJFM_JJAS_1958_2019.png)
 ![Annual mean RSDS](../scripts/figures/IAF_1958_2019/ocean_global_mean_rsds_speedyold_new_1958_2019.png)
