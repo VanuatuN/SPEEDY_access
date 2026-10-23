@@ -1,15 +1,16 @@
 ![SSR maps](../scripts/figures/IAF_1958_2019/maps_rsds_diff_speedyold_v2_DJFM_JJAS_1958_2019.png)
 ![SSR plots](../scripts/figures/IAF_1958_2019/ocean_global_mean_rsds_speedyold_new_1958_2019.png)
-OCEAN MEAN, 1958–2019
-JRA55-do        : 181.833 W/m2
-SPEEDY old      : 200.581 W/m2
-SPEEDY new      : 196.047 W/m2
-SPEEDY new v2   : 189.476 W/m2
-BIAS SPEEDY old    - JRA: +18.748 W/m2
-BIAS SPEEDY new    - JRA: +14.213 W/m2
-BIAS SPEEDY new v2 - JRA: +7.643 W/m2
 
-GLOBAL MEAN, 1958–2019
+**OCEAN MEAN, 1958–2019**
+JRA55-do        : 181.833 W/m2 \
+SPEEDY old      : 200.581 W/m2 \
+SPEEDY new      : 196.047 W/m2 \ 
+SPEEDY new v2   : 189.476 W/m2 \ 
+BIAS SPEEDY old    - JRA: +18.748 W/m2 \ 
+BIAS SPEEDY new    - JRA: +14.213 W/m2 \ 
+BIAS SPEEDY new v2 - JRA: +7.643 W/m2 \
+
+**GLOBAL MEAN, 1958–2019**
 JRA55-do        : 182.513 W/m2
 SPEEDY old      : 201.856 W/m2
 SPEEDY new      : 197.359 W/m2
